@@ -1,0 +1,17 @@
+[Water]
+name = "Water"
+scaling = 1.4 0.25 1.4
+position = 0.0 -5.75 -5.0
+
+[BSpline]
+name		= "BSpline1"
+scaling		= 1.0 1.0 1.0
+position	= 0.0 3.5 0.0
+rotation	= 0.0 0.0 1.0 90
+particleSystem = "fountain"
+
+[Map]
+name		= "Map"
+scaling		= 1.0 1.0 1.0
+position	= 0.0 10.0 0.0
+rotation	= 0.0 0.0 1.0 0

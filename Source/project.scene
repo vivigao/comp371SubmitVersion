@@ -1,0 +1,25 @@
+[Cube]
+name     = "Cube"
+scaling  = 1.0 1.0 1.0
+position = 0.0 1.0 0.0
+rotation = 0.0 0.0 1.0 180
+animation = "BackAndForth"
+particleSystem = "Fountain"
+
+[Sphere]
+name     = "Sphere"
+position = 10.0 2.0 0.0
+animation = "CycleAnim"
+particleSystem = "Fire"
+
+[BSpline]
+name		= "BSpline1"
+scaling		= 1.0 1.0 1.0
+position	= 0.0 3.5 0.0
+rotation	= 0.0 0.0 1.0 90
+
+[BSpline]
+name		= "BSpline2"
+scaling		= 1.0 1.0 1.0
+position	= 1.0 3.5 0.0
+rotation	= 0.0 0.0 1.0 90

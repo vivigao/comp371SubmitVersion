@@ -1,0 +1,8328 @@
+# This is a comment
+[AnimationKey]
+name = "lineK0"
+position = 9.666667 8.166667 0.210000
+
+[AnimationKey]
+name = "lineK1"
+position = 9.608053 8.251457 0.210556
+
+[AnimationKey]
+name = "lineK2"
+position = 9.543439 8.338820 0.211111
+
+[AnimationKey]
+name = "lineK3"
+position = 9.472993 8.428241 0.211667
+
+[AnimationKey]
+name = "lineK4"
+position = 9.396890 8.519204 0.212222
+
+[AnimationKey]
+name = "lineK5"
+position = 9.315301 8.611197 0.212778
+
+[AnimationKey]
+name = "lineK6"
+position = 9.228395 8.703704 0.213333
+
+[AnimationKey]
+name = "lineK7"
+position = 9.136346 8.796211 0.213889
+
+[AnimationKey]
+name = "lineK8"
+position = 9.039323 8.888204 0.214444
+
+[AnimationKey]
+name = "lineK9"
+position = 8.937500 8.979166 0.215000
+
+[AnimationKey]
+name = "lineK10"
+position = 8.831047 9.068587 0.215556
+
+[AnimationKey]
+name = "lineK11"
+position = 8.720137 9.155951 0.216111
+
+[AnimationKey]
+name = "lineK12"
+position = 8.604939 9.240741 0.216667
+
+[AnimationKey]
+name = "lineK13"
+position = 8.485625 9.322446 0.217222
+
+[AnimationKey]
+name = "lineK14"
+position = 8.362369 9.400549 0.217778
+
+[AnimationKey]
+name = "lineK15"
+position = 8.235340 9.474537 0.218333
+
+[AnimationKey]
+name = "lineK16"
+position = 8.104710 9.543896 0.218889
+
+[AnimationKey]
+name = "lineK17"
+position = 7.970651 9.608110 0.219444
+
+[AnimationKey]
+name = "lineK18"
+position = 7.833333 9.666667 0.220000
+
+[AnimationKey]
+name = "lineK19"
+position = 7.692729 9.719193 0.220692
+
+[AnimationKey]
+name = "lineK20"
+position = 7.548011 9.765889 0.222199
+
+[AnimationKey]
+name = "lineK21"
+position = 7.398148 9.807098 0.225340
+
+[AnimationKey]
+name = "lineK22"
+position = 7.242113 9.843163 0.230928
+
+[AnimationKey]
+name = "lineK23"
+position = 7.078875 9.874428 0.239782
+
+[AnimationKey]
+name = "lineK24"
+position = 6.907407 9.901235 0.252716
+
+[AnimationKey]
+name = "lineK25"
+position = 6.726681 9.923925 0.270548
+
+[AnimationKey]
+name = "lineK26"
+position = 6.535665 9.942844 0.294092
+
+[AnimationKey]
+name = "lineK27"
+position = 6.333333 9.958333 0.324167
+
+[AnimationKey]
+name = "lineK28"
+position = 6.118655 9.970737 0.361587
+
+[AnimationKey]
+name = "lineK29"
+position = 5.890604 9.980396 0.407169
+
+[AnimationKey]
+name = "lineK30"
+position = 5.648149 9.987655 0.461728
+
+[AnimationKey]
+name = "lineK31"
+position = 5.390260 9.992856 0.526083
+
+[AnimationKey]
+name = "lineK32"
+position = 5.115912 9.996343 0.601047
+
+[AnimationKey]
+name = "lineK33"
+position = 4.824074 9.998457 0.687438
+
+[AnimationKey]
+name = "lineK34"
+position = 4.513718 9.999542 0.786072
+
+[AnimationKey]
+name = "lineK35"
+position = 4.183813 9.999943 0.897765
+
+[AnimationKey]
+name = "lineK36"
+position = 3.833333 10.000001 1.023333
+
+[AnimationKey]
+name = "lineK37"
+position = 3.461820 10.000000 1.163187
+
+[AnimationKey]
+name = "lineK38"
+position = 3.071102 9.999999 1.316116
+
+[AnimationKey]
+name = "lineK39"
+position = 2.663580 10.000000 1.480502
+
+[AnimationKey]
+name = "lineK40"
+position = 2.241655 9.999999 1.654728
+
+[AnimationKey]
+name = "lineK41"
+position = 1.807727 10.000000 1.837178
+
+[AnimationKey]
+name = "lineK42"
+position = 1.364197 10.000000 2.026235
+
+[AnimationKey]
+name = "lineK43"
+position = 0.913466 10.000000 2.220281
+
+[AnimationKey]
+name = "lineK44"
+position = 0.457933 10.000000 2.417700
+
+[AnimationKey]
+name = "lineK45"
+position = 0.000000 9.999999 2.616875
+
+[AnimationKey]
+name = "lineK46"
+position = -0.457933 10.000000 2.816189
+
+[AnimationKey]
+name = "lineK47"
+position = -0.913466 10.000001 3.014025
+
+[AnimationKey]
+name = "lineK48"
+position = -1.364197 10.000000 3.208766
+
+[AnimationKey]
+name = "lineK49"
+position = -1.807727 10.000000 3.398794
+
+[AnimationKey]
+name = "lineK50"
+position = -2.241656 10.000001 3.582494
+
+[AnimationKey]
+name = "lineK51"
+position = -2.663580 10.000000 3.758248
+
+[AnimationKey]
+name = "lineK52"
+position = -3.071102 10.000000 3.924440
+
+[AnimationKey]
+name = "lineK53"
+position = -3.461820 10.000000 4.079452
+
+[AnimationKey]
+name = "lineK54"
+position = -3.833333 10.000001 4.221667
+
+[AnimationKey]
+name = "lineK55"
+position = -4.183813 9.999943 4.349867
+
+[AnimationKey]
+name = "lineK56"
+position = -4.513718 9.999542 4.464428
+
+[AnimationKey]
+name = "lineK57"
+position = -4.824074 9.998457 4.566126
+
+[AnimationKey]
+name = "lineK58"
+position = -5.115912 9.996342 4.655736
+
+[AnimationKey]
+name = "lineK59"
+position = -5.390260 9.992855 4.734032
+
+[AnimationKey]
+name = "lineK60"
+position = -5.648149 9.987655 4.801790
+
+[AnimationKey]
+name = "lineK61"
+position = -5.890604 9.980395 4.859785
+
+[AnimationKey]
+name = "lineK62"
+position = -6.118656 9.970736 4.908791
+
+[AnimationKey]
+name = "lineK63"
+position = -6.333333 9.958333 4.949583
+
+[AnimationKey]
+name = "lineK64"
+position = -6.535665 9.942843 4.982938
+
+[AnimationKey]
+name = "lineK65"
+position = -6.726680 9.923926 5.009629
+
+[AnimationKey]
+name = "lineK66"
+position = -6.907408 9.901235 5.030433
+
+[AnimationKey]
+name = "lineK67"
+position = -7.078875 9.874428 5.046122
+
+[AnimationKey]
+name = "lineK68"
+position = -7.242113 9.843164 5.057474
+
+[AnimationKey]
+name = "lineK69"
+position = -7.398149 9.807098 5.065263
+
+[AnimationKey]
+name = "lineK70"
+position = -7.548011 9.765889 5.070263
+
+[AnimationKey]
+name = "lineK71"
+position = -7.692729 9.719193 5.073250
+
+[AnimationKey]
+name = "lineK72"
+position = -7.833334 9.666667 5.075000
+
+[AnimationKey]
+name = "lineK73"
+position = -7.970650 9.608110 5.076047
+
+[AnimationKey]
+name = "lineK74"
+position = -8.104709 9.543896 5.075971
+
+[AnimationKey]
+name = "lineK75"
+position = -8.235339 9.474537 5.074112
+
+[AnimationKey]
+name = "lineK76"
+position = -8.362369 9.400548 5.069810
+
+[AnimationKey]
+name = "lineK77"
+position = -8.485626 9.322445 5.062405
+
+[AnimationKey]
+name = "lineK78"
+position = -8.604939 9.240741 5.051234
+
+[AnimationKey]
+name = "lineK79"
+position = -8.720137 9.155951 5.035641
+
+[AnimationKey]
+name = "lineK80"
+position = -8.831048 9.068587 5.014963
+
+[AnimationKey]
+name = "lineK81"
+position = -8.937499 8.979166 4.988542
+
+[AnimationKey]
+name = "lineK82"
+position = -9.039324 8.888203 4.955715
+
+[AnimationKey]
+name = "lineK83"
+position = -9.136347 8.796211 4.915825
+
+[AnimationKey]
+name = "lineK84"
+position = -9.228395 8.703704 4.868210
+
+[AnimationKey]
+name = "lineK85"
+position = -9.315301 8.611197 4.812210
+
+[AnimationKey]
+name = "lineK86"
+position = -9.396892 8.519204 4.747165
+
+[AnimationKey]
+name = "lineK87"
+position = -9.472994 8.428242 4.672416
+
+[AnimationKey]
+name = "lineK88"
+position = -9.543439 8.338820 4.587300
+
+[AnimationKey]
+name = "lineK89"
+position = -9.608053 8.251457 4.491159
+
+[AnimationKey]
+name = "lineK90"
+position = -9.666667 8.166667 4.383333
+
+[AnimationKey]
+name = "lineK91"
+position = -9.719193 8.084790 4.263487
+
+[AnimationKey]
+name = "lineK92"
+position = -9.765889 8.005486 4.132590
+
+[AnimationKey]
+name = "lineK93"
+position = -9.807098 7.928241 3.991937
+
+[AnimationKey]
+name = "lineK94"
+position = -9.843163 7.852538 3.842822
+
+[AnimationKey]
+name = "lineK95"
+position = -9.874428 7.777864 3.686538
+
+[AnimationKey]
+name = "lineK96"
+position = -9.901235 7.703704 3.524383
+
+[AnimationKey]
+name = "lineK97"
+position = -9.923925 7.629544 3.357649
+
+[AnimationKey]
+name = "lineK98"
+position = -9.942844 7.554869 3.187631
+
+[AnimationKey]
+name = "lineK99"
+position = -9.958333 7.479167 3.015625
+
+[AnimationKey]
+name = "lineK100"
+position = -9.970737 7.401920 2.842924
+
+[AnimationKey]
+name = "lineK101"
+position = -9.980396 7.322617 2.670824
+
+[AnimationKey]
+name = "lineK102"
+position = -9.987655 7.240741 2.500618
+
+[AnimationKey]
+name = "lineK103"
+position = -9.992856 7.155778 2.333601
+
+[AnimationKey]
+name = "lineK104"
+position = -9.996343 7.067215 2.171068
+
+[AnimationKey]
+name = "lineK105"
+position = -9.998457 6.974537 2.014314
+
+[AnimationKey]
+name = "lineK106"
+position = -9.999542 6.877229 1.864632
+
+[AnimationKey]
+name = "lineK107"
+position = -9.999943 6.774777 1.723318
+
+[AnimationKey]
+name = "lineK108"
+position = -10.000001 6.666667 1.591667
+
+[AnimationKey]
+name = "lineK109"
+position = -10.000000 6.552526 1.470769
+
+[AnimationKey]
+name = "lineK110"
+position = -9.999999 6.432555 1.360905
+
+[AnimationKey]
+name = "lineK111"
+position = -10.000000 6.307098 1.262153
+
+[AnimationKey]
+name = "lineK112"
+position = -9.999999 6.176498 1.174589
+
+[AnimationKey]
+name = "lineK113"
+position = -10.000000 6.041095 1.098290
+
+[AnimationKey]
+name = "lineK114"
+position = -10.000000 5.901234 1.033333
+
+[AnimationKey]
+name = "lineK115"
+position = -10.000000 5.757259 0.979797
+
+[AnimationKey]
+name = "lineK116"
+position = -10.000000 5.609510 0.937757
+
+[AnimationKey]
+name = "lineK117"
+position = -9.999999 5.458333 0.907292
+
+[AnimationKey]
+name = "lineK118"
+position = -10.000000 5.304070 0.888477
+
+[AnimationKey]
+name = "lineK119"
+position = -10.000001 5.147062 0.881392
+
+[AnimationKey]
+name = "lineK120"
+position = -10.000000 4.987654 0.886111
+
+[AnimationKey]
+name = "lineK121"
+position = -10.000000 4.826189 0.902713
+
+[AnimationKey]
+name = "lineK122"
+position = -10.000001 4.663009 0.931276
+
+[AnimationKey]
+name = "lineK123"
+position = -10.000000 4.498457 0.971875
+
+[AnimationKey]
+name = "lineK124"
+position = -10.000000 4.332876 1.024588
+
+[AnimationKey]
+name = "lineK125"
+position = -10.000000 4.166610 1.089493
+
+[AnimationKey]
+name = "lineK126"
+position = -10.000001 4.000000 1.166667
+
+[AnimationKey]
+name = "lineK127"
+position = -10.000000 3.833333 1.255850
+
+[AnimationKey]
+name = "lineK128"
+position = -9.999999 3.666667 1.355441
+
+[AnimationKey]
+name = "lineK129"
+position = -10.000000 3.500000 1.463503
+
+[AnimationKey]
+name = "lineK130"
+position = -9.999999 3.333333 1.578098
+
+[AnimationKey]
+name = "lineK131"
+position = -10.000000 3.166667 1.697288
+
+[AnimationKey]
+name = "lineK132"
+position = -10.000000 3.000000 1.819136
+
+[AnimationKey]
+name = "lineK133"
+position = -10.000000 2.833333 1.941704
+
+[AnimationKey]
+name = "lineK134"
+position = -10.000000 2.666667 2.063054
+
+[AnimationKey]
+name = "lineK135"
+position = -9.999999 2.500000 2.181250
+
+[AnimationKey]
+name = "lineK136"
+position = -10.000000 2.333333 2.294353
+
+[AnimationKey]
+name = "lineK137"
+position = -10.000001 2.166667 2.400426
+
+[AnimationKey]
+name = "lineK138"
+position = -10.000000 2.000000 2.497531
+
+[AnimationKey]
+name = "lineK139"
+position = -10.000000 1.833333 2.583731
+
+[AnimationKey]
+name = "lineK140"
+position = -10.000001 1.666667 2.657088
+
+[AnimationKey]
+name = "lineK141"
+position = -10.000000 1.500000 2.715664
+
+[AnimationKey]
+name = "lineK142"
+position = -10.000000 1.333333 2.757522
+
+[AnimationKey]
+name = "lineK143"
+position = -10.000000 1.166667 2.780724
+
+[AnimationKey]
+name = "lineK144"
+position = -10.000001 1.000000 2.783333
+
+[AnimationKey]
+name = "lineK145"
+position = -9.999957 0.833362 2.764160
+
+[AnimationKey]
+name = "lineK146"
+position = -9.999657 0.666895 2.725011
+
+[AnimationKey]
+name = "lineK147"
+position = -9.998842 0.500772 2.668441
+
+[AnimationKey]
+name = "lineK148"
+position = -9.997256 0.335162 2.597005
+
+[AnimationKey]
+name = "lineK149"
+position = -9.994641 0.170239 2.513257
+
+[AnimationKey]
+name = "lineK150"
+position = -9.990741 0.006173 2.419753
+
+[AnimationKey]
+name = "lineK151"
+position = -9.985296 -0.156864 2.319047
+
+[AnimationKey]
+name = "lineK152"
+position = -9.978052 -0.318701 2.213695
+
+[AnimationKey]
+name = "lineK153"
+position = -9.968749 -0.479167 2.106250
+
+[AnimationKey]
+name = "lineK154"
+position = -9.957132 -0.638089 1.999268
+
+[AnimationKey]
+name = "lineK155"
+position = -9.942945 -0.795296 1.895305
+
+[AnimationKey]
+name = "lineK156"
+position = -9.925926 -0.950617 1.796914
+
+[AnimationKey]
+name = "lineK157"
+position = -9.905821 -1.103881 1.706650
+
+[AnimationKey]
+name = "lineK158"
+position = -9.882374 -1.254915 1.627069
+
+[AnimationKey]
+name = "lineK159"
+position = -9.855324 -1.403549 1.560725
+
+[AnimationKey]
+name = "lineK160"
+position = -9.824417 -1.549611 1.510174
+
+[AnimationKey]
+name = "lineK161"
+position = -9.789394 -1.692930 1.477969
+
+[AnimationKey]
+name = "lineK162"
+position = -9.750001 -1.833333 1.466667
+
+[AnimationKey]
+name = "lineK163"
+position = -9.706033 -1.970707 1.477958
+
+[AnimationKey]
+name = "lineK164"
+position = -9.657521 -2.105167 1.510082
+
+[AnimationKey]
+name = "lineK165"
+position = -9.604552 -2.236883 1.560417
+
+[AnimationKey]
+name = "lineK166"
+position = -9.547211 -2.366026 1.626337
+
+[AnimationKey]
+name = "lineK167"
+position = -9.485582 -2.492770 1.705221
+
+[AnimationKey]
+name = "lineK168"
+position = -9.419753 -2.617284 1.794444
+
+[AnimationKey]
+name = "lineK169"
+position = -9.349809 -2.739741 1.891384
+
+[AnimationKey]
+name = "lineK170"
+position = -9.275834 -2.860311 1.993416
+
+[AnimationKey]
+name = "lineK171"
+position = -9.197916 -2.979167 2.097917
+
+[AnimationKey]
+name = "lineK172"
+position = -9.116141 -3.096479 2.202263
+
+[AnimationKey]
+name = "lineK173"
+position = -9.030594 -3.212420 2.303833
+
+[AnimationKey]
+name = "lineK174"
+position = -8.941358 -3.327161 2.400000
+
+[AnimationKey]
+name = "lineK175"
+position = -8.848522 -3.440872 2.488143
+
+[AnimationKey]
+name = "lineK176"
+position = -8.752172 -3.553727 2.565638
+
+[AnimationKey]
+name = "lineK177"
+position = -8.652392 -3.665895 2.629861
+
+[AnimationKey]
+name = "lineK178"
+position = -8.549268 -3.777549 2.678190
+
+[AnimationKey]
+name = "lineK179"
+position = -8.442886 -3.888860 2.707999
+
+[AnimationKey]
+name = "lineK180"
+position = -8.333334 -4.000000 2.716667
+
+[AnimationKey]
+name = "lineK181"
+position = -8.220850 -4.111111 2.702449
+
+[AnimationKey]
+name = "lineK182"
+position = -8.106310 -4.222222 2.667124
+
+[AnimationKey]
+name = "lineK183"
+position = -7.990741 -4.333333 2.613349
+
+[AnimationKey]
+name = "lineK184"
+position = -7.875171 -4.444444 2.543781
+
+[AnimationKey]
+name = "lineK185"
+position = -7.760631 -4.555555 2.461080
+
+[AnimationKey]
+name = "lineK186"
+position = -7.648148 -4.666667 2.367901
+
+[AnimationKey]
+name = "lineK187"
+position = -7.538752 -4.777778 2.266904
+
+[AnimationKey]
+name = "lineK188"
+position = -7.433470 -4.888889 2.160745
+
+[AnimationKey]
+name = "lineK189"
+position = -7.333333 -5.000000 2.052083
+
+[AnimationKey]
+name = "lineK190"
+position = -7.239369 -5.111111 1.943576
+
+[AnimationKey]
+name = "lineK191"
+position = -7.152606 -5.222222 1.837880
+
+[AnimationKey]
+name = "lineK192"
+position = -7.074075 -5.333334 1.737654
+
+[AnimationKey]
+name = "lineK193"
+position = -7.004801 -5.444445 1.645556
+
+[AnimationKey]
+name = "lineK194"
+position = -6.945816 -5.555555 1.564243
+
+[AnimationKey]
+name = "lineK195"
+position = -6.898149 -5.666667 1.496374
+
+[AnimationKey]
+name = "lineK196"
+position = -6.862826 -5.777778 1.444604
+
+[AnimationKey]
+name = "lineK197"
+position = -6.840878 -5.888888 1.411594
+
+[AnimationKey]
+name = "lineK198"
+position = -6.833334 -6.000000 1.400000
+
+[AnimationKey]
+name = "lineK199"
+position = -6.840878 -6.110997 1.411660
+
+[AnimationKey]
+name = "lineK200"
+position = -6.862826 -6.221307 1.445130
+
+[AnimationKey]
+name = "lineK201"
+position = -6.898148 -6.330246 1.498148
+
+[AnimationKey]
+name = "lineK202"
+position = -6.945817 -6.437129 1.568450
+
+[AnimationKey]
+name = "lineK203"
+position = -7.004801 -6.541266 1.653772
+
+[AnimationKey]
+name = "lineK204"
+position = -7.074075 -6.641975 1.751852
+
+[AnimationKey]
+name = "lineK205"
+position = -7.152607 -6.738569 1.860425
+
+[AnimationKey]
+name = "lineK206"
+position = -7.239369 -6.830361 1.977229
+
+[AnimationKey]
+name = "lineK207"
+position = -7.333333 -6.916667 2.100000
+
+[AnimationKey]
+name = "lineK208"
+position = -7.433470 -6.996799 2.226475
+
+[AnimationKey]
+name = "lineK209"
+position = -7.538752 -7.070074 2.354390
+
+[AnimationKey]
+name = "lineK210"
+position = -7.648148 -7.135802 2.481482
+
+[AnimationKey]
+name = "lineK211"
+position = -7.760631 -7.193301 2.605487
+
+[AnimationKey]
+name = "lineK212"
+position = -7.875172 -7.241884 2.724143
+
+[AnimationKey]
+name = "lineK213"
+position = -7.990741 -7.280865 2.835185
+
+[AnimationKey]
+name = "lineK214"
+position = -8.106310 -7.309556 2.936351
+
+[AnimationKey]
+name = "lineK215"
+position = -8.220850 -7.327275 3.025377
+
+[AnimationKey]
+name = "lineK216"
+position = -8.333334 -7.333333 3.100000
+
+[AnimationKey]
+name = "lineK217"
+position = -8.442843 -7.327246 3.158464
+
+[AnimationKey]
+name = "lineK218"
+position = -8.548925 -7.309328 3.201052
+
+[AnimationKey]
+name = "lineK219"
+position = -8.651235 -7.280093 3.228549
+
+[AnimationKey]
+name = "lineK220"
+position = -8.749429 -7.240055 3.241747
+
+[AnimationKey]
+name = "lineK221"
+position = -8.843163 -7.189729 3.241432
+
+[AnimationKey]
+name = "lineK222"
+position = -8.932098 -7.129630 3.228395
+
+[AnimationKey]
+name = "lineK223"
+position = -9.015890 -7.060271 3.203424
+
+[AnimationKey]
+name = "lineK224"
+position = -9.094193 -6.982167 3.167307
+
+[AnimationKey]
+name = "lineK225"
+position = -9.166666 -6.895833 3.120833
+
+[AnimationKey]
+name = "lineK226"
+position = -9.232967 -6.801783 3.064792
+
+[AnimationKey]
+name = "lineK227"
+position = -9.292753 -6.700532 2.999972
+
+[AnimationKey]
+name = "lineK228"
+position = -9.345679 -6.592593 2.927161
+
+[AnimationKey]
+name = "lineK229"
+position = -9.391403 -6.478481 2.847148
+
+[AnimationKey]
+name = "lineK230"
+position = -9.429585 -6.358711 2.760723
+
+[AnimationKey]
+name = "lineK231"
+position = -9.459877 -6.233797 2.668673
+
+[AnimationKey]
+name = "lineK232"
+position = -9.481939 -6.104252 2.571788
+
+[AnimationKey]
+name = "lineK233"
+position = -9.495427 -5.970593 2.470856
+
+[AnimationKey]
+name = "lineK234"
+position = -9.500001 -5.833333 2.366667
+
+[AnimationKey]
+name = "lineK235"
+position = -9.495513 -5.692901 2.260059
+
+[AnimationKey]
+name = "lineK236"
+position = -9.482625 -5.549383 2.152080
+
+[AnimationKey]
+name = "lineK237"
+position = -9.462191 -5.402778 2.043827
+
+[AnimationKey]
+name = "lineK238"
+position = -9.435071 -5.253086 1.936397
+
+[AnimationKey]
+name = "lineK239"
+position = -9.402121 -5.100308 1.830887
+
+[AnimationKey]
+name = "lineK240"
+position = -9.364198 -4.944445 1.728395
+
+[AnimationKey]
+name = "lineK241"
+position = -9.322161 -4.785494 1.630018
+
+[AnimationKey]
+name = "lineK242"
+position = -9.276863 -4.623457 1.536854
+
+[AnimationKey]
+name = "lineK243"
+position = -9.229166 -4.458333 1.450000
+
+[AnimationKey]
+name = "lineK244"
+position = -9.179928 -4.290124 1.370553
+
+[AnimationKey]
+name = "lineK245"
+position = -9.130002 -4.118827 1.299611
+
+[AnimationKey]
+name = "lineK246"
+position = -9.080247 -3.944445 1.238272
+
+[AnimationKey]
+name = "lineK247"
+position = -9.031522 -3.766975 1.187631
+
+[AnimationKey]
+name = "lineK248"
+position = -8.984682 -3.586419 1.148788
+
+[AnimationKey]
+name = "lineK249"
+position = -8.940587 -3.402778 1.122840
+
+[AnimationKey]
+name = "lineK250"
+position = -8.900091 -3.216049 1.110883
+
+[AnimationKey]
+name = "lineK251"
+position = -8.864055 -3.026235 1.114015
+
+[AnimationKey]
+name = "lineK252"
+position = -8.833334 -2.833333 1.133333
+
+[AnimationKey]
+name = "lineK253"
+position = -8.808484 -2.637531 1.169427
+
+[AnimationKey]
+name = "lineK254"
+position = -8.788865 -2.439757 1.220850
+
+[AnimationKey]
+name = "lineK255"
+position = -8.773534 -2.241127 1.285648
+
+[AnimationKey]
+name = "lineK256"
+position = -8.761546 -2.042753 1.361866
+
+[AnimationKey]
+name = "lineK257"
+position = -8.751958 -1.845750 1.447548
+
+[AnimationKey]
+name = "lineK258"
+position = -8.743827 -1.651235 1.540741
+
+[AnimationKey]
+name = "lineK259"
+position = -8.736211 -1.460320 1.639489
+
+[AnimationKey]
+name = "lineK260"
+position = -8.728167 -1.274120 1.741838
+
+[AnimationKey]
+name = "lineK261"
+position = -8.718750 -1.093750 1.845833
+
+[AnimationKey]
+name = "lineK262"
+position = -8.707019 -0.920325 1.949520
+
+[AnimationKey]
+name = "lineK263"
+position = -8.692030 -0.754958 2.050943
+
+[AnimationKey]
+name = "lineK264"
+position = -8.672840 -0.598765 2.148148
+
+[AnimationKey]
+name = "lineK265"
+position = -8.648505 -0.452861 2.239180
+
+[AnimationKey]
+name = "lineK266"
+position = -8.618084 -0.318358 2.322085
+
+[AnimationKey]
+name = "lineK267"
+position = -8.580633 -0.196374 2.394907
+
+[AnimationKey]
+name = "lineK268"
+position = -8.535208 -0.088020 2.455693
+
+[AnimationKey]
+name = "lineK269"
+position = -8.480867 0.005587 2.502486
+
+[AnimationKey]
+name = "lineK270"
+position = -8.416667 0.083333 2.533334
+
+[AnimationKey]
+name = "lineK271"
+position = -8.341921 0.144447 2.546928
+
+[AnimationKey]
+name = "lineK272"
+position = -8.256972 0.189529 2.544559
+
+[AnimationKey]
+name = "lineK273"
+position = -8.162422 0.219522 2.528163
+
+[AnimationKey]
+name = "lineK274"
+position = -8.058871 0.235368 2.499680
+
+[AnimationKey]
+name = "lineK275"
+position = -7.946917 0.238012 2.461045
+
+[AnimationKey]
+name = "lineK276"
+position = -7.827161 0.228395 2.414197
+
+[AnimationKey]
+name = "lineK277"
+position = -7.700203 0.207462 2.361074
+
+[AnimationKey]
+name = "lineK278"
+position = -7.566644 0.176155 2.303612
+
+[AnimationKey]
+name = "lineK279"
+position = -7.427083 0.135417 2.243750
+
+[AnimationKey]
+name = "lineK280"
+position = -7.282122 0.086191 2.183425
+
+[AnimationKey]
+name = "lineK281"
+position = -7.132359 0.029421 2.124574
+
+[AnimationKey]
+name = "lineK282"
+position = -6.978395 -0.033951 2.069136
+
+[AnimationKey]
+name = "lineK283"
+position = -6.820830 -0.102981 2.019047
+
+[AnimationKey]
+name = "lineK284"
+position = -6.660265 -0.176726 1.976246
+
+[AnimationKey]
+name = "lineK285"
+position = -6.497300 -0.254244 1.942670
+
+[AnimationKey]
+name = "lineK286"
+position = -6.332533 -0.334591 1.920256
+
+[AnimationKey]
+name = "lineK287"
+position = -6.166567 -0.416824 1.910943
+
+[AnimationKey]
+name = "lineK288"
+position = -6.000000 -0.500000 1.916667
+
+[AnimationKey]
+name = "lineK289"
+position = -5.833505 -0.583348 1.938692
+
+[AnimationKey]
+name = "lineK290"
+position = -5.668038 -0.666781 1.975583
+
+[AnimationKey]
+name = "lineK291"
+position = -5.504630 -0.750386 2.025231
+
+[AnimationKey]
+name = "lineK292"
+position = -5.344307 -0.834248 2.085528
+
+[AnimationKey]
+name = "lineK293"
+position = -5.188100 -0.918453 2.154364
+
+[AnimationKey]
+name = "lineK294"
+position = -5.037037 -1.003086 2.229630
+
+[AnimationKey]
+name = "lineK295"
+position = -4.892147 -1.088235 2.309216
+
+[AnimationKey]
+name = "lineK296"
+position = -4.754458 -1.173983 2.391015
+
+[AnimationKey]
+name = "lineK297"
+position = -4.625000 -1.260417 2.472917
+
+[AnimationKey]
+name = "lineK298"
+position = -4.504801 -1.347622 2.552812
+
+[AnimationKey]
+name = "lineK299"
+position = -4.394891 -1.435685 2.628592
+
+[AnimationKey]
+name = "lineK300"
+position = -4.296296 -1.524691 2.698148
+
+[AnimationKey]
+name = "lineK301"
+position = -4.210048 -1.614726 2.759371
+
+[AnimationKey]
+name = "lineK302"
+position = -4.137174 -1.705876 2.810151
+
+[AnimationKey]
+name = "lineK303"
+position = -4.078704 -1.798225 2.848380
+
+[AnimationKey]
+name = "lineK304"
+position = -4.035666 -1.891861 2.871948
+
+[AnimationKey]
+name = "lineK305"
+position = -4.009088 -1.986868 2.878747
+
+[AnimationKey]
+name = "lineK306"
+position = -4.000000 -2.083333 2.866667
+
+[AnimationKey]
+name = "lineK307"
+position = -4.009058 -2.181199 2.834250
+
+[AnimationKey]
+name = "lineK308"
+position = -4.035437 -2.279835 2.782647
+
+[AnimationKey]
+name = "lineK309"
+position = -4.077932 -2.378472 2.713657
+
+[AnimationKey]
+name = "lineK310"
+position = -4.135345 -2.476338 2.629081
+
+[AnimationKey]
+name = "lineK311"
+position = -4.206476 -2.572659 2.530718
+
+[AnimationKey]
+name = "lineK312"
+position = -4.290123 -2.666667 2.420370
+
+[AnimationKey]
+name = "lineK313"
+position = -4.385088 -2.757588 2.299837
+
+[AnimationKey]
+name = "lineK314"
+position = -4.490169 -2.844650 2.170919
+
+[AnimationKey]
+name = "lineK315"
+position = -4.604167 -2.927083 2.035417
+
+[AnimationKey]
+name = "lineK316"
+position = -4.725880 -3.004115 1.895130
+
+[AnimationKey]
+name = "lineK317"
+position = -4.854109 -3.074975 1.751860
+
+[AnimationKey]
+name = "lineK318"
+position = -4.987655 -3.138889 1.607407
+
+[AnimationKey]
+name = "lineK319"
+position = -5.125315 -3.195087 1.463572
+
+[AnimationKey]
+name = "lineK320"
+position = -5.265889 -3.242799 1.322154
+
+[AnimationKey]
+name = "lineK321"
+position = -5.408179 -3.281250 1.184954
+
+[AnimationKey]
+name = "lineK322"
+position = -5.550983 -3.309671 1.053772
+
+[AnimationKey]
+name = "lineK323"
+position = -5.693101 -3.327289 0.930410
+
+[AnimationKey]
+name = "lineK324"
+position = -5.833333 -3.333333 0.816667
+
+[AnimationKey]
+name = "lineK325"
+position = -5.970650 -3.327246 0.714052
+
+[AnimationKey]
+name = "lineK326"
+position = -6.104709 -3.309328 0.622908
+
+[AnimationKey]
+name = "lineK327"
+position = -6.235340 -3.280092 0.543287
+
+[AnimationKey]
+name = "lineK328"
+position = -6.362368 -3.240055 0.475240
+
+[AnimationKey]
+name = "lineK329"
+position = -6.485625 -3.189729 0.418819
+
+[AnimationKey]
+name = "lineK330"
+position = -6.604939 -3.129630 0.374074
+
+[AnimationKey]
+name = "lineK331"
+position = -6.720136 -3.060271 0.341058
+
+[AnimationKey]
+name = "lineK332"
+position = -6.831048 -2.982167 0.319822
+
+[AnimationKey]
+name = "lineK333"
+position = -6.937500 -2.895833 0.310417
+
+[AnimationKey]
+name = "lineK334"
+position = -7.039323 -2.801783 0.312894
+
+[AnimationKey]
+name = "lineK335"
+position = -7.136345 -2.700531 0.327306
+
+[AnimationKey]
+name = "lineK336"
+position = -7.228395 -2.592593 0.353704
+
+[AnimationKey]
+name = "lineK337"
+position = -7.315300 -2.478481 0.392138
+
+[AnimationKey]
+name = "lineK338"
+position = -7.396891 -2.358711 0.442661
+
+[AnimationKey]
+name = "lineK339"
+position = -7.472994 -2.233796 0.505324
+
+[AnimationKey]
+name = "lineK340"
+position = -7.543439 -2.104252 0.580178
+
+[AnimationKey]
+name = "lineK341"
+position = -7.608053 -1.970593 0.667275
+
+[AnimationKey]
+name = "lineK342"
+position = -7.666667 -1.833333 0.766667
+
+[AnimationKey]
+name = "lineK343"
+position = -7.719193 -1.692930 0.878069
+
+[AnimationKey]
+name = "lineK344"
+position = -7.765889 -1.549611 0.999863
+
+[AnimationKey]
+name = "lineK345"
+position = -7.807098 -1.403549 1.130093
+
+[AnimationKey]
+name = "lineK346"
+position = -7.843164 -1.254915 1.266804
+
+[AnimationKey]
+name = "lineK347"
+position = -7.874428 -1.103881 1.408042
+
+[AnimationKey]
+name = "lineK348"
+position = -7.901235 -0.950617 1.551852
+
+[AnimationKey]
+name = "lineK349"
+position = -7.923926 -0.795296 1.696279
+
+[AnimationKey]
+name = "lineK350"
+position = -7.942844 -0.638089 1.839369
+
+[AnimationKey]
+name = "lineK351"
+position = -7.958333 -0.479167 1.979167
+
+[AnimationKey]
+name = "lineK352"
+position = -7.970736 -0.318701 2.113717
+
+[AnimationKey]
+name = "lineK353"
+position = -7.980396 -0.156864 2.241067
+
+[AnimationKey]
+name = "lineK354"
+position = -7.987655 0.006173 2.359259
+
+[AnimationKey]
+name = "lineK355"
+position = -7.992855 0.170239 2.466341
+
+[AnimationKey]
+name = "lineK356"
+position = -7.996342 0.335162 2.560357
+
+[AnimationKey]
+name = "lineK357"
+position = -7.998457 0.500771 2.639352
+
+[AnimationKey]
+name = "lineK358"
+position = -7.999543 0.666895 2.701372
+
+[AnimationKey]
+name = "lineK359"
+position = -7.999943 0.833362 2.744462
+
+[AnimationKey]
+name = "lineK360"
+position = -8.000000 1.000000 2.766667
+
+[AnimationKey]
+name = "lineK361"
+position = -8.000000 1.166667 2.766661
+
+[AnimationKey]
+name = "lineK362"
+position = -8.000000 1.333333 2.745633
+
+[AnimationKey]
+name = "lineK363"
+position = -8.000000 1.500000 2.705401
+
+[AnimationKey]
+name = "lineK364"
+position = -8.000000 1.666667 2.647782
+
+[AnimationKey]
+name = "lineK365"
+position = -8.000000 1.833333 2.574594
+
+[AnimationKey]
+name = "lineK366"
+position = -8.000000 2.000000 2.487654
+
+[AnimationKey]
+name = "lineK367"
+position = -8.000000 2.166667 2.388780
+
+[AnimationKey]
+name = "lineK368"
+position = -8.000000 2.333333 2.279789
+
+[AnimationKey]
+name = "lineK369"
+position = -8.000000 2.500000 2.162500
+
+[AnimationKey]
+name = "lineK370"
+position = -8.000000 2.666667 2.038729
+
+[AnimationKey]
+name = "lineK371"
+position = -8.000001 2.833333 1.910294
+
+[AnimationKey]
+name = "lineK372"
+position = -8.000000 3.000000 1.779012
+
+[AnimationKey]
+name = "lineK373"
+position = -8.000000 3.166667 1.646702
+
+[AnimationKey]
+name = "lineK374"
+position = -8.000000 3.333333 1.515180
+
+[AnimationKey]
+name = "lineK375"
+position = -8.000000 3.500000 1.386266
+
+[AnimationKey]
+name = "lineK376"
+position = -8.000000 3.666667 1.261774
+
+[AnimationKey]
+name = "lineK377"
+position = -8.000000 3.833333 1.143524
+
+[AnimationKey]
+name = "lineK378"
+position = -8.000000 4.000000 1.033333
+
+[AnimationKey]
+name = "lineK379"
+position = -7.999957 4.166624 0.932633
+
+[AnimationKey]
+name = "lineK380"
+position = -7.999657 4.332990 0.841312
+
+[AnimationKey]
+name = "lineK381"
+position = -7.998842 4.498842 0.758873
+
+[AnimationKey]
+name = "lineK382"
+position = -7.997256 4.663923 0.684819
+
+[AnimationKey]
+name = "lineK383"
+position = -7.994642 4.827975 0.618653
+
+[AnimationKey]
+name = "lineK384"
+position = -7.990741 4.990741 0.559877
+
+[AnimationKey]
+name = "lineK385"
+position = -7.985297 5.151964 0.507993
+
+[AnimationKey]
+name = "lineK386"
+position = -7.978053 5.311386 0.462506
+
+[AnimationKey]
+name = "lineK387"
+position = -7.968750 5.468750 0.422917
+
+[AnimationKey]
+name = "lineK388"
+position = -7.957133 5.623800 0.388729
+
+[AnimationKey]
+name = "lineK389"
+position = -7.942945 5.776278 0.359445
+
+[AnimationKey]
+name = "lineK390"
+position = -7.925926 5.925926 0.334568
+
+[AnimationKey]
+name = "lineK391"
+position = -7.905822 6.072488 0.313600
+
+[AnimationKey]
+name = "lineK392"
+position = -7.882373 6.215707 0.296045
+
+[AnimationKey]
+name = "lineK393"
+position = -7.855324 6.355324 0.281404
+
+[AnimationKey]
+name = "lineK394"
+position = -7.824417 6.491084 0.269182
+
+[AnimationKey]
+name = "lineK395"
+position = -7.789395 6.622728 0.258879
+
+[AnimationKey]
+name = "lineK396"
+position = -7.750000 6.750000 0.250000
+
+[AnimationKey]
+name = "lineK397"
+position = -7.706061 6.872614 0.242121
+
+[AnimationKey]
+name = "lineK398"
+position = -7.657750 6.990169 0.235117
+
+[AnimationKey]
+name = "lineK399"
+position = -7.605324 7.102237 0.228935
+
+[AnimationKey]
+name = "lineK400"
+position = -7.549039 7.208390 0.223525
+
+[AnimationKey]
+name = "lineK401"
+position = -7.489155 7.308198 0.218836
+
+[AnimationKey]
+name = "lineK402"
+position = -7.425926 7.401235 0.214815
+
+[AnimationKey]
+name = "lineK403"
+position = -7.359611 7.487069 0.211411
+
+[AnimationKey]
+name = "lineK404"
+position = -7.290467 7.565272 0.208573
+
+[AnimationKey]
+name = "lineK405"
+position = -7.218750 7.635416 0.206250
+
+[AnimationKey]
+name = "lineK406"
+position = -7.144719 7.697074 0.204390
+
+[AnimationKey]
+name = "lineK407"
+position = -7.068630 7.749815 0.202941
+
+[AnimationKey]
+name = "lineK408"
+position = -6.990741 7.793210 0.201852
+
+[AnimationKey]
+name = "lineK409"
+position = -6.911309 7.826832 0.201072
+
+[AnimationKey]
+name = "lineK410"
+position = -6.830590 7.850252 0.200549
+
+[AnimationKey]
+name = "lineK411"
+position = -6.748843 7.863041 0.200231
+
+[AnimationKey]
+name = "lineK412"
+position = -6.666324 7.864769 0.200069
+
+[AnimationKey]
+name = "lineK413"
+position = -6.583290 7.855010 0.200009
+
+[AnimationKey]
+name = "lineK414"
+position = -6.500000 7.833334 0.200000
+
+[AnimationKey]
+name = "lineK415"
+position = -6.416709 7.799511 0.200051
+
+[AnimationKey]
+name = "lineK416"
+position = -6.333676 7.754115 0.200412
+
+[AnimationKey]
+name = "lineK417"
+position = -6.251158 7.697917 0.201389
+
+[AnimationKey]
+name = "lineK418"
+position = -6.169410 7.631688 0.203292
+
+[AnimationKey]
+name = "lineK419"
+position = -6.088692 7.556198 0.206430
+
+[AnimationKey]
+name = "lineK420"
+position = -6.009259 7.472222 0.211111
+
+[AnimationKey]
+name = "lineK421"
+position = -5.931370 7.380530 0.217644
+
+[AnimationKey]
+name = "lineK422"
+position = -5.855281 7.281893 0.226337
+
+[AnimationKey]
+name = "lineK423"
+position = -5.781250 7.177083 0.237500
+
+[AnimationKey]
+name = "lineK424"
+position = -5.709534 7.066872 0.251440
+
+[AnimationKey]
+name = "lineK425"
+position = -5.640390 6.952032 0.268467
+
+[AnimationKey]
+name = "lineK426"
+position = -5.574074 6.833333 0.288889
+
+[AnimationKey]
+name = "lineK427"
+position = -5.510846 6.711548 0.313014
+
+[AnimationKey]
+name = "lineK428"
+position = -5.450961 6.587449 0.341152
+
+[AnimationKey]
+name = "lineK429"
+position = -5.394676 6.461806 0.373611
+
+[AnimationKey]
+name = "lineK430"
+position = -5.342250 6.335391 0.410700
+
+[AnimationKey]
+name = "lineK431"
+position = -5.293939 6.208976 0.452726
+
+[AnimationKey]
+name = "lineK432"
+position = -5.250000 6.083333 0.500000
+
+[AnimationKey]
+name = "lineK433"
+position = -5.210606 5.959090 0.552718
+
+[AnimationKey]
+name = "lineK434"
+position = -5.175583 5.836305 0.610631
+
+[AnimationKey]
+name = "lineK435"
+position = -5.144676 5.714891 0.673380
+
+[AnimationKey]
+name = "lineK436"
+position = -5.117627 5.594764 0.740604
+
+[AnimationKey]
+name = "lineK437"
+position = -5.094179 5.475837 0.811943
+
+[AnimationKey]
+name = "lineK438"
+position = -5.074074 5.358025 0.887037
+
+[AnimationKey]
+name = "lineK439"
+position = -5.057056 5.241241 0.965526
+
+[AnimationKey]
+name = "lineK440"
+position = -5.042867 5.125401 1.047051
+
+[AnimationKey]
+name = "lineK441"
+position = -5.031250 5.010417 1.131250
+
+[AnimationKey]
+name = "lineK442"
+position = -5.021948 4.896205 1.217764
+
+[AnimationKey]
+name = "lineK443"
+position = -5.014704 4.782679 1.306233
+
+[AnimationKey]
+name = "lineK444"
+position = -5.009259 4.669753 1.396296
+
+[AnimationKey]
+name = "lineK445"
+position = -5.005358 4.557342 1.487594
+
+[AnimationKey]
+name = "lineK446"
+position = -5.002744 4.445359 1.579767
+
+[AnimationKey]
+name = "lineK447"
+position = -5.001158 4.333719 1.672454
+
+[AnimationKey]
+name = "lineK448"
+position = -5.000343 4.222337 1.765295
+
+[AnimationKey]
+name = "lineK449"
+position = -5.000043 4.111125 1.857930
+
+[AnimationKey]
+name = "lineK450"
+position = -5.000000 4.000000 1.950000
+
+[AnimationKey]
+name = "lineK451"
+position = -5.000000 3.888889 2.041141
+
+[AnimationKey]
+name = "lineK452"
+position = -5.000000 3.777778 2.130978
+
+[AnimationKey]
+name = "lineK453"
+position = -5.000000 3.666667 2.219136
+
+[AnimationKey]
+name = "lineK454"
+position = -5.000000 3.555556 2.305235
+
+[AnimationKey]
+name = "lineK455"
+position = -5.000000 3.444444 2.388900
+
+[AnimationKey]
+name = "lineK456"
+position = -5.000000 3.333333 2.469753
+
+[AnimationKey]
+name = "lineK457"
+position = -5.000000 3.222222 2.547417
+
+[AnimationKey]
+name = "lineK458"
+position = -5.000000 3.111111 2.621514
+
+[AnimationKey]
+name = "lineK459"
+position = -5.000000 3.000000 2.691666
+
+[AnimationKey]
+name = "lineK460"
+position = -5.000000 2.888889 2.757499
+
+[AnimationKey]
+name = "lineK461"
+position = -5.000000 2.777778 2.818633
+
+[AnimationKey]
+name = "lineK462"
+position = -5.000000 2.666667 2.874691
+
+[AnimationKey]
+name = "lineK463"
+position = -5.000000 2.555556 2.925297
+
+[AnimationKey]
+name = "lineK464"
+position = -5.000000 2.444444 2.970073
+
+[AnimationKey]
+name = "lineK465"
+position = -5.000000 2.333333 3.008642
+
+[AnimationKey]
+name = "lineK466"
+position = -5.000000 2.222222 3.040627
+
+[AnimationKey]
+name = "lineK467"
+position = -5.000000 2.111111 3.065650
+
+[AnimationKey]
+name = "lineK468"
+position = -5.000000 2.000000 3.083333
+
+[AnimationKey]
+name = "lineK469"
+position = -5.000000 1.888889 3.093464
+
+[AnimationKey]
+name = "lineK470"
+position = -5.000000 1.777778 3.096479
+
+[AnimationKey]
+name = "lineK471"
+position = -5.000000 1.666667 3.092978
+
+[AnimationKey]
+name = "lineK472"
+position = -5.000000 1.555556 3.083562
+
+[AnimationKey]
+name = "lineK473"
+position = -5.000000 1.444444 3.068830
+
+[AnimationKey]
+name = "lineK474"
+position = -5.000000 1.333333 3.049383
+
+[AnimationKey]
+name = "lineK475"
+position = -5.000000 1.222222 3.025820
+
+[AnimationKey]
+name = "lineK476"
+position = -5.000000 1.111111 2.998743
+
+[AnimationKey]
+name = "lineK477"
+position = -5.000000 1.000000 2.968750
+
+[AnimationKey]
+name = "lineK478"
+position = -5.000000 0.888889 2.936443
+
+[AnimationKey]
+name = "lineK479"
+position = -5.000000 0.777778 2.902421
+
+[AnimationKey]
+name = "lineK480"
+position = -5.000000 0.666667 2.867284
+
+[AnimationKey]
+name = "lineK481"
+position = -5.000000 0.555556 2.831633
+
+[AnimationKey]
+name = "lineK482"
+position = -5.000000 0.444444 2.796068
+
+[AnimationKey]
+name = "lineK483"
+position = -5.000000 0.333333 2.761189
+
+[AnimationKey]
+name = "lineK484"
+position = -5.000000 0.222222 2.727595
+
+[AnimationKey]
+name = "lineK485"
+position = -5.000000 0.111111 2.695888
+
+[AnimationKey]
+name = "lineK486"
+position = -5.000000 0.000000 2.666667
+
+[AnimationKey]
+name = "lineK487"
+position = -5.000000 -0.111111 2.640446
+
+[AnimationKey]
+name = "lineK488"
+position = -5.000000 -0.222222 2.617398
+
+[AnimationKey]
+name = "lineK489"
+position = -5.000000 -0.333333 2.597608
+
+[AnimationKey]
+name = "lineK490"
+position = -5.000000 -0.444444 2.581161
+
+[AnimationKey]
+name = "lineK491"
+position = -5.000000 -0.555556 2.568144
+
+[AnimationKey]
+name = "lineK492"
+position = -5.000000 -0.666667 2.558642
+
+[AnimationKey]
+name = "lineK493"
+position = -5.000000 -0.777778 2.552741
+
+[AnimationKey]
+name = "lineK494"
+position = -5.000000 -0.888889 2.550526
+
+[AnimationKey]
+name = "lineK495"
+position = -5.000000 -1.000000 2.552083
+
+[AnimationKey]
+name = "lineK496"
+position = -5.000000 -1.111111 2.557499
+
+[AnimationKey]
+name = "lineK497"
+position = -5.000000 -1.222222 2.566858
+
+[AnimationKey]
+name = "lineK498"
+position = -5.000000 -1.333333 2.580247
+
+[AnimationKey]
+name = "lineK499"
+position = -5.000000 -1.444444 2.597751
+
+[AnimationKey]
+name = "lineK500"
+position = -5.000000 -1.555556 2.619456
+
+[AnimationKey]
+name = "lineK501"
+position = -5.000000 -1.666667 2.645448
+
+[AnimationKey]
+name = "lineK502"
+position = -5.000000 -1.777778 2.675812
+
+[AnimationKey]
+name = "lineK503"
+position = -5.000000 -1.888889 2.710634
+
+[AnimationKey]
+name = "lineK504"
+position = -5.000000 -2.000000 2.750000
+
+[AnimationKey]
+name = "lineK505"
+position = -5.000000 -2.111111 2.793882
+
+[AnimationKey]
+name = "lineK506"
+position = -5.000000 -2.222222 2.841792
+
+[AnimationKey]
+name = "lineK507"
+position = -5.000000 -2.333333 2.893132
+
+[AnimationKey]
+name = "lineK508"
+position = -5.000000 -2.444444 2.947302
+
+[AnimationKey]
+name = "lineK509"
+position = -5.000000 -2.555555 3.003701
+
+[AnimationKey]
+name = "lineK510"
+position = -5.000000 -2.666667 3.061728
+
+[AnimationKey]
+name = "lineK511"
+position = -5.000000 -2.777778 3.120785
+
+[AnimationKey]
+name = "lineK512"
+position = -5.000000 -2.888889 3.180269
+
+[AnimationKey]
+name = "lineK513"
+position = -5.000000 -3.000000 3.239583
+
+[AnimationKey]
+name = "lineK514"
+position = -5.000000 -3.111111 3.298125
+
+[AnimationKey]
+name = "lineK515"
+position = -5.000000 -3.222222 3.355295
+
+[AnimationKey]
+name = "lineK516"
+position = -5.000000 -3.333333 3.410494
+
+[AnimationKey]
+name = "lineK517"
+position = -5.000000 -3.444444 3.463120
+
+[AnimationKey]
+name = "lineK518"
+position = -5.000000 -3.555556 3.512574
+
+[AnimationKey]
+name = "lineK519"
+position = -5.000000 -3.666667 3.558256
+
+[AnimationKey]
+name = "lineK520"
+position = -5.000000 -3.777778 3.599566
+
+[AnimationKey]
+name = "lineK521"
+position = -5.000000 -3.888889 3.635902
+
+[AnimationKey]
+name = "lineK522"
+position = -5.000000 -4.000000 3.666667
+
+[AnimationKey]
+name = "lineK523"
+position = -5.000000 -4.111111 3.691472
+
+[AnimationKey]
+name = "lineK524"
+position = -5.000000 -4.222222 3.710791
+
+[AnimationKey]
+name = "lineK525"
+position = -5.000000 -4.333333 3.725309
+
+[AnimationKey]
+name = "lineK526"
+position = -5.000000 -4.444444 3.735711
+
+[AnimationKey]
+name = "lineK527"
+position = -5.000000 -4.555555 3.742684
+
+[AnimationKey]
+name = "lineK528"
+position = -5.000000 -4.666667 3.746914
+
+[AnimationKey]
+name = "lineK529"
+position = -5.000000 -4.777778 3.749086
+
+[AnimationKey]
+name = "lineK530"
+position = -5.000000 -4.888889 3.749886
+
+[AnimationKey]
+name = "lineK531"
+position = -5.000000 -5.000000 3.750000
+
+[AnimationKey]
+name = "lineK532"
+position = -5.000000 -5.111111 3.750114
+
+[AnimationKey]
+name = "lineK533"
+position = -5.000000 -5.222222 3.750915
+
+[AnimationKey]
+name = "lineK534"
+position = -5.000000 -5.333334 3.753087
+
+[AnimationKey]
+name = "lineK535"
+position = -5.000000 -5.444445 3.757316
+
+[AnimationKey]
+name = "lineK536"
+position = -5.000000 -5.555555 3.764289
+
+[AnimationKey]
+name = "lineK537"
+position = -5.000000 -5.666667 3.774692
+
+[AnimationKey]
+name = "lineK538"
+position = -5.000000 -5.777778 3.789209
+
+[AnimationKey]
+name = "lineK539"
+position = -5.000000 -5.888888 3.808528
+
+[AnimationKey]
+name = "lineK540"
+position = -5.000000 -6.000000 3.833333
+
+[AnimationKey]
+name = "lineK541"
+position = -4.999957 -6.111096 3.864097
+
+[AnimationKey]
+name = "lineK542"
+position = -4.999657 -6.222107 3.900434
+
+[AnimationKey]
+name = "lineK543"
+position = -4.998843 -6.332947 3.941744
+
+[AnimationKey]
+name = "lineK544"
+position = -4.997256 -6.443530 3.987426
+
+[AnimationKey]
+name = "lineK545"
+position = -4.994641 -6.553770 4.036880
+
+[AnimationKey]
+name = "lineK546"
+position = -4.990741 -6.663580 4.089506
+
+[AnimationKey]
+name = "lineK547"
+position = -4.985297 -6.772877 4.144705
+
+[AnimationKey]
+name = "lineK548"
+position = -4.978052 -6.881573 4.201875
+
+[AnimationKey]
+name = "lineK549"
+position = -4.968750 -6.989583 4.260417
+
+[AnimationKey]
+name = "lineK550"
+position = -4.957133 -7.096822 4.319730
+
+[AnimationKey]
+name = "lineK551"
+position = -4.942945 -7.203204 4.379216
+
+[AnimationKey]
+name = "lineK552"
+position = -4.925926 -7.308642 4.438272
+
+[AnimationKey]
+name = "lineK553"
+position = -4.905821 -7.413052 4.496299
+
+[AnimationKey]
+name = "lineK554"
+position = -4.882373 -7.516347 4.552698
+
+[AnimationKey]
+name = "lineK555"
+position = -4.855324 -7.618442 4.606867
+
+[AnimationKey]
+name = "lineK556"
+position = -4.824417 -7.719250 4.658208
+
+[AnimationKey]
+name = "lineK557"
+position = -4.789394 -7.818687 4.706119
+
+[AnimationKey]
+name = "lineK558"
+position = -4.750000 -7.916667 4.750000
+
+[AnimationKey]
+name = "lineK559"
+position = -4.706061 -8.013046 4.789394
+
+[AnimationKey]
+name = "lineK560"
+position = -4.657750 -8.107453 4.824417
+
+[AnimationKey]
+name = "lineK561"
+position = -4.605324 -8.199460 4.855324
+
+[AnimationKey]
+name = "lineK562"
+position = -4.549039 -8.288638 4.882373
+
+[AnimationKey]
+name = "lineK563"
+position = -4.489154 -8.374557 4.905821
+
+[AnimationKey]
+name = "lineK564"
+position = -4.425926 -8.456791 4.925926
+
+[AnimationKey]
+name = "lineK565"
+position = -4.359611 -8.534908 4.942945
+
+[AnimationKey]
+name = "lineK566"
+position = -4.290466 -8.608481 4.957133
+
+[AnimationKey]
+name = "lineK567"
+position = -4.218750 -8.677083 4.968750
+
+[AnimationKey]
+name = "lineK568"
+position = -4.144719 -8.740283 4.978052
+
+[AnimationKey]
+name = "lineK569"
+position = -4.068630 -8.797654 4.985297
+
+[AnimationKey]
+name = "lineK570"
+position = -3.990741 -8.848765 4.990741
+
+[AnimationKey]
+name = "lineK571"
+position = -3.911308 -8.893189 4.994642
+
+[AnimationKey]
+name = "lineK572"
+position = -3.830590 -8.930498 4.997257
+
+[AnimationKey]
+name = "lineK573"
+position = -3.748843 -8.960262 4.998843
+
+[AnimationKey]
+name = "lineK574"
+position = -3.666324 -8.982053 4.999657
+
+[AnimationKey]
+name = "lineK575"
+position = -3.583291 -8.995441 4.999957
+
+[AnimationKey]
+name = "lineK576"
+position = -3.500000 -9.000000 5.000000
+
+[AnimationKey]
+name = "lineK577"
+position = -3.416709 -8.995470 4.999986
+
+[AnimationKey]
+name = "lineK578"
+position = -3.333676 -8.982281 4.999886
+
+[AnimationKey]
+name = "lineK579"
+position = -3.251157 -8.961034 4.999614
+
+[AnimationKey]
+name = "lineK580"
+position = -3.169410 -8.932327 4.999085
+
+[AnimationKey]
+name = "lineK581"
+position = -3.088691 -8.896762 4.998214
+
+[AnimationKey]
+name = "lineK582"
+position = -3.009259 -8.854939 4.996913
+
+[AnimationKey]
+name = "lineK583"
+position = -2.931370 -8.807456 4.995099
+
+[AnimationKey]
+name = "lineK584"
+position = -2.855281 -8.754916 4.992684
+
+[AnimationKey]
+name = "lineK585"
+position = -2.781250 -8.697916 4.989583
+
+[AnimationKey]
+name = "lineK586"
+position = -2.709533 -8.637059 4.985711
+
+[AnimationKey]
+name = "lineK587"
+position = -2.640389 -8.572946 4.980982
+
+[AnimationKey]
+name = "lineK588"
+position = -2.574074 -8.506173 4.975309
+
+[AnimationKey]
+name = "lineK589"
+position = -2.510845 -8.437344 4.968607
+
+[AnimationKey]
+name = "lineK590"
+position = -2.450960 -8.367056 4.960791
+
+[AnimationKey]
+name = "lineK591"
+position = -2.394676 -8.295911 4.951775
+
+[AnimationKey]
+name = "lineK592"
+position = -2.342250 -8.224508 4.941473
+
+[AnimationKey]
+name = "lineK593"
+position = -2.293939 -8.153449 4.929798
+
+[AnimationKey]
+name = "lineK594"
+position = -2.250000 -8.083334 4.916667
+
+[AnimationKey]
+name = "lineK595"
+position = -2.210605 -8.014646 4.902032
+
+[AnimationKey]
+name = "lineK596"
+position = -2.175583 -7.947417 4.886008
+
+[AnimationKey]
+name = "lineK597"
+position = -2.144676 -7.881558 4.868750
+
+[AnimationKey]
+name = "lineK598"
+position = -2.117627 -7.816987 4.850411
+
+[AnimationKey]
+name = "lineK599"
+position = -2.094179 -7.753615 4.831147
+
+[AnimationKey]
+name = "lineK600"
+position = -2.074074 -7.691358 4.811111
+
+[AnimationKey]
+name = "lineK601"
+position = -2.057056 -7.630130 4.790458
+
+[AnimationKey]
+name = "lineK602"
+position = -2.042867 -7.569844 4.769341
+
+[AnimationKey]
+name = "lineK603"
+position = -2.031250 -7.510417 4.747917
+
+[AnimationKey]
+name = "lineK604"
+position = -2.021948 -7.451760 4.726337
+
+[AnimationKey]
+name = "lineK605"
+position = -2.014704 -7.393790 4.704759
+
+[AnimationKey]
+name = "lineK606"
+position = -2.009259 -7.336420 4.683334
+
+[AnimationKey]
+name = "lineK607"
+position = -2.005358 -7.279564 4.662217
+
+[AnimationKey]
+name = "lineK608"
+position = -2.002743 -7.223137 4.641564
+
+[AnimationKey]
+name = "lineK609"
+position = -2.001158 -7.167052 4.621528
+
+[AnimationKey]
+name = "lineK610"
+position = -2.000343 -7.111226 4.602263
+
+[AnimationKey]
+name = "lineK611"
+position = -2.000043 -7.055570 4.583925
+
+[AnimationKey]
+name = "lineK612"
+position = -2.000000 -7.000000 4.566667
+
+[AnimationKey]
+name = "lineK613"
+position = -2.000000 -6.944445 4.550597
+
+[AnimationKey]
+name = "lineK614"
+position = -2.000000 -6.888888 4.535643
+
+[AnimationKey]
+name = "lineK615"
+position = -2.000000 -6.833333 4.521682
+
+[AnimationKey]
+name = "lineK616"
+position = -2.000000 -6.777778 4.508596
+
+[AnimationKey]
+name = "lineK617"
+position = -2.000000 -6.722222 4.496265
+
+[AnimationKey]
+name = "lineK618"
+position = -2.000000 -6.666667 4.484568
+
+[AnimationKey]
+name = "lineK619"
+position = -2.000000 -6.611111 4.473385
+
+[AnimationKey]
+name = "lineK620"
+position = -2.000000 -6.555556 4.462597
+
+[AnimationKey]
+name = "lineK621"
+position = -2.000000 -6.500000 4.452084
+
+[AnimationKey]
+name = "lineK622"
+position = -2.000000 -6.444445 4.441723
+
+[AnimationKey]
+name = "lineK623"
+position = -2.000000 -6.388889 4.431399
+
+[AnimationKey]
+name = "lineK624"
+position = -2.000000 -6.333333 4.420988
+
+[AnimationKey]
+name = "lineK625"
+position = -2.000000 -6.277778 4.410371
+
+[AnimationKey]
+name = "lineK626"
+position = -2.000000 -6.222222 4.399428
+
+[AnimationKey]
+name = "lineK627"
+position = -2.000000 -6.166667 4.388040
+
+[AnimationKey]
+name = "lineK628"
+position = -2.000000 -6.111111 4.376086
+
+[AnimationKey]
+name = "lineK629"
+position = -2.000000 -6.055555 4.363446
+
+[AnimationKey]
+name = "lineK630"
+position = -2.000000 -6.000000 4.350000
+
+[AnimationKey]
+name = "lineK631"
+position = -2.000000 -5.944444 4.335665
+
+[AnimationKey]
+name = "lineK632"
+position = -2.000000 -5.888889 4.320508
+
+[AnimationKey]
+name = "lineK633"
+position = -2.000000 -5.833333 4.304630
+
+[AnimationKey]
+name = "lineK634"
+position = -2.000000 -5.777778 4.288134
+
+[AnimationKey]
+name = "lineK635"
+position = -2.000000 -5.722222 4.271125
+
+[AnimationKey]
+name = "lineK636"
+position = -2.000000 -5.666667 4.253704
+
+[AnimationKey]
+name = "lineK637"
+position = -2.000000 -5.611111 4.235974
+
+[AnimationKey]
+name = "lineK638"
+position = -2.000000 -5.555556 4.218039
+
+[AnimationKey]
+name = "lineK639"
+position = -2.000000 -5.500000 4.200000
+
+[AnimationKey]
+name = "lineK640"
+position = -2.000000 -5.444444 4.181962
+
+[AnimationKey]
+name = "lineK641"
+position = -2.000000 -5.388889 4.164026
+
+[AnimationKey]
+name = "lineK642"
+position = -2.000000 -5.333333 4.146297
+
+[AnimationKey]
+name = "lineK643"
+position = -2.000000 -5.277778 4.128875
+
+[AnimationKey]
+name = "lineK644"
+position = -2.000000 -5.222222 4.111866
+
+[AnimationKey]
+name = "lineK645"
+position = -2.000000 -5.166667 4.095370
+
+[AnimationKey]
+name = "lineK646"
+position = -2.000000 -5.111111 4.079493
+
+[AnimationKey]
+name = "lineK647"
+position = -2.000000 -5.055555 4.064335
+
+[AnimationKey]
+name = "lineK648"
+position = -2.000000 -5.000000 4.050000
+
+[AnimationKey]
+name = "lineK649"
+position = -2.000000 -4.944444 4.036557
+
+[AnimationKey]
+name = "lineK650"
+position = -2.000000 -4.888889 4.023937
+
+[AnimationKey]
+name = "lineK651"
+position = -2.000000 -4.833333 4.012037
+
+[AnimationKey]
+name = "lineK652"
+position = -2.000000 -4.777778 4.000754
+
+[AnimationKey]
+name = "lineK653"
+position = -2.000000 -4.722222 3.989986
+
+[AnimationKey]
+name = "lineK654"
+position = -2.000000 -4.666667 3.979630
+
+[AnimationKey]
+name = "lineK655"
+position = -2.000000 -4.611111 3.969582
+
+[AnimationKey]
+name = "lineK656"
+position = -2.000000 -4.555555 3.959739
+
+[AnimationKey]
+name = "lineK657"
+position = -2.000000 -4.500000 3.950000
+
+[AnimationKey]
+name = "lineK658"
+position = -2.000000 -4.444444 3.940260
+
+[AnimationKey]
+name = "lineK659"
+position = -2.000000 -4.388889 3.930418
+
+[AnimationKey]
+name = "lineK660"
+position = -2.000000 -4.333333 3.920371
+
+[AnimationKey]
+name = "lineK661"
+position = -2.000000 -4.277778 3.910014
+
+[AnimationKey]
+name = "lineK662"
+position = -2.000000 -4.222222 3.899246
+
+[AnimationKey]
+name = "lineK663"
+position = -2.000000 -4.166667 3.887963
+
+[AnimationKey]
+name = "lineK664"
+position = -2.000000 -4.111111 3.876063
+
+[AnimationKey]
+name = "lineK665"
+position = -2.000000 -4.055555 3.863443
+
+[AnimationKey]
+name = "lineK666"
+position = -2.000000 -4.000000 3.850000
+
+[AnimationKey]
+name = "lineK667"
+position = -2.000000 -3.944444 3.835665
+
+[AnimationKey]
+name = "lineK668"
+position = -2.000000 -3.888889 3.820508
+
+[AnimationKey]
+name = "lineK669"
+position = -2.000000 -3.833333 3.804630
+
+[AnimationKey]
+name = "lineK670"
+position = -2.000000 -3.777778 3.788135
+
+[AnimationKey]
+name = "lineK671"
+position = -2.000000 -3.722222 3.771125
+
+[AnimationKey]
+name = "lineK672"
+position = -2.000000 -3.666667 3.753704
+
+[AnimationKey]
+name = "lineK673"
+position = -2.000000 -3.611111 3.735974
+
+[AnimationKey]
+name = "lineK674"
+position = -2.000000 -3.555555 3.718039
+
+[AnimationKey]
+name = "lineK675"
+position = -2.000000 -3.500000 3.700000
+
+[AnimationKey]
+name = "lineK676"
+position = -2.000000 -3.444444 3.681962
+
+[AnimationKey]
+name = "lineK677"
+position = -2.000000 -3.388889 3.664026
+
+[AnimationKey]
+name = "lineK678"
+position = -2.000000 -3.333333 3.646296
+
+[AnimationKey]
+name = "lineK679"
+position = -2.000000 -3.277778 3.628875
+
+[AnimationKey]
+name = "lineK680"
+position = -2.000000 -3.222222 3.611866
+
+[AnimationKey]
+name = "lineK681"
+position = -2.000000 -3.166667 3.595371
+
+[AnimationKey]
+name = "lineK682"
+position = -2.000000 -3.111111 3.579493
+
+[AnimationKey]
+name = "lineK683"
+position = -2.000000 -3.055555 3.564335
+
+[AnimationKey]
+name = "lineK684"
+position = -2.000000 -3.000000 3.550000
+
+[AnimationKey]
+name = "lineK685"
+position = -2.000000 -2.944444 3.536557
+
+[AnimationKey]
+name = "lineK686"
+position = -2.000000 -2.888889 3.523937
+
+[AnimationKey]
+name = "lineK687"
+position = -2.000000 -2.833333 3.512037
+
+[AnimationKey]
+name = "lineK688"
+position = -2.000000 -2.777778 3.500755
+
+[AnimationKey]
+name = "lineK689"
+position = -2.000000 -2.722222 3.489986
+
+[AnimationKey]
+name = "lineK690"
+position = -2.000000 -2.666667 3.479630
+
+[AnimationKey]
+name = "lineK691"
+position = -2.000000 -2.611111 3.469582
+
+[AnimationKey]
+name = "lineK692"
+position = -2.000000 -2.555556 3.459739
+
+[AnimationKey]
+name = "lineK693"
+position = -2.000000 -2.500000 3.450000
+
+[AnimationKey]
+name = "lineK694"
+position = -2.000000 -2.444444 3.440261
+
+[AnimationKey]
+name = "lineK695"
+position = -2.000000 -2.388889 3.430419
+
+[AnimationKey]
+name = "lineK696"
+position = -2.000000 -2.333333 3.420371
+
+[AnimationKey]
+name = "lineK697"
+position = -2.000000 -2.277778 3.410014
+
+[AnimationKey]
+name = "lineK698"
+position = -2.000000 -2.222222 3.399246
+
+[AnimationKey]
+name = "lineK699"
+position = -2.000000 -2.166667 3.387963
+
+[AnimationKey]
+name = "lineK700"
+position = -2.000000 -2.111111 3.376063
+
+[AnimationKey]
+name = "lineK701"
+position = -2.000000 -2.055556 3.363443
+
+[AnimationKey]
+name = "lineK702"
+position = -2.000000 -2.000000 3.350000
+
+[AnimationKey]
+name = "lineK703"
+position = -2.000000 -1.944444 3.335662
+
+[AnimationKey]
+name = "lineK704"
+position = -2.000000 -1.888889 3.320485
+
+[AnimationKey]
+name = "lineK705"
+position = -2.000000 -1.833333 3.304553
+
+[AnimationKey]
+name = "lineK706"
+position = -2.000000 -1.777778 3.287951
+
+[AnimationKey]
+name = "lineK707"
+position = -2.000000 -1.722222 3.270768
+
+[AnimationKey]
+name = "lineK708"
+position = -2.000000 -1.666667 3.253087
+
+[AnimationKey]
+name = "lineK709"
+position = -2.000000 -1.611111 3.234994
+
+[AnimationKey]
+name = "lineK710"
+position = -2.000000 -1.555556 3.216575
+
+[AnimationKey]
+name = "lineK711"
+position = -2.000000 -1.500000 3.197917
+
+[AnimationKey]
+name = "lineK712"
+position = -2.000000 -1.444444 3.179104
+
+[AnimationKey]
+name = "lineK713"
+position = -2.000000 -1.388889 3.160223
+
+[AnimationKey]
+name = "lineK714"
+position = -2.000000 -1.333333 3.141358
+
+[AnimationKey]
+name = "lineK715"
+position = -2.000000 -1.277778 3.122597
+
+[AnimationKey]
+name = "lineK716"
+position = -2.000000 -1.222222 3.104024
+
+[AnimationKey]
+name = "lineK717"
+position = -2.000000 -1.166667 3.085726
+
+[AnimationKey]
+name = "lineK718"
+position = -2.000000 -1.111111 3.067787
+
+[AnimationKey]
+name = "lineK719"
+position = -2.000000 -1.055556 3.050294
+
+[AnimationKey]
+name = "lineK720"
+position = -2.000000 -1.000000 3.033333
+
+[AnimationKey]
+name = "lineK721"
+position = -2.000000 -0.944444 3.016967
+
+[AnimationKey]
+name = "lineK722"
+position = -2.000000 -0.888889 3.001166
+
+[AnimationKey]
+name = "lineK723"
+position = -2.000000 -0.833333 2.985880
+
+[AnimationKey]
+name = "lineK724"
+position = -2.000000 -0.777778 2.971056
+
+[AnimationKey]
+name = "lineK725"
+position = -2.000000 -0.722222 2.956645
+
+[AnimationKey]
+name = "lineK726"
+position = -2.000000 -0.666667 2.942593
+
+[AnimationKey]
+name = "lineK727"
+position = -2.000000 -0.611111 2.928849
+
+[AnimationKey]
+name = "lineK728"
+position = -2.000000 -0.555556 2.915364
+
+[AnimationKey]
+name = "lineK729"
+position = -2.000000 -0.500000 2.902083
+
+[AnimationKey]
+name = "lineK730"
+position = -2.000000 -0.444444 2.888958
+
+[AnimationKey]
+name = "lineK731"
+position = -2.000000 -0.388889 2.875935
+
+[AnimationKey]
+name = "lineK732"
+position = -2.000000 -0.333333 2.862963
+
+[AnimationKey]
+name = "lineK733"
+position = -2.000000 -0.277778 2.849992
+
+[AnimationKey]
+name = "lineK734"
+position = -2.000000 -0.222222 2.836968
+
+[AnimationKey]
+name = "lineK735"
+position = -2.000000 -0.166667 2.823843
+
+[AnimationKey]
+name = "lineK736"
+position = -2.000000 -0.111111 2.810562
+
+[AnimationKey]
+name = "lineK737"
+position = -2.000000 -0.055556 2.797077
+
+[AnimationKey]
+name = "lineK738"
+position = -2.000000 0.000000 2.783334
+
+[AnimationKey]
+name = "lineK739"
+position = -2.000000 0.055556 2.769296
+
+[AnimationKey]
+name = "lineK740"
+position = -2.000000 0.111111 2.754984
+
+[AnimationKey]
+name = "lineK741"
+position = -2.000000 0.166667 2.740432
+
+[AnimationKey]
+name = "lineK742"
+position = -2.000000 0.222222 2.725674
+
+[AnimationKey]
+name = "lineK743"
+position = -2.000000 0.277778 2.710745
+
+[AnimationKey]
+name = "lineK744"
+position = -2.000000 0.333333 2.695679
+
+[AnimationKey]
+name = "lineK745"
+position = -2.000000 0.388889 2.680510
+
+[AnimationKey]
+name = "lineK746"
+position = -2.000000 0.444444 2.665272
+
+[AnimationKey]
+name = "lineK747"
+position = -2.000000 0.500000 2.650000
+
+[AnimationKey]
+name = "lineK748"
+position = -2.000000 0.555556 2.634728
+
+[AnimationKey]
+name = "lineK749"
+position = -2.000000 0.611111 2.619490
+
+[AnimationKey]
+name = "lineK750"
+position = -2.000000 0.666667 2.604321
+
+[AnimationKey]
+name = "lineK751"
+position = -2.000000 0.722222 2.589255
+
+[AnimationKey]
+name = "lineK752"
+position = -2.000000 0.777778 2.574326
+
+[AnimationKey]
+name = "lineK753"
+position = -2.000000 0.833333 2.559568
+
+[AnimationKey]
+name = "lineK754"
+position = -2.000000 0.888889 2.545016
+
+[AnimationKey]
+name = "lineK755"
+position = -2.000000 0.944444 2.530704
+
+[AnimationKey]
+name = "lineK756"
+position = -2.000000 1.000000 2.516667
+
+[AnimationKey]
+name = "lineK757"
+position = -2.000000 1.055555 2.502926
+
+[AnimationKey]
+name = "lineK758"
+position = -2.000000 1.111111 2.489460
+
+[AnimationKey]
+name = "lineK759"
+position = -2.000000 1.166667 2.476235
+
+[AnimationKey]
+name = "lineK760"
+position = -2.000000 1.222222 2.463214
+
+[AnimationKey]
+name = "lineK761"
+position = -2.000000 1.277778 2.450366
+
+[AnimationKey]
+name = "lineK762"
+position = -2.000000 1.333333 2.437654
+
+[AnimationKey]
+name = "lineK763"
+position = -2.000000 1.388889 2.425046
+
+[AnimationKey]
+name = "lineK764"
+position = -2.000000 1.444444 2.412505
+
+[AnimationKey]
+name = "lineK765"
+position = -2.000000 1.500000 2.400000
+
+[AnimationKey]
+name = "lineK766"
+position = -2.000000 1.555556 2.387494
+
+[AnimationKey]
+name = "lineK767"
+position = -2.000000 1.611111 2.374954
+
+[AnimationKey]
+name = "lineK768"
+position = -2.000000 1.666667 2.362346
+
+[AnimationKey]
+name = "lineK769"
+position = -2.000000 1.722222 2.349634
+
+[AnimationKey]
+name = "lineK770"
+position = -2.000000 1.777778 2.336786
+
+[AnimationKey]
+name = "lineK771"
+position = -2.000000 1.833333 2.323766
+
+[AnimationKey]
+name = "lineK772"
+position = -2.000000 1.888889 2.310539
+
+[AnimationKey]
+name = "lineK773"
+position = -2.000000 1.944444 2.297074
+
+[AnimationKey]
+name = "lineK774"
+position = -2.000000 2.000000 2.283333
+
+[AnimationKey]
+name = "lineK775"
+position = -2.000000 2.055555 2.269299
+
+[AnimationKey]
+name = "lineK776"
+position = -2.000000 2.111111 2.255007
+
+[AnimationKey]
+name = "lineK777"
+position = -2.000000 2.166667 2.240509
+
+[AnimationKey]
+name = "lineK778"
+position = -2.000000 2.222222 2.225857
+
+[AnimationKey]
+name = "lineK779"
+position = -2.000000 2.277778 2.211102
+
+[AnimationKey]
+name = "lineK780"
+position = -2.000000 2.333333 2.196296
+
+[AnimationKey]
+name = "lineK781"
+position = -2.000000 2.388889 2.181490
+
+[AnimationKey]
+name = "lineK782"
+position = -2.000000 2.444444 2.166735
+
+[AnimationKey]
+name = "lineK783"
+position = -2.000000 2.500000 2.152083
+
+[AnimationKey]
+name = "lineK784"
+position = -2.000000 2.555556 2.137586
+
+[AnimationKey]
+name = "lineK785"
+position = -2.000000 2.611111 2.123294
+
+[AnimationKey]
+name = "lineK786"
+position = -2.000000 2.666667 2.109259
+
+[AnimationKey]
+name = "lineK787"
+position = -2.000000 2.722222 2.095533
+
+[AnimationKey]
+name = "lineK788"
+position = -2.000000 2.777778 2.082167
+
+[AnimationKey]
+name = "lineK789"
+position = -2.000000 2.833333 2.069213
+
+[AnimationKey]
+name = "lineK790"
+position = -2.000000 2.888889 2.056722
+
+[AnimationKey]
+name = "lineK791"
+position = -2.000000 2.944444 2.044744
+
+[AnimationKey]
+name = "lineK792"
+position = -2.000000 3.000000 2.033333
+
+[AnimationKey]
+name = "lineK793"
+position = -2.000000 3.055555 2.022519
+
+[AnimationKey]
+name = "lineK794"
+position = -2.000000 3.111111 2.012254
+
+[AnimationKey]
+name = "lineK795"
+position = -2.000000 3.166667 2.002469
+
+[AnimationKey]
+name = "lineK796"
+position = -2.000000 3.222222 1.993096
+
+[AnimationKey]
+name = "lineK797"
+position = -2.000000 3.277778 1.984065
+
+[AnimationKey]
+name = "lineK798"
+position = -2.000000 3.333333 1.975309
+
+[AnimationKey]
+name = "lineK799"
+position = -2.000000 3.388889 1.966758
+
+[AnimationKey]
+name = "lineK800"
+position = -2.000000 3.444445 1.958345
+
+[AnimationKey]
+name = "lineK801"
+position = -2.000000 3.500000 1.950000
+
+[AnimationKey]
+name = "lineK802"
+position = -2.000000 3.555556 1.941655
+
+[AnimationKey]
+name = "lineK803"
+position = -2.000000 3.611111 1.933242
+
+[AnimationKey]
+name = "lineK804"
+position = -2.000000 3.666667 1.924691
+
+[AnimationKey]
+name = "lineK805"
+position = -2.000000 3.722222 1.915935
+
+[AnimationKey]
+name = "lineK806"
+position = -2.000000 3.777778 1.906904
+
+[AnimationKey]
+name = "lineK807"
+position = -2.000000 3.833333 1.897531
+
+[AnimationKey]
+name = "lineK808"
+position = -2.000000 3.888889 1.887746
+
+[AnimationKey]
+name = "lineK809"
+position = -2.000000 3.944444 1.877481
+
+[AnimationKey]
+name = "lineK810"
+position = -2.000000 4.000000 1.866667
+
+[AnimationKey]
+name = "lineK811"
+position = -2.000000 4.055555 1.855255
+
+[AnimationKey]
+name = "lineK812"
+position = -2.000000 4.111111 1.843278
+
+[AnimationKey]
+name = "lineK813"
+position = -2.000000 4.166667 1.830787
+
+[AnimationKey]
+name = "lineK814"
+position = -2.000000 4.222222 1.817833
+
+[AnimationKey]
+name = "lineK815"
+position = -2.000000 4.277778 1.804467
+
+[AnimationKey]
+name = "lineK816"
+position = -2.000000 4.333333 1.790741
+
+[AnimationKey]
+name = "lineK817"
+position = -2.000000 4.388889 1.776706
+
+[AnimationKey]
+name = "lineK818"
+position = -2.000000 4.444445 1.762414
+
+[AnimationKey]
+name = "lineK819"
+position = -2.000000 4.500000 1.747917
+
+[AnimationKey]
+name = "lineK820"
+position = -2.000000 4.555555 1.733265
+
+[AnimationKey]
+name = "lineK821"
+position = -2.000000 4.611112 1.718510
+
+[AnimationKey]
+name = "lineK822"
+position = -2.000000 4.666667 1.703704
+
+[AnimationKey]
+name = "lineK823"
+position = -2.000000 4.722222 1.688897
+
+[AnimationKey]
+name = "lineK824"
+position = -2.000000 4.777778 1.674143
+
+[AnimationKey]
+name = "lineK825"
+position = -2.000000 4.833333 1.659491
+
+[AnimationKey]
+name = "lineK826"
+position = -2.000000 4.888889 1.644993
+
+[AnimationKey]
+name = "lineK827"
+position = -2.000000 4.944444 1.630701
+
+[AnimationKey]
+name = "lineK828"
+position = -2.000000 5.000000 1.616667
+
+[AnimationKey]
+name = "lineK829"
+position = -1.999943 5.055612 1.602903
+
+[AnimationKey]
+name = "lineK830"
+position = -1.999543 5.111568 1.589277
+
+[AnimationKey]
+name = "lineK831"
+position = -1.998457 5.168210 1.575617
+
+[AnimationKey]
+name = "lineK832"
+position = -1.996342 5.225880 1.561751
+
+[AnimationKey]
+name = "lineK833"
+position = -1.992856 5.284922 1.547508
+
+[AnimationKey]
+name = "lineK834"
+position = -1.987654 5.345679 1.532716
+
+[AnimationKey]
+name = "lineK835"
+position = -1.980396 5.408494 1.517204
+
+[AnimationKey]
+name = "lineK836"
+position = -1.970736 5.473708 1.500800
+
+[AnimationKey]
+name = "lineK837"
+position = -1.958333 5.541667 1.483333
+
+[AnimationKey]
+name = "lineK838"
+position = -1.942844 5.612711 1.464632
+
+[AnimationKey]
+name = "lineK839"
+position = -1.923926 5.687186 1.444525
+
+[AnimationKey]
+name = "lineK840"
+position = -1.901235 5.765432 1.422840
+
+[AnimationKey]
+name = "lineK841"
+position = -1.874429 5.847794 1.399406
+
+[AnimationKey]
+name = "lineK842"
+position = -1.843164 5.934614 1.374051
+
+[AnimationKey]
+name = "lineK843"
+position = -1.807099 6.026235 1.346605
+
+[AnimationKey]
+name = "lineK844"
+position = -1.765889 6.123000 1.316895
+
+[AnimationKey]
+name = "lineK845"
+position = -1.719193 6.225251 1.284751
+
+[AnimationKey]
+name = "lineK846"
+position = -1.666667 6.333333 1.250000
+
+[AnimationKey]
+name = "lineK847"
+position = -1.607939 6.447388 1.212554
+
+[AnimationKey]
+name = "lineK848"
+position = -1.542524 6.566758 1.172657
+
+[AnimationKey]
+name = "lineK849"
+position = -1.469907 6.690587 1.130633
+
+[AnimationKey]
+name = "lineK850"
+position = -1.389575 6.818016 1.086808
+
+[AnimationKey]
+name = "lineK851"
+position = -1.301012 6.948188 1.041509
+
+[AnimationKey]
+name = "lineK852"
+position = -1.203704 7.080247 0.995062
+
+[AnimationKey]
+name = "lineK853"
+position = -1.097136 7.213335 0.947791
+
+[AnimationKey]
+name = "lineK854"
+position = -0.980796 7.346593 0.900023
+
+[AnimationKey]
+name = "lineK855"
+position = -0.854167 7.479167 0.852083
+
+[AnimationKey]
+name = "lineK856"
+position = -0.716735 7.610197 0.804298
+
+[AnimationKey]
+name = "lineK857"
+position = -0.567987 7.738826 0.756993
+
+[AnimationKey]
+name = "lineK858"
+position = -0.407407 7.864198 0.710494
+
+[AnimationKey]
+name = "lineK859"
+position = -0.234482 7.985454 0.665126
+
+[AnimationKey]
+name = "lineK860"
+position = -0.048697 8.101737 0.621216
+
+[AnimationKey]
+name = "lineK861"
+position = 0.150463 8.212192 0.579090
+
+[AnimationKey]
+name = "lineK862"
+position = 0.363512 8.315958 0.539072
+
+[AnimationKey]
+name = "lineK863"
+position = 0.590963 8.412180 0.501489
+
+[AnimationKey]
+name = "lineK864"
+position = 0.833333 8.500000 0.466667
+
+[AnimationKey]
+name = "lineK865"
+position = 1.090764 8.578732 0.434851
+
+[AnimationKey]
+name = "lineK866"
+position = 1.361911 8.648376 0.405967
+
+[AnimationKey]
+name = "lineK867"
+position = 1.645062 8.709105 0.379861
+
+[AnimationKey]
+name = "lineK868"
+position = 1.938500 8.761088 0.356379
+
+[AnimationKey]
+name = "lineK869"
+position = 2.240512 8.804498 0.335365
+
+[AnimationKey]
+name = "lineK870"
+position = 2.549383 8.839507 0.316667
+
+[AnimationKey]
+name = "lineK871"
+position = 2.863397 8.866284 0.300129
+
+[AnimationKey]
+name = "lineK872"
+position = 3.180841 8.885002 0.285597
+
+[AnimationKey]
+name = "lineK873"
+position = 3.500000 8.895833 0.272917
+
+[AnimationKey]
+name = "lineK874"
+position = 3.819159 8.898948 0.261934
+
+[AnimationKey]
+name = "lineK875"
+position = 4.136603 8.894519 0.252495
+
+[AnimationKey]
+name = "lineK876"
+position = 4.450617 8.882717 0.244444
+
+[AnimationKey]
+name = "lineK877"
+position = 4.759488 8.863712 0.237629
+
+[AnimationKey]
+name = "lineK878"
+position = 5.061501 8.837677 0.231893
+
+[AnimationKey]
+name = "lineK879"
+position = 5.354938 8.804785 0.227083
+
+[AnimationKey]
+name = "lineK880"
+position = 5.638089 8.765203 0.223045
+
+[AnimationKey]
+name = "lineK881"
+position = 5.909236 8.719107 0.219624
+
+[AnimationKey]
+name = "lineK882"
+position = 6.166667 8.666667 0.216667
+
+[AnimationKey]
+name = "lineK883"
+position = 6.409036 8.607738 0.214040
+
+[AnimationKey]
+name = "lineK884"
+position = 6.636488 8.540923 0.211706
+
+[AnimationKey]
+name = "lineK885"
+position = 6.849537 8.464506 0.209645
+
+[AnimationKey]
+name = "lineK886"
+position = 7.048697 8.376771 0.207842
+
+[AnimationKey]
+name = "lineK887"
+position = 7.234482 8.276007 0.206279
+
+[AnimationKey]
+name = "lineK888"
+position = 7.407407 8.160494 0.204938
+
+[AnimationKey]
+name = "lineK889"
+position = 7.567987 8.028521 0.203804
+
+[AnimationKey]
+name = "lineK890"
+position = 7.716735 7.878373 0.202858
+
+[AnimationKey]
+name = "lineK891"
+position = 7.854167 7.708333 0.202083
+
+[AnimationKey]
+name = "lineK892"
+position = 7.980795 7.516690 0.201463
+
+[AnimationKey]
+name = "lineK893"
+position = 8.097137 7.301727 0.200980
+
+[AnimationKey]
+name = "lineK894"
+position = 8.203704 7.061728 0.200617
+
+[AnimationKey]
+name = "lineK895"
+position = 8.301012 6.794981 0.200357
+
+[AnimationKey]
+name = "lineK896"
+position = 8.389575 6.499772 0.200183
+
+[AnimationKey]
+name = "lineK897"
+position = 8.469908 6.174383 0.200077
+
+[AnimationKey]
+name = "lineK898"
+position = 8.542524 5.817101 0.200023
+
+[AnimationKey]
+name = "lineK899"
+position = 8.607939 5.426212 0.200003
+
+[AnimationKey]
+name = "lineK900"
+position = 8.666667 5.000000 0.200000
+
+[AnimationKey]
+name = "lineK901"
+position = 8.719135 4.537723 0.200014
+
+[AnimationKey]
+name = "lineK902"
+position = 8.765432 4.042524 0.200114
+
+[AnimationKey]
+name = "lineK903"
+position = 8.805555 3.518518 0.200386
+
+[AnimationKey]
+name = "lineK904"
+position = 8.839506 2.969822 0.200914
+
+[AnimationKey]
+name = "lineK905"
+position = 8.867284 2.400548 0.201786
+
+[AnimationKey]
+name = "lineK906"
+position = 8.888889 1.814814 0.203086
+
+[AnimationKey]
+name = "lineK907"
+position = 8.904322 1.216735 0.204901
+
+[AnimationKey]
+name = "lineK908"
+position = 8.913580 0.610425 0.207316
+
+[AnimationKey]
+name = "lineK909"
+position = 8.916667 0.000000 0.210417
+
+[AnimationKey]
+name = "lineK910"
+position = 8.913580 -0.610425 0.214289
+
+[AnimationKey]
+name = "lineK911"
+position = 8.904322 -1.216735 0.219019
+
+[AnimationKey]
+name = "lineK912"
+position = 8.888889 -1.814815 0.224691
+
+[AnimationKey]
+name = "lineK913"
+position = 8.867285 -2.400548 0.231393
+
+[AnimationKey]
+name = "lineK914"
+position = 8.839506 -2.969822 0.239209
+
+[AnimationKey]
+name = "lineK915"
+position = 8.805555 -3.518518 0.248225
+
+[AnimationKey]
+name = "lineK916"
+position = 8.765432 -4.042524 0.258528
+
+[AnimationKey]
+name = "lineK917"
+position = 8.719135 -4.537723 0.270202
+
+[AnimationKey]
+name = "lineK918"
+position = 8.666667 -5.000000 0.283333
+
+[AnimationKey]
+name = "lineK919"
+position = 8.608081 -5.426211 0.298091
+
+[AnimationKey]
+name = "lineK920"
+position = 8.543667 -5.817101 0.314975
+
+[AnimationKey]
+name = "lineK921"
+position = 8.473765 -6.174383 0.334568
+
+[AnimationKey]
+name = "lineK922"
+position = 8.398719 -6.499772 0.357453
+
+[AnimationKey]
+name = "lineK923"
+position = 8.318873 -6.794982 0.384214
+
+[AnimationKey]
+name = "lineK924"
+position = 8.234568 -7.061728 0.415432
+
+[AnimationKey]
+name = "lineK925"
+position = 8.146148 -7.301726 0.451692
+
+[AnimationKey]
+name = "lineK926"
+position = 8.053955 -7.516689 0.493576
+
+[AnimationKey]
+name = "lineK927"
+position = 7.958333 -7.708333 0.541667
+
+[AnimationKey]
+name = "lineK928"
+position = 7.859625 -7.878372 0.596548
+
+[AnimationKey]
+name = "lineK929"
+position = 7.758174 -8.028522 0.658802
+
+[AnimationKey]
+name = "lineK930"
+position = 7.654321 -8.160495 0.729012
+
+[AnimationKey]
+name = "lineK931"
+position = 7.548411 -8.276006 0.807762
+
+[AnimationKey]
+name = "lineK932"
+position = 7.440787 -8.376772 0.895633
+
+[AnimationKey]
+name = "lineK933"
+position = 7.331790 -8.464506 0.993210
+
+[AnimationKey]
+name = "lineK934"
+position = 7.221765 -8.540924 1.101075
+
+[AnimationKey]
+name = "lineK935"
+position = 7.111054 -8.607738 1.219810
+
+[AnimationKey]
+name = "lineK936"
+position = 7.000000 -8.666667 1.350000
+
+[AnimationKey]
+name = "lineK937"
+position = 6.888917 -8.719164 1.491892
+
+[AnimationKey]
+name = "lineK938"
+position = 6.778006 -8.765661 1.644399
+
+[AnimationKey]
+name = "lineK939"
+position = 6.667438 -8.806327 1.806096
+
+[AnimationKey]
+name = "lineK940"
+position = 6.557385 -8.841335 1.975560
+
+[AnimationKey]
+name = "lineK941"
+position = 6.448016 -8.870856 2.151369
+
+[AnimationKey]
+name = "lineK942"
+position = 6.339506 -8.895062 2.332099
+
+[AnimationKey]
+name = "lineK943"
+position = 6.232025 -8.914124 2.516327
+
+[AnimationKey]
+name = "lineK944"
+position = 6.125743 -8.928211 2.702629
+
+[AnimationKey]
+name = "lineK945"
+position = 6.020833 -8.937501 2.889583
+
+[AnimationKey]
+name = "lineK946"
+position = 5.917467 -8.942158 3.075766
+
+[AnimationKey]
+name = "lineK947"
+position = 5.815815 -8.942359 3.259754
+
+[AnimationKey]
+name = "lineK948"
+position = 5.716049 -8.938272 3.440123
+
+[AnimationKey]
+name = "lineK949"
+position = 5.618341 -8.930070 3.615452
+
+[AnimationKey]
+name = "lineK950"
+position = 5.522862 -8.917924 3.784317
+
+[AnimationKey]
+name = "lineK951"
+position = 5.429784 -8.902006 3.945293
+
+[AnimationKey]
+name = "lineK952"
+position = 5.339278 -8.882487 4.096960
+
+[AnimationKey]
+name = "lineK953"
+position = 5.251514 -8.859539 4.237891
+
+[AnimationKey]
+name = "lineK954"
+position = 5.166667 -8.833333 4.366667
+
+[AnimationKey]
+name = "lineK955"
+position = 5.084876 -8.804011 4.482110
+
+[AnimationKey]
+name = "lineK956"
+position = 5.006173 -8.771605 4.584042
+
+[AnimationKey]
+name = "lineK957"
+position = 4.930555 -8.736112 4.672531
+
+[AnimationKey]
+name = "lineK958"
+position = 4.858025 -8.697531 4.747645
+
+[AnimationKey]
+name = "lineK959"
+position = 4.788580 -8.655865 4.809453
+
+[AnimationKey]
+name = "lineK960"
+position = 4.722222 -8.611111 4.858025
+
+[AnimationKey]
+name = "lineK961"
+position = 4.658951 -8.563272 4.893427
+
+[AnimationKey]
+name = "lineK962"
+position = 4.598765 -8.512345 4.915730
+
+[AnimationKey]
+name = "lineK963"
+position = 4.541667 -8.458333 4.925000
+
+[AnimationKey]
+name = "lineK964"
+position = 4.487654 -8.401235 4.921308
+
+[AnimationKey]
+name = "lineK965"
+position = 4.436728 -8.341050 4.904722
+
+[AnimationKey]
+name = "lineK966"
+position = 4.388889 -8.277778 4.875309
+
+[AnimationKey]
+name = "lineK967"
+position = 4.344136 -8.211420 4.833138
+
+[AnimationKey]
+name = "lineK968"
+position = 4.302469 -8.141975 4.778281
+
+[AnimationKey]
+name = "lineK969"
+position = 4.263889 -8.069445 4.710803
+
+[AnimationKey]
+name = "lineK970"
+position = 4.228395 -7.993827 4.630773
+
+[AnimationKey]
+name = "lineK971"
+position = 4.195988 -7.915123 4.538260
+
+[AnimationKey]
+name = "lineK972"
+position = 4.166667 -7.833333 4.433333
+
+[AnimationKey]
+name = "lineK973"
+position = 4.140460 -7.748485 4.316252
+
+[AnimationKey]
+name = "lineK974"
+position = 4.117513 -7.660722 4.188043
+
+[AnimationKey]
+name = "lineK975"
+position = 4.097994 -7.570216 4.049923
+
+[AnimationKey]
+name = "lineK976"
+position = 4.082076 -7.477138 3.903109
+
+[AnimationKey]
+name = "lineK977"
+position = 4.069930 -7.381659 3.748820
+
+[AnimationKey]
+name = "lineK978"
+position = 4.061728 -7.283951 3.588272
+
+[AnimationKey]
+name = "lineK979"
+position = 4.057642 -7.184185 3.422683
+
+[AnimationKey]
+name = "lineK980"
+position = 4.057842 -7.082533 3.253269
+
+[AnimationKey]
+name = "lineK981"
+position = 4.062500 -6.979167 3.081250
+
+[AnimationKey]
+name = "lineK982"
+position = 4.071788 -6.874257 2.907842
+
+[AnimationKey]
+name = "lineK983"
+position = 4.085877 -6.767976 2.734262
+
+[AnimationKey]
+name = "lineK984"
+position = 4.104939 -6.660494 2.561728
+
+[AnimationKey]
+name = "lineK985"
+position = 4.129144 -6.551983 2.391458
+
+[AnimationKey]
+name = "lineK986"
+position = 4.158665 -6.442615 2.224669
+
+[AnimationKey]
+name = "lineK987"
+position = 4.193673 -6.332562 2.062577
+
+[AnimationKey]
+name = "lineK988"
+position = 4.234339 -6.221993 1.906401
+
+[AnimationKey]
+name = "lineK989"
+position = 4.280836 -6.111083 1.757359
+
+[AnimationKey]
+name = "lineK990"
+position = 4.333333 -6.000000 1.616667
+
+[AnimationKey]
+name = "lineK991"
+position = 4.391918 -5.889003 1.485277
+
+[AnimationKey]
+name = "lineK992"
+position = 4.456333 -5.778692 1.363077
+
+[AnimationKey]
+name = "lineK993"
+position = 4.526234 -5.669753 1.249691
+
+[AnimationKey]
+name = "lineK994"
+position = 4.601280 -5.562871 1.144742
+
+[AnimationKey]
+name = "lineK995"
+position = 4.681127 -5.458733 1.047851
+
+[AnimationKey]
+name = "lineK996"
+position = 4.765432 -5.358025 0.958642
+
+[AnimationKey]
+name = "lineK997"
+position = 4.853852 -5.261431 0.876738
+
+[AnimationKey]
+name = "lineK998"
+position = 4.946045 -5.169639 0.801760
+
+[AnimationKey]
+name = "lineK999"
+position = 5.041667 -5.083333 0.733333
+
+[AnimationKey]
+name = "lineK1000"
+position = 5.140375 -5.003201 0.671079
+
+[AnimationKey]
+name = "lineK1001"
+position = 5.241827 -4.929927 0.614621
+
+[AnimationKey]
+name = "lineK1002"
+position = 5.345680 -4.864198 0.563580
+
+[AnimationKey]
+name = "lineK1003"
+position = 5.451589 -4.806699 0.517581
+
+[AnimationKey]
+name = "lineK1004"
+position = 5.559214 -4.758116 0.476246
+
+[AnimationKey]
+name = "lineK1005"
+position = 5.668211 -4.719136 0.439198
+
+[AnimationKey]
+name = "lineK1006"
+position = 5.778235 -4.690444 0.406059
+
+[AnimationKey]
+name = "lineK1007"
+position = 5.888946 -4.672725 0.376452
+
+[AnimationKey]
+name = "lineK1008"
+position = 6.000000 -4.666667 0.350000
+
+[AnimationKey]
+name = "lineK1009"
+position = 6.110997 -4.672725 0.326363
+
+[AnimationKey]
+name = "lineK1010"
+position = 6.221307 -4.690444 0.305350
+
+[AnimationKey]
+name = "lineK1011"
+position = 6.330246 -4.719136 0.286806
+
+[AnimationKey]
+name = "lineK1012"
+position = 6.437129 -4.758116 0.270576
+
+[AnimationKey]
+name = "lineK1013"
+position = 6.541266 -4.806699 0.256507
+
+[AnimationKey]
+name = "lineK1014"
+position = 6.641975 -4.864198 0.244444
+
+[AnimationKey]
+name = "lineK1015"
+position = 6.738569 -4.929927 0.234234
+
+[AnimationKey]
+name = "lineK1016"
+position = 6.830361 -5.003201 0.225720
+
+[AnimationKey]
+name = "lineK1017"
+position = 6.916667 -5.083333 0.218750
+
+[AnimationKey]
+name = "lineK1018"
+position = 6.996799 -5.169639 0.213169
+
+[AnimationKey]
+name = "lineK1019"
+position = 7.070074 -5.261431 0.208822
+
+[AnimationKey]
+name = "lineK1020"
+position = 7.135802 -5.358025 0.205556
+
+[AnimationKey]
+name = "lineK1021"
+position = 7.193301 -5.458734 0.203215
+
+[AnimationKey]
+name = "lineK1022"
+position = 7.241884 -5.562872 0.201646
+
+[AnimationKey]
+name = "lineK1023"
+position = 7.280865 -5.669754 0.200694
+
+[AnimationKey]
+name = "lineK1024"
+position = 7.309556 -5.778692 0.200206
+
+[AnimationKey]
+name = "lineK1025"
+position = 7.327275 -5.889003 0.200026
+
+[AnimationKey]
+name = "lineK1026"
+position = 7.333333 -6.000000 0.200000
+
+[AnimationKey]
+name = "lineK1027"
+position = 7.327246 -6.110968 0.200000
+
+[AnimationKey]
+name = "lineK1028"
+position = 7.309328 -6.221078 0.200000
+
+[AnimationKey]
+name = "lineK1029"
+position = 7.280093 -6.329475 0.200000
+
+[AnimationKey]
+name = "lineK1030"
+position = 7.240055 -6.435299 0.200000
+
+[AnimationKey]
+name = "lineK1031"
+position = 7.189729 -6.537694 0.200000
+
+[AnimationKey]
+name = "lineK1032"
+position = 7.129630 -6.635803 0.200000
+
+[AnimationKey]
+name = "lineK1033"
+position = 7.060271 -6.728766 0.200000
+
+[AnimationKey]
+name = "lineK1034"
+position = 6.982167 -6.815730 0.200000
+
+[AnimationKey]
+name = "lineK1035"
+position = 6.895833 -6.895833 0.200000
+
+[AnimationKey]
+name = "lineK1036"
+position = 6.801783 -6.968222 0.200000
+
+[AnimationKey]
+name = "lineK1037"
+position = 6.700532 -7.032036 0.200000
+
+[AnimationKey]
+name = "lineK1038"
+position = 6.592593 -7.086420 0.200000
+
+[AnimationKey]
+name = "lineK1039"
+position = 6.478481 -7.130516 0.200000
+
+[AnimationKey]
+name = "lineK1040"
+position = 6.358711 -7.163466 0.200000
+
+[AnimationKey]
+name = "lineK1041"
+position = 6.233797 -7.184414 0.200000
+
+[AnimationKey]
+name = "lineK1042"
+position = 6.104252 -7.192501 0.200000
+
+[AnimationKey]
+name = "lineK1043"
+position = 5.970593 -7.186872 0.200000
+
+[AnimationKey]
+name = "lineK1044"
+position = 5.833333 -7.166667 0.200000
+
+[AnimationKey]
+name = "lineK1045"
+position = 5.693101 -7.131315 0.200000
+
+[AnimationKey]
+name = "lineK1046"
+position = 5.550983 -7.081390 0.200000
+
+[AnimationKey]
+name = "lineK1047"
+position = 5.408179 -7.017746 0.200000
+
+[AnimationKey]
+name = "lineK1048"
+position = 5.265889 -6.941244 0.200000
+
+[AnimationKey]
+name = "lineK1049"
+position = 5.125314 -6.852738 0.200000
+
+[AnimationKey]
+name = "lineK1050"
+position = 4.987655 -6.753087 0.200000
+
+[AnimationKey]
+name = "lineK1051"
+position = 4.854110 -6.643147 0.200000
+
+[AnimationKey]
+name = "lineK1052"
+position = 4.725880 -6.523777 0.200000
+
+[AnimationKey]
+name = "lineK1053"
+position = 4.604167 -6.395833 0.200000
+
+[AnimationKey]
+name = "lineK1054"
+position = 4.490170 -6.260174 0.200000
+
+[AnimationKey]
+name = "lineK1055"
+position = 4.385088 -6.117656 0.200000
+
+[AnimationKey]
+name = "lineK1056"
+position = 4.290123 -5.969136 0.200000
+
+[AnimationKey]
+name = "lineK1057"
+position = 4.206476 -5.815472 0.200000
+
+[AnimationKey]
+name = "lineK1058"
+position = 4.135345 -5.657522 0.200000
+
+[AnimationKey]
+name = "lineK1059"
+position = 4.077932 -5.496142 0.200000
+
+[AnimationKey]
+name = "lineK1060"
+position = 4.035437 -5.332191 0.200000
+
+[AnimationKey]
+name = "lineK1061"
+position = 4.009059 -5.166524 0.200000
+
+[AnimationKey]
+name = "lineK1062"
+position = 4.000000 -5.000000 0.200000
+
+[AnimationKey]
+name = "lineK1063"
+position = 4.009058 -4.833362 0.200057
+
+[AnimationKey]
+name = "lineK1064"
+position = 4.035437 -4.666895 0.200457
+
+[AnimationKey]
+name = "lineK1065"
+position = 4.077932 -4.500772 0.201543
+
+[AnimationKey]
+name = "lineK1066"
+position = 4.135345 -4.335162 0.203658
+
+[AnimationKey]
+name = "lineK1067"
+position = 4.206476 -4.170238 0.207145
+
+[AnimationKey]
+name = "lineK1068"
+position = 4.290123 -4.006173 0.212346
+
+[AnimationKey]
+name = "lineK1069"
+position = 4.385088 -3.843136 0.219604
+
+[AnimationKey]
+name = "lineK1070"
+position = 4.490169 -3.681298 0.229264
+
+[AnimationKey]
+name = "lineK1071"
+position = 4.604167 -3.520833 0.241667
+
+[AnimationKey]
+name = "lineK1072"
+position = 4.725880 -3.361911 0.257156
+
+[AnimationKey]
+name = "lineK1073"
+position = 4.854109 -3.204704 0.276075
+
+[AnimationKey]
+name = "lineK1074"
+position = 4.987655 -3.049383 0.298765
+
+[AnimationKey]
+name = "lineK1075"
+position = 5.125315 -2.896119 0.325572
+
+[AnimationKey]
+name = "lineK1076"
+position = 5.265889 -2.745085 0.356836
+
+[AnimationKey]
+name = "lineK1077"
+position = 5.408179 -2.596451 0.392901
+
+[AnimationKey]
+name = "lineK1078"
+position = 5.550983 -2.450389 0.434111
+
+[AnimationKey]
+name = "lineK1079"
+position = 5.693101 -2.307070 0.480807
+
+[AnimationKey]
+name = "lineK1080"
+position = 5.833333 -2.166667 0.533333
+
+[AnimationKey]
+name = "lineK1081"
+position = 5.970607 -2.029306 0.591804
+
+[AnimationKey]
+name = "lineK1082"
+position = 6.104366 -1.894947 0.655418
+
+[AnimationKey]
+name = "lineK1083"
+position = 6.234182 -1.763503 0.723148
+
+[AnimationKey]
+name = "lineK1084"
+position = 6.359625 -1.634888 0.793964
+
+[AnimationKey]
+name = "lineK1085"
+position = 6.480267 -1.509016 0.866838
+
+[AnimationKey]
+name = "lineK1086"
+position = 6.595679 -1.385803 0.940741
+
+[AnimationKey]
+name = "lineK1087"
+position = 6.705433 -1.265161 1.014643
+
+[AnimationKey]
+name = "lineK1088"
+position = 6.809100 -1.147005 1.087517
+
+[AnimationKey]
+name = "lineK1089"
+position = 6.906250 -1.031250 1.158333
+
+[AnimationKey]
+name = "lineK1090"
+position = 6.996456 -0.917810 1.226063
+
+[AnimationKey]
+name = "lineK1091"
+position = 7.079289 -0.806599 1.289678
+
+[AnimationKey]
+name = "lineK1092"
+position = 7.154321 -0.697531 1.348148
+
+[AnimationKey]
+name = "lineK1093"
+position = 7.221122 -0.590521 1.400446
+
+[AnimationKey]
+name = "lineK1094"
+position = 7.279264 -0.485482 1.445542
+
+[AnimationKey]
+name = "lineK1095"
+position = 7.328318 -0.382330 1.482407
+
+[AnimationKey]
+name = "lineK1096"
+position = 7.367856 -0.280979 1.510014
+
+[AnimationKey]
+name = "lineK1097"
+position = 7.397448 -0.181342 1.527332
+
+[AnimationKey]
+name = "lineK1098"
+position = 7.416667 -0.083333 1.533333
+
+[AnimationKey]
+name = "lineK1099"
+position = 7.425254 0.013132 1.527389
+
+[AnimationKey]
+name = "lineK1100"
+position = 7.423639 0.108139 1.510471
+
+[AnimationKey]
+name = "lineK1101"
+position = 7.412423 0.201775 1.483951
+
+[AnimationKey]
+name = "lineK1102"
+position = 7.392204 0.294124 1.449200
+
+[AnimationKey]
+name = "lineK1103"
+position = 7.363583 0.385274 1.407590
+
+[AnimationKey]
+name = "lineK1104"
+position = 7.327160 0.475309 1.360494
+
+[AnimationKey]
+name = "lineK1105"
+position = 7.283537 0.564315 1.309282
+
+[AnimationKey]
+name = "lineK1106"
+position = 7.233310 0.652378 1.255327
+
+[AnimationKey]
+name = "lineK1107"
+position = 7.177083 0.739583 1.200000
+
+[AnimationKey]
+name = "lineK1108"
+position = 7.115455 0.826017 1.144673
+
+[AnimationKey]
+name = "lineK1109"
+position = 7.049026 0.911766 1.090718
+
+[AnimationKey]
+name = "lineK1110"
+position = 6.978395 0.996914 1.039506
+
+[AnimationKey]
+name = "lineK1111"
+position = 6.904164 1.081547 0.992410
+
+[AnimationKey]
+name = "lineK1112"
+position = 6.826932 1.165752 0.950800
+
+[AnimationKey]
+name = "lineK1113"
+position = 6.747300 1.249614 0.916049
+
+[AnimationKey]
+name = "lineK1114"
+position = 6.665866 1.333219 0.889529
+
+[AnimationKey]
+name = "lineK1115"
+position = 6.583233 1.416652 0.872611
+
+[AnimationKey]
+name = "lineK1116"
+position = 6.500000 1.500000 0.866667
+
+[AnimationKey]
+name = "lineK1117"
+position = 6.416752 1.583333 0.872611
+
+[AnimationKey]
+name = "lineK1118"
+position = 6.334019 1.666667 0.889529
+
+[AnimationKey]
+name = "lineK1119"
+position = 6.252315 1.750000 0.916049
+
+[AnimationKey]
+name = "lineK1120"
+position = 6.172153 1.833333 0.950800
+
+[AnimationKey]
+name = "lineK1121"
+position = 6.094050 1.916667 0.992410
+
+[AnimationKey]
+name = "lineK1122"
+position = 6.018518 2.000000 1.039506
+
+[AnimationKey]
+name = "lineK1123"
+position = 5.946074 2.083333 1.090718
+
+[AnimationKey]
+name = "lineK1124"
+position = 5.877229 2.166667 1.144673
+
+[AnimationKey]
+name = "lineK1125"
+position = 5.812500 2.250000 1.200000
+
+[AnimationKey]
+name = "lineK1126"
+position = 5.752400 2.333333 1.255327
+
+[AnimationKey]
+name = "lineK1127"
+position = 5.697446 2.416667 1.309282
+
+[AnimationKey]
+name = "lineK1128"
+position = 5.648149 2.500000 1.360494
+
+[AnimationKey]
+name = "lineK1129"
+position = 5.605024 2.583333 1.407590
+
+[AnimationKey]
+name = "lineK1130"
+position = 5.568587 2.666667 1.449200
+
+[AnimationKey]
+name = "lineK1131"
+position = 5.539352 2.750000 1.483951
+
+[AnimationKey]
+name = "lineK1132"
+position = 5.517833 2.833333 1.510471
+
+[AnimationKey]
+name = "lineK1133"
+position = 5.504544 2.916667 1.527389
+
+[AnimationKey]
+name = "lineK1134"
+position = 5.500000 3.000000 1.533333
+
+[AnimationKey]
+name = "lineK1135"
+position = 5.504544 3.083333 1.527389
+
+[AnimationKey]
+name = "lineK1136"
+position = 5.517833 3.166667 1.510471
+
+[AnimationKey]
+name = "lineK1137"
+position = 5.539351 3.250000 1.483951
+
+[AnimationKey]
+name = "lineK1138"
+position = 5.568587 3.333333 1.449200
+
+[AnimationKey]
+name = "lineK1139"
+position = 5.605023 3.416667 1.407590
+
+[AnimationKey]
+name = "lineK1140"
+position = 5.648148 3.500000 1.360494
+
+[AnimationKey]
+name = "lineK1141"
+position = 5.697445 3.583333 1.309282
+
+[AnimationKey]
+name = "lineK1142"
+position = 5.752400 3.666667 1.255327
+
+[AnimationKey]
+name = "lineK1143"
+position = 5.812500 3.750000 1.200000
+
+[AnimationKey]
+name = "lineK1144"
+position = 5.877229 3.833333 1.144673
+
+[AnimationKey]
+name = "lineK1145"
+position = 5.946073 3.916667 1.090718
+
+[AnimationKey]
+name = "lineK1146"
+position = 6.018519 4.000000 1.039506
+
+[AnimationKey]
+name = "lineK1147"
+position = 6.094049 4.083333 0.992410
+
+[AnimationKey]
+name = "lineK1148"
+position = 6.172153 4.166667 0.950800
+
+[AnimationKey]
+name = "lineK1149"
+position = 6.252316 4.250000 0.916049
+
+[AnimationKey]
+name = "lineK1150"
+position = 6.334019 4.333333 0.889529
+
+[AnimationKey]
+name = "lineK1151"
+position = 6.416752 4.416667 0.872611
+
+[AnimationKey]
+name = "lineK1152"
+position = 6.500000 4.500000 0.866667
+
+[AnimationKey]
+name = "lineK1153"
+position = 6.583248 4.583333 0.872611
+
+[AnimationKey]
+name = "lineK1154"
+position = 6.665980 4.666667 0.889529
+
+[AnimationKey]
+name = "lineK1155"
+position = 6.747685 4.750000 0.916049
+
+[AnimationKey]
+name = "lineK1156"
+position = 6.827847 4.833333 0.950800
+
+[AnimationKey]
+name = "lineK1157"
+position = 6.905950 4.916667 0.992410
+
+[AnimationKey]
+name = "lineK1158"
+position = 6.981482 5.000000 1.039506
+
+[AnimationKey]
+name = "lineK1159"
+position = 7.053927 5.083334 1.090718
+
+[AnimationKey]
+name = "lineK1160"
+position = 7.122771 5.166667 1.144673
+
+[AnimationKey]
+name = "lineK1161"
+position = 7.187500 5.250000 1.200000
+
+[AnimationKey]
+name = "lineK1162"
+position = 7.247599 5.333333 1.255327
+
+[AnimationKey]
+name = "lineK1163"
+position = 7.302555 5.416667 1.309282
+
+[AnimationKey]
+name = "lineK1164"
+position = 7.351852 5.500000 1.360494
+
+[AnimationKey]
+name = "lineK1165"
+position = 7.394976 5.583333 1.407590
+
+[AnimationKey]
+name = "lineK1166"
+position = 7.431413 5.666667 1.449200
+
+[AnimationKey]
+name = "lineK1167"
+position = 7.460648 5.750000 1.483951
+
+[AnimationKey]
+name = "lineK1168"
+position = 7.482167 5.833333 1.510471
+
+[AnimationKey]
+name = "lineK1169"
+position = 7.495456 5.916666 1.527389
+
+[AnimationKey]
+name = "lineK1170"
+position = 7.500000 6.000000 1.533333
+
+[AnimationKey]
+name = "lineK1171"
+position = 7.495456 6.083248 1.527389
+
+[AnimationKey]
+name = "lineK1172"
+position = 7.482167 6.165981 1.510471
+
+[AnimationKey]
+name = "lineK1173"
+position = 7.460648 6.247685 1.483951
+
+[AnimationKey]
+name = "lineK1174"
+position = 7.431413 6.327847 1.449200
+
+[AnimationKey]
+name = "lineK1175"
+position = 7.394976 6.405950 1.407590
+
+[AnimationKey]
+name = "lineK1176"
+position = 7.351852 6.481482 1.360494
+
+[AnimationKey]
+name = "lineK1177"
+position = 7.302556 6.553927 1.309282
+
+[AnimationKey]
+name = "lineK1178"
+position = 7.247599 6.622771 1.255327
+
+[AnimationKey]
+name = "lineK1179"
+position = 7.187500 6.687500 1.200000
+
+[AnimationKey]
+name = "lineK1180"
+position = 7.122771 6.747600 1.144673
+
+[AnimationKey]
+name = "lineK1181"
+position = 7.053927 6.802555 1.090718
+
+[AnimationKey]
+name = "lineK1182"
+position = 6.981482 6.851852 1.039506
+
+[AnimationKey]
+name = "lineK1183"
+position = 6.905950 6.894976 0.992410
+
+[AnimationKey]
+name = "lineK1184"
+position = 6.827847 6.931413 0.950800
+
+[AnimationKey]
+name = "lineK1185"
+position = 6.747685 6.960649 0.916049
+
+[AnimationKey]
+name = "lineK1186"
+position = 6.665980 6.982168 0.889529
+
+[AnimationKey]
+name = "lineK1187"
+position = 6.583247 6.995456 0.872611
+
+[AnimationKey]
+name = "lineK1188"
+position = 6.500000 7.000000 0.866667
+
+[AnimationKey]
+name = "lineK1189"
+position = 6.416666 6.995456 0.872611
+
+[AnimationKey]
+name = "lineK1190"
+position = 6.333333 6.982168 0.889529
+
+[AnimationKey]
+name = "lineK1191"
+position = 6.250000 6.960649 0.916049
+
+[AnimationKey]
+name = "lineK1192"
+position = 6.166667 6.931413 0.950800
+
+[AnimationKey]
+name = "lineK1193"
+position = 6.083333 6.894976 0.992410
+
+[AnimationKey]
+name = "lineK1194"
+position = 6.000000 6.851852 1.039506
+
+[AnimationKey]
+name = "lineK1195"
+position = 5.916667 6.802556 1.090718
+
+[AnimationKey]
+name = "lineK1196"
+position = 5.833333 6.747599 1.144673
+
+[AnimationKey]
+name = "lineK1197"
+position = 5.750000 6.687500 1.200000
+
+[AnimationKey]
+name = "lineK1198"
+position = 5.666667 6.622771 1.255327
+
+[AnimationKey]
+name = "lineK1199"
+position = 5.583334 6.553927 1.309282
+
+[AnimationKey]
+name = "lineK1200"
+position = 5.500000 6.481482 1.360494
+
+[AnimationKey]
+name = "lineK1201"
+position = 5.416667 6.405950 1.407590
+
+[AnimationKey]
+name = "lineK1202"
+position = 5.333333 6.327846 1.449200
+
+[AnimationKey]
+name = "lineK1203"
+position = 5.250000 6.247685 1.483951
+
+[AnimationKey]
+name = "lineK1204"
+position = 5.166667 6.165981 1.510471
+
+[AnimationKey]
+name = "lineK1205"
+position = 5.083333 6.083248 1.527389
+
+[AnimationKey]
+name = "lineK1206"
+position = 5.000000 6.000000 1.533333
+
+[AnimationKey]
+name = "lineK1207"
+position = 4.916667 5.916752 1.527389
+
+[AnimationKey]
+name = "lineK1208"
+position = 4.833333 5.834019 1.510471
+
+[AnimationKey]
+name = "lineK1209"
+position = 4.750000 5.752315 1.483951
+
+[AnimationKey]
+name = "lineK1210"
+position = 4.666667 5.672153 1.449200
+
+[AnimationKey]
+name = "lineK1211"
+position = 4.583333 5.594050 1.407590
+
+[AnimationKey]
+name = "lineK1212"
+position = 4.500000 5.518518 1.360494
+
+[AnimationKey]
+name = "lineK1213"
+position = 4.416667 5.446074 1.309282
+
+[AnimationKey]
+name = "lineK1214"
+position = 4.333333 5.377229 1.255327
+
+[AnimationKey]
+name = "lineK1215"
+position = 4.250000 5.312500 1.200000
+
+[AnimationKey]
+name = "lineK1216"
+position = 4.166667 5.252400 1.144673
+
+[AnimationKey]
+name = "lineK1217"
+position = 4.083333 5.197446 1.090718
+
+[AnimationKey]
+name = "lineK1218"
+position = 4.000000 5.148149 1.039506
+
+[AnimationKey]
+name = "lineK1219"
+position = 3.916667 5.105024 0.992410
+
+[AnimationKey]
+name = "lineK1220"
+position = 3.833333 5.068587 0.950800
+
+[AnimationKey]
+name = "lineK1221"
+position = 3.750000 5.039352 0.916049
+
+[AnimationKey]
+name = "lineK1222"
+position = 3.666667 5.017833 0.889529
+
+[AnimationKey]
+name = "lineK1223"
+position = 3.583333 5.004544 0.872611
+
+[AnimationKey]
+name = "lineK1224"
+position = 3.500000 5.000000 0.866667
+
+[AnimationKey]
+name = "lineK1225"
+position = 3.416667 5.004543 0.872611
+
+[AnimationKey]
+name = "lineK1226"
+position = 3.333333 5.017833 0.889529
+
+[AnimationKey]
+name = "lineK1227"
+position = 3.250000 5.039351 0.916049
+
+[AnimationKey]
+name = "lineK1228"
+position = 3.166667 5.068587 0.950800
+
+[AnimationKey]
+name = "lineK1229"
+position = 3.083333 5.105024 0.992410
+
+[AnimationKey]
+name = "lineK1230"
+position = 3.000000 5.148148 1.039506
+
+[AnimationKey]
+name = "lineK1231"
+position = 2.916667 5.197445 1.090718
+
+[AnimationKey]
+name = "lineK1232"
+position = 2.833333 5.252400 1.144673
+
+[AnimationKey]
+name = "lineK1233"
+position = 2.750000 5.312500 1.200000
+
+[AnimationKey]
+name = "lineK1234"
+position = 2.666667 5.377229 1.255327
+
+[AnimationKey]
+name = "lineK1235"
+position = 2.583333 5.446074 1.309282
+
+[AnimationKey]
+name = "lineK1236"
+position = 2.500000 5.518519 1.360494
+
+[AnimationKey]
+name = "lineK1237"
+position = 2.416667 5.594050 1.407590
+
+[AnimationKey]
+name = "lineK1238"
+position = 2.333333 5.672153 1.449200
+
+[AnimationKey]
+name = "lineK1239"
+position = 2.250000 5.752315 1.483951
+
+[AnimationKey]
+name = "lineK1240"
+position = 2.166667 5.834019 1.510471
+
+[AnimationKey]
+name = "lineK1241"
+position = 2.083333 5.916752 1.527389
+
+[AnimationKey]
+name = "lineK1242"
+position = 2.000000 6.000000 1.533333
+
+[AnimationKey]
+name = "lineK1243"
+position = 1.916667 6.083248 1.527389
+
+[AnimationKey]
+name = "lineK1244"
+position = 1.833333 6.165981 1.510471
+
+[AnimationKey]
+name = "lineK1245"
+position = 1.750000 6.247685 1.483951
+
+[AnimationKey]
+name = "lineK1246"
+position = 1.666667 6.327847 1.449200
+
+[AnimationKey]
+name = "lineK1247"
+position = 1.583333 6.405950 1.407590
+
+[AnimationKey]
+name = "lineK1248"
+position = 1.500000 6.481482 1.360494
+
+[AnimationKey]
+name = "lineK1249"
+position = 1.416667 6.553927 1.309282
+
+[AnimationKey]
+name = "lineK1250"
+position = 1.333333 6.622771 1.255327
+
+[AnimationKey]
+name = "lineK1251"
+position = 1.250000 6.687500 1.200000
+
+[AnimationKey]
+name = "lineK1252"
+position = 1.166667 6.747600 1.144673
+
+[AnimationKey]
+name = "lineK1253"
+position = 1.083333 6.802555 1.090718
+
+[AnimationKey]
+name = "lineK1254"
+position = 1.000000 6.851852 1.039506
+
+[AnimationKey]
+name = "lineK1255"
+position = 0.916667 6.894976 0.992410
+
+[AnimationKey]
+name = "lineK1256"
+position = 0.833333 6.931413 0.950800
+
+[AnimationKey]
+name = "lineK1257"
+position = 0.750000 6.960649 0.916049
+
+[AnimationKey]
+name = "lineK1258"
+position = 0.666667 6.982168 0.889529
+
+[AnimationKey]
+name = "lineK1259"
+position = 0.583333 6.995456 0.872611
+
+[AnimationKey]
+name = "lineK1260"
+position = 0.500000 7.000000 0.866667
+
+[AnimationKey]
+name = "lineK1261"
+position = 0.416752 6.995456 0.872611
+
+[AnimationKey]
+name = "lineK1262"
+position = 0.334019 6.982168 0.889529
+
+[AnimationKey]
+name = "lineK1263"
+position = 0.252315 6.960649 0.916049
+
+[AnimationKey]
+name = "lineK1264"
+position = 0.172154 6.931413 0.950800
+
+[AnimationKey]
+name = "lineK1265"
+position = 0.094050 6.894976 0.992410
+
+[AnimationKey]
+name = "lineK1266"
+position = 0.018518 6.851852 1.039506
+
+[AnimationKey]
+name = "lineK1267"
+position = -0.053927 6.802556 1.090718
+
+[AnimationKey]
+name = "lineK1268"
+position = -0.122771 6.747599 1.144673
+
+[AnimationKey]
+name = "lineK1269"
+position = -0.187500 6.687500 1.200000
+
+[AnimationKey]
+name = "lineK1270"
+position = -0.247599 6.622771 1.255327
+
+[AnimationKey]
+name = "lineK1271"
+position = -0.302555 6.553927 1.309282
+
+[AnimationKey]
+name = "lineK1272"
+position = -0.351852 6.481482 1.360494
+
+[AnimationKey]
+name = "lineK1273"
+position = -0.394976 6.405950 1.407590
+
+[AnimationKey]
+name = "lineK1274"
+position = -0.431413 6.327846 1.449200
+
+[AnimationKey]
+name = "lineK1275"
+position = -0.460648 6.247685 1.483951
+
+[AnimationKey]
+name = "lineK1276"
+position = -0.482167 6.165981 1.510471
+
+[AnimationKey]
+name = "lineK1277"
+position = -0.495456 6.083248 1.527389
+
+[AnimationKey]
+name = "lineK1278"
+position = -0.500000 6.000000 1.533333
+
+[AnimationKey]
+name = "lineK1279"
+position = -0.495456 5.916666 1.527389
+
+[AnimationKey]
+name = "lineK1280"
+position = -0.482167 5.833333 1.510471
+
+[AnimationKey]
+name = "lineK1281"
+position = -0.460648 5.750000 1.483951
+
+[AnimationKey]
+name = "lineK1282"
+position = -0.431413 5.666667 1.449200
+
+[AnimationKey]
+name = "lineK1283"
+position = -0.394976 5.583333 1.407590
+
+[AnimationKey]
+name = "lineK1284"
+position = -0.351852 5.500000 1.360494
+
+[AnimationKey]
+name = "lineK1285"
+position = -0.302555 5.416667 1.309282
+
+[AnimationKey]
+name = "lineK1286"
+position = -0.247599 5.333333 1.255327
+
+[AnimationKey]
+name = "lineK1287"
+position = -0.187500 5.250000 1.200000
+
+[AnimationKey]
+name = "lineK1288"
+position = -0.122771 5.166667 1.144673
+
+[AnimationKey]
+name = "lineK1289"
+position = -0.053927 5.083334 1.090718
+
+[AnimationKey]
+name = "lineK1290"
+position = 0.018519 5.000000 1.039506
+
+[AnimationKey]
+name = "lineK1291"
+position = 0.094050 4.916667 0.992410
+
+[AnimationKey]
+name = "lineK1292"
+position = 0.172154 4.833333 0.950800
+
+[AnimationKey]
+name = "lineK1293"
+position = 0.252315 4.750000 0.916049
+
+[AnimationKey]
+name = "lineK1294"
+position = 0.334019 4.666667 0.889529
+
+[AnimationKey]
+name = "lineK1295"
+position = 0.416752 4.583333 0.872611
+
+[AnimationKey]
+name = "lineK1296"
+position = 0.500000 4.500000 0.866667
+
+[AnimationKey]
+name = "lineK1297"
+position = 0.583248 4.416667 0.872611
+
+[AnimationKey]
+name = "lineK1298"
+position = 0.665981 4.333333 0.889529
+
+[AnimationKey]
+name = "lineK1299"
+position = 0.747685 4.250000 0.916049
+
+[AnimationKey]
+name = "lineK1300"
+position = 0.827846 4.166667 0.950800
+
+[AnimationKey]
+name = "lineK1301"
+position = 0.905950 4.083333 0.992410
+
+[AnimationKey]
+name = "lineK1302"
+position = 0.981482 4.000000 1.039506
+
+[AnimationKey]
+name = "lineK1303"
+position = 1.053927 3.916667 1.090718
+
+[AnimationKey]
+name = "lineK1304"
+position = 1.122771 3.833333 1.144673
+
+[AnimationKey]
+name = "lineK1305"
+position = 1.187500 3.750000 1.200000
+
+[AnimationKey]
+name = "lineK1306"
+position = 1.247599 3.666667 1.255327
+
+[AnimationKey]
+name = "lineK1307"
+position = 1.302555 3.583333 1.309282
+
+[AnimationKey]
+name = "lineK1308"
+position = 1.351852 3.500000 1.360494
+
+[AnimationKey]
+name = "lineK1309"
+position = 1.394976 3.416667 1.407590
+
+[AnimationKey]
+name = "lineK1310"
+position = 1.431413 3.333333 1.449200
+
+[AnimationKey]
+name = "lineK1311"
+position = 1.460648 3.250000 1.483951
+
+[AnimationKey]
+name = "lineK1312"
+position = 1.482167 3.166667 1.510471
+
+[AnimationKey]
+name = "lineK1313"
+position = 1.495456 3.083333 1.527389
+
+[AnimationKey]
+name = "lineK1314"
+position = 1.500000 3.000000 1.533333
+
+[AnimationKey]
+name = "lineK1315"
+position = 1.495456 2.916667 1.527389
+
+[AnimationKey]
+name = "lineK1316"
+position = 1.482167 2.833333 1.510471
+
+[AnimationKey]
+name = "lineK1317"
+position = 1.460648 2.750000 1.483951
+
+[AnimationKey]
+name = "lineK1318"
+position = 1.431413 2.666667 1.449200
+
+[AnimationKey]
+name = "lineK1319"
+position = 1.394976 2.583333 1.407590
+
+[AnimationKey]
+name = "lineK1320"
+position = 1.351852 2.500000 1.360494
+
+[AnimationKey]
+name = "lineK1321"
+position = 1.302555 2.416667 1.309282
+
+[AnimationKey]
+name = "lineK1322"
+position = 1.247599 2.333333 1.255327
+
+[AnimationKey]
+name = "lineK1323"
+position = 1.187500 2.250000 1.200000
+
+[AnimationKey]
+name = "lineK1324"
+position = 1.122771 2.166667 1.144673
+
+[AnimationKey]
+name = "lineK1325"
+position = 1.053927 2.083333 1.090718
+
+[AnimationKey]
+name = "lineK1326"
+position = 0.981481 2.000000 1.039506
+
+[AnimationKey]
+name = "lineK1327"
+position = 0.905950 1.916667 0.992410
+
+[AnimationKey]
+name = "lineK1328"
+position = 0.827846 1.833333 0.950800
+
+[AnimationKey]
+name = "lineK1329"
+position = 0.747685 1.750000 0.916049
+
+[AnimationKey]
+name = "lineK1330"
+position = 0.665981 1.666667 0.889529
+
+[AnimationKey]
+name = "lineK1331"
+position = 0.583248 1.583333 0.872611
+
+[AnimationKey]
+name = "lineK1332"
+position = 0.500000 1.500000 0.866667
+
+[AnimationKey]
+name = "lineK1333"
+position = 0.416752 1.416667 0.872611
+
+[AnimationKey]
+name = "lineK1334"
+position = 0.334019 1.333333 0.889529
+
+[AnimationKey]
+name = "lineK1335"
+position = 0.252315 1.250000 0.916049
+
+[AnimationKey]
+name = "lineK1336"
+position = 0.172154 1.166667 0.950800
+
+[AnimationKey]
+name = "lineK1337"
+position = 0.094050 1.083333 0.992410
+
+[AnimationKey]
+name = "lineK1338"
+position = 0.018518 1.000000 1.039506
+
+[AnimationKey]
+name = "lineK1339"
+position = -0.053927 0.916667 1.090718
+
+[AnimationKey]
+name = "lineK1340"
+position = -0.122771 0.833333 1.144673
+
+[AnimationKey]
+name = "lineK1341"
+position = -0.187500 0.750000 1.200000
+
+[AnimationKey]
+name = "lineK1342"
+position = -0.247599 0.666667 1.255327
+
+[AnimationKey]
+name = "lineK1343"
+position = -0.302555 0.583333 1.309282
+
+[AnimationKey]
+name = "lineK1344"
+position = -0.351852 0.500000 1.360494
+
+[AnimationKey]
+name = "lineK1345"
+position = -0.394976 0.416667 1.407590
+
+[AnimationKey]
+name = "lineK1346"
+position = -0.431413 0.333333 1.449200
+
+[AnimationKey]
+name = "lineK1347"
+position = -0.460648 0.250000 1.483951
+
+[AnimationKey]
+name = "lineK1348"
+position = -0.482167 0.166667 1.510471
+
+[AnimationKey]
+name = "lineK1349"
+position = -0.495456 0.083333 1.527389
+
+[AnimationKey]
+name = "lineK1350"
+position = -0.500000 0.000000 1.533333
+
+[AnimationKey]
+name = "lineK1351"
+position = -0.495456 -0.083248 1.527361
+
+[AnimationKey]
+name = "lineK1352"
+position = -0.482167 -0.165981 1.510242
+
+[AnimationKey]
+name = "lineK1353"
+position = -0.460648 -0.247685 1.483179
+
+[AnimationKey]
+name = "lineK1354"
+position = -0.431413 -0.327846 1.447371
+
+[AnimationKey]
+name = "lineK1355"
+position = -0.394976 -0.405950 1.404018
+
+[AnimationKey]
+name = "lineK1356"
+position = -0.351852 -0.481482 1.354321
+
+[AnimationKey]
+name = "lineK1357"
+position = -0.302555 -0.553927 1.299480
+
+[AnimationKey]
+name = "lineK1358"
+position = -0.247599 -0.622771 1.240695
+
+[AnimationKey]
+name = "lineK1359"
+position = -0.187500 -0.687500 1.179167
+
+[AnimationKey]
+name = "lineK1360"
+position = -0.122771 -0.747599 1.116095
+
+[AnimationKey]
+name = "lineK1361"
+position = -0.053927 -0.802555 1.052681
+
+[AnimationKey]
+name = "lineK1362"
+position = 0.018519 -0.851852 0.990124
+
+[AnimationKey]
+name = "lineK1363"
+position = 0.094050 -0.894976 0.929624
+
+[AnimationKey]
+name = "lineK1364"
+position = 0.172154 -0.931413 0.872382
+
+[AnimationKey]
+name = "lineK1365"
+position = 0.252315 -0.960648 0.819599
+
+[AnimationKey]
+name = "lineK1366"
+position = 0.334019 -0.982167 0.772474
+
+[AnimationKey]
+name = "lineK1367"
+position = 0.416752 -0.995456 0.732207
+
+[AnimationKey]
+name = "lineK1368"
+position = 0.500000 -1.000000 0.700000
+
+[AnimationKey]
+name = "lineK1369"
+position = 0.583333 -0.995456 0.676766
+
+[AnimationKey]
+name = "lineK1370"
+position = 0.666667 -0.982167 0.662277
+
+[AnimationKey]
+name = "lineK1371"
+position = 0.750000 -0.960648 0.656018
+
+[AnimationKey]
+name = "lineK1372"
+position = 0.833333 -0.931413 0.657476
+
+[AnimationKey]
+name = "lineK1373"
+position = 0.916667 -0.894976 0.666135
+
+[AnimationKey]
+name = "lineK1374"
+position = 1.000000 -0.851852 0.681482
+
+[AnimationKey]
+name = "lineK1375"
+position = 1.083333 -0.802555 0.703001
+
+[AnimationKey]
+name = "lineK1376"
+position = 1.166667 -0.747599 0.730178
+
+[AnimationKey]
+name = "lineK1377"
+position = 1.250000 -0.687500 0.762500
+
+[AnimationKey]
+name = "lineK1378"
+position = 1.333333 -0.622771 0.799451
+
+[AnimationKey]
+name = "lineK1379"
+position = 1.416667 -0.553927 0.840518
+
+[AnimationKey]
+name = "lineK1380"
+position = 1.500000 -0.481481 0.885185
+
+[AnimationKey]
+name = "lineK1381"
+position = 1.583333 -0.405950 0.932939
+
+[AnimationKey]
+name = "lineK1382"
+position = 1.666667 -0.327846 0.983265
+
+[AnimationKey]
+name = "lineK1383"
+position = 1.750000 -0.247685 1.035648
+
+[AnimationKey]
+name = "lineK1384"
+position = 1.833333 -0.165981 1.089575
+
+[AnimationKey]
+name = "lineK1385"
+position = 1.916667 -0.083248 1.144530
+
+[AnimationKey]
+name = "lineK1386"
+position = 2.000000 0.000000 1.200000
+
+[AnimationKey]
+name = "lineK1387"
+position = 2.083333 0.083248 1.255473
+
+[AnimationKey]
+name = "lineK1388"
+position = 2.166667 0.165981 1.310448
+
+[AnimationKey]
+name = "lineK1389"
+position = 2.250000 0.247685 1.364429
+
+[AnimationKey]
+name = "lineK1390"
+position = 2.333333 0.327846 1.416918
+
+[AnimationKey]
+name = "lineK1391"
+position = 2.416667 0.405950 1.467418
+
+[AnimationKey]
+name = "lineK1392"
+position = 2.500000 0.481482 1.515432
+
+[AnimationKey]
+name = "lineK1393"
+position = 2.583333 0.553927 1.560462
+
+[AnimationKey]
+name = "lineK1394"
+position = 2.666667 0.622771 1.602012
+
+[AnimationKey]
+name = "lineK1395"
+position = 2.750000 0.687500 1.639583
+
+[AnimationKey]
+name = "lineK1396"
+position = 2.833333 0.747599 1.672680
+
+[AnimationKey]
+name = "lineK1397"
+position = 2.916667 0.802555 1.700803
+
+[AnimationKey]
+name = "lineK1398"
+position = 3.000000 0.851852 1.723457
+
+[AnimationKey]
+name = "lineK1399"
+position = 3.083333 0.894976 1.740144
+
+[AnimationKey]
+name = "lineK1400"
+position = 3.166667 0.931413 1.750366
+
+[AnimationKey]
+name = "lineK1401"
+position = 3.250000 0.960648 1.753627
+
+[AnimationKey]
+name = "lineK1402"
+position = 3.333333 0.982167 1.749428
+
+[AnimationKey]
+name = "lineK1403"
+position = 3.416667 0.995456 1.737274
+
+[AnimationKey]
+name = "lineK1404"
+position = 3.500000 1.000000 1.716667
+
+[AnimationKey]
+name = "lineK1405"
+position = 3.583248 0.995456 1.687417
+
+[AnimationKey]
+name = "lineK1406"
+position = 3.665981 0.982167 1.650572
+
+[AnimationKey]
+name = "lineK1407"
+position = 3.747685 0.960648 1.607485
+
+[AnimationKey]
+name = "lineK1408"
+position = 3.827847 0.931413 1.559511
+
+[AnimationKey]
+name = "lineK1409"
+position = 3.905950 0.894976 1.508005
+
+[AnimationKey]
+name = "lineK1410"
+position = 3.981482 0.851852 1.454321
+
+[AnimationKey]
+name = "lineK1411"
+position = 4.053927 0.802555 1.399814
+
+[AnimationKey]
+name = "lineK1412"
+position = 4.122771 0.747599 1.345839
+
+[AnimationKey]
+name = "lineK1413"
+position = 4.187500 0.687500 1.293750
+
+[AnimationKey]
+name = "lineK1414"
+position = 4.247599 0.622771 1.244902
+
+[AnimationKey]
+name = "lineK1415"
+position = 4.302555 0.553927 1.200649
+
+[AnimationKey]
+name = "lineK1416"
+position = 4.351852 0.481481 1.162346
+
+[AnimationKey]
+name = "lineK1417"
+position = 4.394976 0.405950 1.131347
+
+[AnimationKey]
+name = "lineK1418"
+position = 4.431413 0.327846 1.109008
+
+[AnimationKey]
+name = "lineK1419"
+position = 4.460649 0.247685 1.096682
+
+[AnimationKey]
+name = "lineK1420"
+position = 4.482167 0.165981 1.095725
+
+[AnimationKey]
+name = "lineK1421"
+position = 4.495456 0.083248 1.107490
+
+[AnimationKey]
+name = "lineK1422"
+position = 4.500000 0.000000 1.133333
+
+[AnimationKey]
+name = "lineK1423"
+position = 4.495456 -0.083333 1.174083
+
+[AnimationKey]
+name = "lineK1424"
+position = 4.482167 -0.166667 1.228464
+
+[AnimationKey]
+name = "lineK1425"
+position = 4.460648 -0.250000 1.294676
+
+[AnimationKey]
+name = "lineK1426"
+position = 4.431412 -0.333333 1.370919
+
+[AnimationKey]
+name = "lineK1427"
+position = 4.394976 -0.416667 1.455393
+
+[AnimationKey]
+name = "lineK1428"
+position = 4.351852 -0.500000 1.546296
+
+[AnimationKey]
+name = "lineK1429"
+position = 4.302555 -0.583333 1.641830
+
+[AnimationKey]
+name = "lineK1430"
+position = 4.247600 -0.666667 1.740192
+
+[AnimationKey]
+name = "lineK1431"
+position = 4.187500 -0.750000 1.839583
+
+[AnimationKey]
+name = "lineK1432"
+position = 4.122771 -0.833333 1.938203
+
+[AnimationKey]
+name = "lineK1433"
+position = 4.053927 -0.916667 2.034251
+
+[AnimationKey]
+name = "lineK1434"
+position = 3.981482 -1.000000 2.125926
+
+[AnimationKey]
+name = "lineK1435"
+position = 3.905950 -1.083333 2.211428
+
+[AnimationKey]
+name = "lineK1436"
+position = 3.827846 -1.166667 2.288958
+
+[AnimationKey]
+name = "lineK1437"
+position = 3.747685 -1.250000 2.356713
+
+[AnimationKey]
+name = "lineK1438"
+position = 3.665981 -1.333333 2.412894
+
+[AnimationKey]
+name = "lineK1439"
+position = 3.583248 -1.416667 2.455701
+
+[AnimationKey]
+name = "lineK1440"
+position = 3.500000 -1.500000 2.483334
+
+[AnimationKey]
+name = "lineK1441"
+position = 3.416658 -1.583333 2.494576
+
+[AnimationKey]
+name = "lineK1442"
+position = 3.333265 -1.666667 2.490558
+
+[AnimationKey]
+name = "lineK1443"
+position = 3.249768 -1.750000 2.472994
+
+[AnimationKey]
+name = "lineK1444"
+position = 3.166118 -1.833333 2.443599
+
+[AnimationKey]
+name = "lineK1445"
+position = 3.082262 -1.916667 2.404087
+
+[AnimationKey]
+name = "lineK1446"
+position = 2.998148 -2.000000 2.356173
+
+[AnimationKey]
+name = "lineK1447"
+position = 2.913726 -2.083333 2.301572
+
+[AnimationKey]
+name = "lineK1448"
+position = 2.828944 -2.166667 2.241998
+
+[AnimationKey]
+name = "lineK1449"
+position = 2.743750 -2.250000 2.179167
+
+[AnimationKey]
+name = "lineK1450"
+position = 2.658093 -2.333333 2.114792
+
+[AnimationKey]
+name = "lineK1451"
+position = 2.571922 -2.416667 2.050589
+
+[AnimationKey]
+name = "lineK1452"
+position = 2.485185 -2.500000 1.988272
+
+[AnimationKey]
+name = "lineK1453"
+position = 2.397831 -2.583333 1.929555
+
+[AnimationKey]
+name = "lineK1454"
+position = 2.309808 -2.666667 1.876155
+
+[AnimationKey]
+name = "lineK1455"
+position = 2.221065 -2.750000 1.829784
+
+[AnimationKey]
+name = "lineK1456"
+position = 2.131550 -2.833333 1.792158
+
+[AnimationKey]
+name = "lineK1457"
+position = 2.041212 -2.916667 1.764992
+
+[AnimationKey]
+name = "lineK1458"
+position = 1.950000 -3.000000 1.750000
+
+[AnimationKey]
+name = "lineK1459"
+position = 1.857879 -3.083362 1.748463
+
+[AnimationKey]
+name = "lineK1460"
+position = 1.764883 -3.166895 1.759922
+
+[AnimationKey]
+name = "lineK1461"
+position = 1.671065 -3.250772 1.783488
+
+[AnimationKey]
+name = "lineK1462"
+position = 1.576475 -3.335162 1.818267
+
+[AnimationKey]
+name = "lineK1463"
+position = 1.481164 -3.420239 1.863369
+
+[AnimationKey]
+name = "lineK1464"
+position = 1.385185 -3.506173 1.917901
+
+[AnimationKey]
+name = "lineK1465"
+position = 1.288589 -3.593136 1.980973
+
+[AnimationKey]
+name = "lineK1466"
+position = 1.191427 -3.681298 2.051692
+
+[AnimationKey]
+name = "lineK1467"
+position = 1.093750 -3.770833 2.129167
+
+[AnimationKey]
+name = "lineK1468"
+position = 0.995610 -3.861911 2.212506
+
+[AnimationKey]
+name = "lineK1469"
+position = 0.897059 -3.954704 2.300817
+
+[AnimationKey]
+name = "lineK1470"
+position = 0.798148 -4.049383 2.393210
+
+[AnimationKey]
+name = "lineK1471"
+position = 0.698928 -4.146119 2.488791
+
+[AnimationKey]
+name = "lineK1472"
+position = 0.599451 -4.245085 2.586671
+
+[AnimationKey]
+name = "lineK1473"
+position = 0.499769 -4.346451 2.685957
+
+[AnimationKey]
+name = "lineK1474"
+position = 0.399931 -4.450389 2.785757
+
+[AnimationKey]
+name = "lineK1475"
+position = 0.299991 -4.557070 2.885180
+
+[AnimationKey]
+name = "lineK1476"
+position = 0.200000 -4.666667 2.983333
+
+[AnimationKey]
+name = "lineK1477"
+position = 0.100326 -4.779306 3.079332
+
+[AnimationKey]
+name = "lineK1478"
+position = 0.002606 -4.894948 3.172314
+
+[AnimationKey]
+name = "lineK1479"
+position = -0.091204 -5.013503 3.261420
+
+[AnimationKey]
+name = "lineK1480"
+position = -0.179150 -5.134888 3.345793
+
+[AnimationKey]
+name = "lineK1481"
+position = -0.259276 -5.259017 3.424577
+
+[AnimationKey]
+name = "lineK1482"
+position = -0.329630 -5.385803 3.496913
+
+[AnimationKey]
+name = "lineK1483"
+position = -0.388255 -5.515161 3.561946
+
+[AnimationKey]
+name = "lineK1484"
+position = -0.433196 -5.647005 3.618815
+
+[AnimationKey]
+name = "lineK1485"
+position = -0.462500 -5.781250 3.666667
+
+[AnimationKey]
+name = "lineK1486"
+position = -0.474211 -5.917810 3.704641
+
+[AnimationKey]
+name = "lineK1487"
+position = -0.466375 -6.056599 3.731882
+
+[AnimationKey]
+name = "lineK1488"
+position = -0.437037 -6.197531 3.747531
+
+[AnimationKey]
+name = "lineK1489"
+position = -0.384242 -6.340520 3.750732
+
+[AnimationKey]
+name = "lineK1490"
+position = -0.306036 -6.485483 3.740626
+
+[AnimationKey]
+name = "lineK1491"
+position = -0.200463 -6.632330 3.716358
+
+[AnimationKey]
+name = "lineK1492"
+position = -0.065569 -6.780979 3.677069
+
+[AnimationKey]
+name = "lineK1493"
+position = 0.100600 -6.931342 3.621902
+
+[AnimationKey]
+name = "lineK1494"
+position = 0.300000 -7.083334 3.550000
+
+[AnimationKey]
+name = "lineK1495"
+position = 0.533716 -7.236725 3.460934
+
+[AnimationKey]
+name = "lineK1496"
+position = 0.799360 -7.390718 3.355990
+
+[AnimationKey]
+name = "lineK1497"
+position = 1.093673 -7.544366 3.236883
+
+[AnimationKey]
+name = "lineK1498"
+position = 1.413397 -7.696730 3.105327
+
+[AnimationKey]
+name = "lineK1499"
+position = 1.755276 -7.846865 2.963037
+
+[AnimationKey]
+name = "lineK1500"
+position = 2.116050 -7.993827 2.811728
+
+[AnimationKey]
+name = "lineK1501"
+position = 2.492461 -8.136674 2.653115
+
+[AnimationKey]
+name = "lineK1502"
+position = 2.881253 -8.274463 2.488912
+
+[AnimationKey]
+name = "lineK1503"
+position = 3.279166 -8.406250 2.320833
+
+[AnimationKey]
+name = "lineK1504"
+position = 3.682945 -8.531093 2.150594
+
+[AnimationKey]
+name = "lineK1505"
+position = 4.089329 -8.648048 1.979910
+
+[AnimationKey]
+name = "lineK1506"
+position = 4.495062 -8.756172 1.810494
+
+[AnimationKey]
+name = "lineK1507"
+position = 4.896884 -8.854524 1.644062
+
+[AnimationKey]
+name = "lineK1508"
+position = 5.291541 -8.942159 1.482327
+
+[AnimationKey]
+name = "lineK1509"
+position = 5.675772 -9.018132 1.327006
+
+[AnimationKey]
+name = "lineK1510"
+position = 6.046319 -9.081504 1.179812
+
+[AnimationKey]
+name = "lineK1511"
+position = 6.399925 -9.131330 1.042461
+
+[AnimationKey]
+name = "lineK1512"
+position = 6.733334 -9.166667 0.916667
+
+[AnimationKey]
+name = "lineK1513"
+position = 7.043987 -9.186699 0.803735
+
+[AnimationKey]
+name = "lineK1514"
+position = 7.332144 -9.191130 0.703336
+
+[AnimationKey]
+name = "lineK1515"
+position = 7.598765 -9.179784 0.614730
+
+[AnimationKey]
+name = "lineK1516"
+position = 7.844810 -9.152492 0.537179
+
+[AnimationKey]
+name = "lineK1517"
+position = 8.071239 -9.109081 0.469943
+
+[AnimationKey]
+name = "lineK1518"
+position = 8.279013 -9.049383 0.412284
+
+[AnimationKey]
+name = "lineK1519"
+position = 8.469090 -8.973223 0.363462
+
+[AnimationKey]
+name = "lineK1520"
+position = 8.642432 -8.880429 0.322739
+
+[AnimationKey]
+name = "lineK1521"
+position = 8.799999 -8.770833 0.289375
+
+[AnimationKey]
+name = "lineK1522"
+position = 8.942753 -8.644261 0.262631
+
+[AnimationKey]
+name = "lineK1523"
+position = 9.071651 -8.500544 0.241769
+
+[AnimationKey]
+name = "lineK1524"
+position = 9.187654 -8.339506 0.226049
+
+[AnimationKey]
+name = "lineK1525"
+position = 9.291724 -8.160980 0.214733
+
+[AnimationKey]
+name = "lineK1526"
+position = 9.384820 -7.964792 0.207080
+
+[AnimationKey]
+name = "lineK1527"
+position = 9.467901 -7.750772 0.202353
+
+[AnimationKey]
+name = "lineK1528"
+position = 9.541929 -7.518747 0.199813
+
+[AnimationKey]
+name = "lineK1529"
+position = 9.607864 -7.268547 0.198719
+
+[AnimationKey]
+name = "lineK1530"
+position = 9.666667 -7.000000 0.198333
+
+[AnimationKey]
+name = "lineK1531"
+position = 9.719193 -6.713162 0.198041
+
+[AnimationKey]
+name = "lineK1532"
+position = 9.765889 -6.409008 0.197723
+
+[AnimationKey]
+name = "lineK1533"
+position = 9.807098 -6.088735 0.197384
+
+[AnimationKey]
+name = "lineK1534"
+position = 9.843163 -5.753543 0.197030
+
+[AnimationKey]
+name = "lineK1535"
+position = 9.874428 -5.404635 0.196666
+
+[AnimationKey]
+name = "lineK1536"
+position = 9.901235 -5.043210 0.196296
+
+[AnimationKey]
+name = "lineK1537"
+position = 9.923925 -4.670467 0.195927
+
+[AnimationKey]
+name = "lineK1538"
+position = 9.942844 -4.287609 0.195562
+
+[AnimationKey]
+name = "lineK1539"
+position = 9.958333 -3.895833 0.195208
+
+[AnimationKey]
+name = "lineK1540"
+position = 9.970737 -3.496342 0.194870
+
+[AnimationKey]
+name = "lineK1541"
+position = 9.980396 -3.090335 0.194552
+
+[AnimationKey]
+name = "lineK1542"
+position = 9.987655 -2.679013 0.194259
+
+[AnimationKey]
+name = "lineK1543"
+position = 9.992856 -2.263575 0.193998
+
+[AnimationKey]
+name = "lineK1544"
+position = 9.996343 -1.845221 0.193772
+
+[AnimationKey]
+name = "lineK1545"
+position = 9.998457 -1.425155 0.193588
+
+[AnimationKey]
+name = "lineK1546"
+position = 9.999542 -1.004572 0.193450
+
+[AnimationKey]
+name = "lineK1547"
+position = 9.999943 -0.584677 0.193363
+
+[AnimationKey]
+name = "lineK1548"
+position = 10.000001 -0.166667 0.193333
+
+[AnimationKey]
+name = "lineK1549"
+position = 10.000000 0.248314 0.193364
+
+[AnimationKey]
+name = "lineK1550"
+position = 9.999999 0.659351 0.193452
+
+[AnimationKey]
+name = "lineK1551"
+position = 10.000000 1.065587 0.193596
+
+[AnimationKey]
+name = "lineK1552"
+position = 9.999999 1.466164 0.193791
+
+[AnimationKey]
+name = "lineK1553"
+position = 10.000000 1.860225 0.194033
+
+[AnimationKey]
+name = "lineK1554"
+position = 10.000000 2.246914 0.194321
+
+[AnimationKey]
+name = "lineK1555"
+position = 10.000000 2.625372 0.194650
+
+[AnimationKey]
+name = "lineK1556"
+position = 10.000000 2.994742 0.195016
+
+[AnimationKey]
+name = "lineK1557"
+position = 9.999999 3.354167 0.195417
+
+[AnimationKey]
+name = "lineK1558"
+position = 10.000000 3.702789 0.195848
+
+[AnimationKey]
+name = "lineK1559"
+position = 10.000001 4.039752 0.196307
+
+[AnimationKey]
+name = "lineK1560"
+position = 10.000000 4.364198 0.196790
+
+[AnimationKey]
+name = "lineK1561"
+position = 10.000000 4.675268 0.197294
+
+[AnimationKey]
+name = "lineK1562"
+position = 10.000001 4.972109 0.197814
+
+[AnimationKey]
+name = "lineK1563"
+position = 10.000000 5.253858 0.198349
+
+[AnimationKey]
+name = "lineK1564"
+position = 10.000000 5.519662 0.198893
+
+[AnimationKey]
+name = "lineK1565"
+position = 10.000000 5.768661 0.199445
+
+[AnimationKey]
+name = "lineK1566"
+position = 10.000001 6.000000 0.200000
+
+[AnimationKey]
+name = "lineK1567"
+position = 9.999943 6.213163 0.200556
+
+[AnimationKey]
+name = "lineK1568"
+position = 9.999542 6.409008 0.201111
+
+[AnimationKey]
+name = "lineK1569"
+position = 9.998457 6.588735 0.201667
+
+[AnimationKey]
+name = "lineK1570"
+position = 9.996342 6.753544 0.202222
+
+[AnimationKey]
+name = "lineK1571"
+position = 9.992855 6.904635 0.202778
+
+[AnimationKey]
+name = "lineK1572"
+position = 9.987655 7.043210 0.203333
+
+[AnimationKey]
+name = "lineK1573"
+position = 9.980395 7.170468 0.203889
+
+[AnimationKey]
+name = "lineK1574"
+position = 9.970736 7.287609 0.204444
+
+[AnimationKey]
+name = "lineK1575"
+position = 9.958333 7.395833 0.205000
+
+[AnimationKey]
+name = "lineK1576"
+position = 9.942843 7.496342 0.205556
+
+[AnimationKey]
+name = "lineK1577"
+position = 9.923926 7.590335 0.206111
+
+[AnimationKey]
+name = "lineK1578"
+position = 9.901235 7.679013 0.206667
+
+[AnimationKey]
+name = "lineK1579"
+position = 9.874428 7.763574 0.207222
+
+[AnimationKey]
+name = "lineK1580"
+position = 9.843164 7.845222 0.207778
+
+[AnimationKey]
+name = "lineK1581"
+position = 9.807098 7.925155 0.208333
+
+[AnimationKey]
+name = "lineK1582"
+position = 9.765889 8.004572 0.208889
+
+[AnimationKey]
+name = "lineK1583"
+position = 9.719193 8.084677 0.209444
+
+[AnimationKey]
+name = "lineK1584"
+position = 9.666667 8.166667 0.210000
+
+[AnimationKey]
+name = "lineK1585"
+position = 9.608053 8.251457 0.210556
+
+[AnimationKey]
+name = "lineK1586"
+position = 9.543439 8.338820 0.211111
+
+[AnimationKey]
+name = "lineK1587"
+position = 9.472993 8.428241 0.211667
+
+[AnimationKey]
+name = "lineK1588"
+position = 9.396890 8.519204 0.212222
+
+[AnimationKey]
+name = "lineK1589"
+position = 9.315301 8.611197 0.212778
+
+[AnimationKey]
+name = "lineK1590"
+position = 9.228395 8.703704 0.213333
+
+[AnimationKey]
+name = "lineK1591"
+position = 9.136346 8.796211 0.213889
+
+[AnimationKey]
+name = "lineK1592"
+position = 9.039323 8.888204 0.214444
+
+[AnimationKey]
+name = "lineK1593"
+position = 8.937500 8.979166 0.215000
+
+[AnimationKey]
+name = "lineK1594"
+position = 8.831047 9.068587 0.215556
+
+[AnimationKey]
+name = "lineK1595"
+position = 8.720137 9.155951 0.216111
+
+[AnimationKey]
+name = "lineK1596"
+position = 8.604939 9.240741 0.216667
+
+[AnimationKey]
+name = "lineK1597"
+position = 8.485625 9.322446 0.217222
+
+[AnimationKey]
+name = "lineK1598"
+position = 8.362369 9.400549 0.217778
+
+[AnimationKey]
+name = "lineK1599"
+position = 8.235340 9.474537 0.218333
+
+[AnimationKey]
+name = "lineK1600"
+position = 8.104710 9.543896 0.218889
+
+[AnimationKey]
+name = "lineK1601"
+position = 7.970651 9.608110 0.219444
+
+[AnimationKey]
+name = "lineK1602"
+position = 7.833333 9.666667 0.220000
+
+[AnimationKey]
+name = "lineK1603"
+position = 7.692872 9.718906 0.220549
+
+[AnimationKey]
+name = "lineK1604"
+position = 7.549154 9.763603 0.221056
+
+[AnimationKey]
+name = "lineK1605"
+position = 7.402006 9.799382 0.221481
+
+[AnimationKey]
+name = "lineK1606"
+position = 7.251257 9.824874 0.221783
+
+[AnimationKey]
+name = "lineK1607"
+position = 7.096736 9.838705 0.221920
+
+[AnimationKey]
+name = "lineK1608"
+position = 6.938272 9.839506 0.221852
+
+[AnimationKey]
+name = "lineK1609"
+position = 6.775692 9.825903 0.221536
+
+[AnimationKey]
+name = "lineK1610"
+position = 6.608825 9.796525 0.220933
+
+[AnimationKey]
+name = "lineK1611"
+position = 6.437500 9.750000 0.220000
+
+[AnimationKey]
+name = "lineK1612"
+position = 6.261545 9.684957 0.218697
+
+[AnimationKey]
+name = "lineK1613"
+position = 6.080791 9.600023 0.216982
+
+[AnimationKey]
+name = "lineK1614"
+position = 5.895062 9.493828 0.214815
+
+[AnimationKey]
+name = "lineK1615"
+position = 5.704189 9.364998 0.212154
+
+[AnimationKey]
+name = "lineK1616"
+position = 5.508002 9.212163 0.208957
+
+[AnimationKey]
+name = "lineK1617"
+position = 5.306327 9.033951 0.205185
+
+[AnimationKey]
+name = "lineK1618"
+position = 5.098994 8.828989 0.200796
+
+[AnimationKey]
+name = "lineK1619"
+position = 4.885831 8.595907 0.195748
+
+[AnimationKey]
+name = "lineK1620"
+position = 4.666667 8.333334 0.190000
+
+[AnimationKey]
+name = "lineK1621"
+position = 4.441558 8.040695 0.183532
+
+[AnimationKey]
+name = "lineK1622"
+position = 4.211477 7.720622 0.176404
+
+[AnimationKey]
+name = "lineK1623"
+position = 3.977623 7.376543 0.168696
+
+[AnimationKey]
+name = "lineK1624"
+position = 3.741198 7.011888 0.160489
+
+[AnimationKey]
+name = "lineK1625"
+position = 3.503401 6.630086 0.151864
+
+[AnimationKey]
+name = "lineK1626"
+position = 3.265432 6.234568 0.142901
+
+[AnimationKey]
+name = "lineK1627"
+position = 3.028492 5.828761 0.133681
+
+[AnimationKey]
+name = "lineK1628"
+position = 2.793781 5.416095 0.124284
+
+[AnimationKey]
+name = "lineK1629"
+position = 2.562500 5.000000 0.114792
+
+[AnimationKey]
+name = "lineK1630"
+position = 2.335848 4.583905 0.105283
+
+[AnimationKey]
+name = "lineK1631"
+position = 2.115026 4.171239 0.095840
+
+[AnimationKey]
+name = "lineK1632"
+position = 1.901235 3.765432 0.086543
+
+[AnimationKey]
+name = "lineK1633"
+position = 1.695673 3.369913 0.077472
+
+[AnimationKey]
+name = "lineK1634"
+position = 1.499543 2.988111 0.068708
+
+[AnimationKey]
+name = "lineK1635"
+position = 1.314044 2.623457 0.060332
+
+[AnimationKey]
+name = "lineK1636"
+position = 1.140375 2.279378 0.052423
+
+[AnimationKey]
+name = "lineK1637"
+position = 0.979738 1.959305 0.045064
+
+[AnimationKey]
+name = "lineK1638"
+position = 0.833333 1.666667 0.038333
+
+[AnimationKey]
+name = "lineK1639"
+position = 0.702018 1.404035 0.032293
+
+[AnimationKey]
+name = "lineK1640"
+position = 0.585277 1.170553 0.026923
+
+[AnimationKey]
+name = "lineK1641"
+position = 0.482253 0.964506 0.022184
+
+[AnimationKey]
+name = "lineK1642"
+position = 0.392090 0.784179 0.018036
+
+[AnimationKey]
+name = "lineK1643"
+position = 0.313929 0.627858 0.014441
+
+[AnimationKey]
+name = "lineK1644"
+position = 0.246914 0.493827 0.011358
+
+[AnimationKey]
+name = "lineK1645"
+position = 0.190186 0.380373 0.008749
+
+[AnimationKey]
+name = "lineK1646"
+position = 0.142890 0.285780 0.006573
+
+[AnimationKey]
+name = "lineK1647"
+position = 0.104167 0.208333 0.004792
+
+[AnimationKey]
+name = "lineK1648"
+position = 0.073160 0.146319 0.003365
+
+[AnimationKey]
+name = "lineK1649"
+position = 0.049011 0.098022 0.002255
+
+[AnimationKey]
+name = "lineK1650"
+position = 0.030864 0.061728 0.001420
+
+[AnimationKey]
+name = "lineK1651"
+position = 0.017861 0.035722 0.000822
+
+[AnimationKey]
+name = "lineK1652"
+position = 0.009145 0.018290 0.000421
+
+[AnimationKey]
+name = "lineK1653"
+position = 0.003858 0.007716 0.000177
+
+[AnimationKey]
+name = "lineK1654"
+position = 0.001143 0.002286 0.000053
+
+[AnimationKey]
+name = "lineK1655"
+position = 0.000143 0.000286 0.000007
+
+
+[Animation]
+name = "BackAndForth"
+key = "lineK0"	time = 0.000000f
+key = "lineK1"	time = 0.100000f
+key = "lineK2"	time = 0.200000f
+key = "lineK3"	time = 0.300000f
+key = "lineK4"	time = 0.400000f
+key = "lineK5"	time = 0.500000f
+key = "lineK6"	time = 0.600000f
+key = "lineK7"	time = 0.700000f
+key = "lineK8"	time = 0.800000f
+key = "lineK9"	time = 0.900000f
+key = "lineK10"	time = 1.000000f
+key = "lineK11"	time = 1.100000f
+key = "lineK12"	time = 1.200000f
+key = "lineK13"	time = 1.300000f
+key = "lineK14"	time = 1.400000f
+key = "lineK15"	time = 1.500000f
+key = "lineK16"	time = 1.600000f
+key = "lineK17"	time = 1.700000f
+key = "lineK18"	time = 1.800000f
+key = "lineK19"	time = 1.900000f
+key = "lineK20"	time = 2.000000f
+key = "lineK21"	time = 2.100000f
+key = "lineK22"	time = 2.200000f
+key = "lineK23"	time = 2.300000f
+key = "lineK24"	time = 2.400000f
+key = "lineK25"	time = 2.500000f
+key = "lineK26"	time = 2.600000f
+key = "lineK27"	time = 2.700000f
+key = "lineK28"	time = 2.800000f
+key = "lineK29"	time = 2.900000f
+key = "lineK30"	time = 3.000000f
+key = "lineK31"	time = 3.100000f
+key = "lineK32"	time = 3.200000f
+key = "lineK33"	time = 3.300000f
+key = "lineK34"	time = 3.400000f
+key = "lineK35"	time = 3.500000f
+key = "lineK36"	time = 3.600000f
+key = "lineK37"	time = 3.700000f
+key = "lineK38"	time = 3.800000f
+key = "lineK39"	time = 3.900000f
+key = "lineK40"	time = 4.000000f
+key = "lineK41"	time = 4.100000f
+key = "lineK42"	time = 4.200000f
+key = "lineK43"	time = 4.300000f
+key = "lineK44"	time = 4.400000f
+key = "lineK45"	time = 4.500000f
+key = "lineK46"	time = 4.600000f
+key = "lineK47"	time = 4.700000f
+key = "lineK48"	time = 4.800000f
+key = "lineK49"	time = 4.900000f
+key = "lineK50"	time = 5.000000f
+key = "lineK51"	time = 5.100000f
+key = "lineK52"	time = 5.200000f
+key = "lineK53"	time = 5.300000f
+key = "lineK54"	time = 5.400000f
+key = "lineK55"	time = 5.500000f
+key = "lineK56"	time = 5.600000f
+key = "lineK57"	time = 5.700000f
+key = "lineK58"	time = 5.800000f
+key = "lineK59"	time = 5.900000f
+key = "lineK60"	time = 6.000000f
+key = "lineK61"	time = 6.100000f
+key = "lineK62"	time = 6.200000f
+key = "lineK63"	time = 6.300000f
+key = "lineK64"	time = 6.400000f
+key = "lineK65"	time = 6.500000f
+key = "lineK66"	time = 6.600000f
+key = "lineK67"	time = 6.700000f
+key = "lineK68"	time = 6.800000f
+key = "lineK69"	time = 6.900000f
+key = "lineK70"	time = 7.000000f
+key = "lineK71"	time = 7.100000f
+key = "lineK72"	time = 7.200000f
+key = "lineK73"	time = 7.300000f
+key = "lineK74"	time = 7.400000f
+key = "lineK75"	time = 7.500000f
+key = "lineK76"	time = 7.600000f
+key = "lineK77"	time = 7.700000f
+key = "lineK78"	time = 7.800000f
+key = "lineK79"	time = 7.900000f
+key = "lineK80"	time = 8.000000f
+key = "lineK81"	time = 8.100000f
+key = "lineK82"	time = 8.200000f
+key = "lineK83"	time = 8.300000f
+key = "lineK84"	time = 8.400000f
+key = "lineK85"	time = 8.500000f
+key = "lineK86"	time = 8.600000f
+key = "lineK87"	time = 8.700000f
+key = "lineK88"	time = 8.800000f
+key = "lineK89"	time = 8.900000f
+key = "lineK90"	time = 9.000000f
+key = "lineK91"	time = 9.100000f
+key = "lineK92"	time = 9.200000f
+key = "lineK93"	time = 9.300000f
+key = "lineK94"	time = 9.400000f
+key = "lineK95"	time = 9.500000f
+key = "lineK96"	time = 9.600000f
+key = "lineK97"	time = 9.700000f
+key = "lineK98"	time = 9.800000f
+key = "lineK99"	time = 9.900000f
+key = "lineK100"	time = 10.000000f
+key = "lineK101"	time = 10.100000f
+key = "lineK102"	time = 10.200000f
+key = "lineK103"	time = 10.300000f
+key = "lineK104"	time = 10.400000f
+key = "lineK105"	time = 10.500000f
+key = "lineK106"	time = 10.600000f
+key = "lineK107"	time = 10.700000f
+key = "lineK108"	time = 10.800000f
+key = "lineK109"	time = 10.900000f
+key = "lineK110"	time = 11.000000f
+key = "lineK111"	time = 11.100000f
+key = "lineK112"	time = 11.200000f
+key = "lineK113"	time = 11.300000f
+key = "lineK114"	time = 11.400000f
+key = "lineK115"	time = 11.500000f
+key = "lineK116"	time = 11.600000f
+key = "lineK117"	time = 11.700000f
+key = "lineK118"	time = 11.800000f
+key = "lineK119"	time = 11.900000f
+key = "lineK120"	time = 12.000000f
+key = "lineK121"	time = 12.100000f
+key = "lineK122"	time = 12.200000f
+key = "lineK123"	time = 12.300000f
+key = "lineK124"	time = 12.400000f
+key = "lineK125"	time = 12.500000f
+key = "lineK126"	time = 12.600000f
+key = "lineK127"	time = 12.700000f
+key = "lineK128"	time = 12.800000f
+key = "lineK129"	time = 12.900000f
+key = "lineK130"	time = 13.000000f
+key = "lineK131"	time = 13.100000f
+key = "lineK132"	time = 13.200000f
+key = "lineK133"	time = 13.300000f
+key = "lineK134"	time = 13.400000f
+key = "lineK135"	time = 13.500000f
+key = "lineK136"	time = 13.600000f
+key = "lineK137"	time = 13.700000f
+key = "lineK138"	time = 13.800000f
+key = "lineK139"	time = 13.900000f
+key = "lineK140"	time = 14.000000f
+key = "lineK141"	time = 14.100000f
+key = "lineK142"	time = 14.200000f
+key = "lineK143"	time = 14.300000f
+key = "lineK144"	time = 14.400000f
+key = "lineK145"	time = 14.500000f
+key = "lineK146"	time = 14.600000f
+key = "lineK147"	time = 14.700000f
+key = "lineK148"	time = 14.800000f
+key = "lineK149"	time = 14.900000f
+key = "lineK150"	time = 15.000000f
+key = "lineK151"	time = 15.100000f
+key = "lineK152"	time = 15.200000f
+key = "lineK153"	time = 15.300000f
+key = "lineK154"	time = 15.400000f
+key = "lineK155"	time = 15.500000f
+key = "lineK156"	time = 15.600000f
+key = "lineK157"	time = 15.700000f
+key = "lineK158"	time = 15.800000f
+key = "lineK159"	time = 15.900000f
+key = "lineK160"	time = 16.000000f
+key = "lineK161"	time = 16.100000f
+key = "lineK162"	time = 16.200000f
+key = "lineK163"	time = 16.300000f
+key = "lineK164"	time = 16.400000f
+key = "lineK165"	time = 16.500000f
+key = "lineK166"	time = 16.600000f
+key = "lineK167"	time = 16.700000f
+key = "lineK168"	time = 16.800000f
+key = "lineK169"	time = 16.900000f
+key = "lineK170"	time = 17.000000f
+key = "lineK171"	time = 17.100000f
+key = "lineK172"	time = 17.200000f
+key = "lineK173"	time = 17.300000f
+key = "lineK174"	time = 17.400000f
+key = "lineK175"	time = 17.500000f
+key = "lineK176"	time = 17.600000f
+key = "lineK177"	time = 17.700000f
+key = "lineK178"	time = 17.800000f
+key = "lineK179"	time = 17.900000f
+key = "lineK180"	time = 18.000000f
+key = "lineK181"	time = 18.100000f
+key = "lineK182"	time = 18.200000f
+key = "lineK183"	time = 18.300000f
+key = "lineK184"	time = 18.400000f
+key = "lineK185"	time = 18.500000f
+key = "lineK186"	time = 18.600000f
+key = "lineK187"	time = 18.700000f
+key = "lineK188"	time = 18.800000f
+key = "lineK189"	time = 18.900000f
+key = "lineK190"	time = 19.000000f
+key = "lineK191"	time = 19.100000f
+key = "lineK192"	time = 19.200000f
+key = "lineK193"	time = 19.300000f
+key = "lineK194"	time = 19.400000f
+key = "lineK195"	time = 19.500000f
+key = "lineK196"	time = 19.600000f
+key = "lineK197"	time = 19.700000f
+key = "lineK198"	time = 19.800000f
+key = "lineK199"	time = 19.900000f
+key = "lineK200"	time = 20.000000f
+key = "lineK201"	time = 20.100000f
+key = "lineK202"	time = 20.200000f
+key = "lineK203"	time = 20.300000f
+key = "lineK204"	time = 20.400000f
+key = "lineK205"	time = 20.500000f
+key = "lineK206"	time = 20.600000f
+key = "lineK207"	time = 20.700000f
+key = "lineK208"	time = 20.800000f
+key = "lineK209"	time = 20.900000f
+key = "lineK210"	time = 21.000000f
+key = "lineK211"	time = 21.100000f
+key = "lineK212"	time = 21.200000f
+key = "lineK213"	time = 21.300000f
+key = "lineK214"	time = 21.400000f
+key = "lineK215"	time = 21.500000f
+key = "lineK216"	time = 21.600000f
+key = "lineK217"	time = 21.700000f
+key = "lineK218"	time = 21.800000f
+key = "lineK219"	time = 21.900000f
+key = "lineK220"	time = 22.000000f
+key = "lineK221"	time = 22.100000f
+key = "lineK222"	time = 22.200000f
+key = "lineK223"	time = 22.300000f
+key = "lineK224"	time = 22.400000f
+key = "lineK225"	time = 22.500000f
+key = "lineK226"	time = 22.600000f
+key = "lineK227"	time = 22.700000f
+key = "lineK228"	time = 22.800000f
+key = "lineK229"	time = 22.900000f
+key = "lineK230"	time = 23.000000f
+key = "lineK231"	time = 23.100000f
+key = "lineK232"	time = 23.200000f
+key = "lineK233"	time = 23.300000f
+key = "lineK234"	time = 23.400000f
+key = "lineK235"	time = 23.500000f
+key = "lineK236"	time = 23.600000f
+key = "lineK237"	time = 23.700000f
+key = "lineK238"	time = 23.800000f
+key = "lineK239"	time = 23.900000f
+key = "lineK240"	time = 24.000000f
+key = "lineK241"	time = 24.100000f
+key = "lineK242"	time = 24.200000f
+key = "lineK243"	time = 24.300000f
+key = "lineK244"	time = 24.400000f
+key = "lineK245"	time = 24.500000f
+key = "lineK246"	time = 24.600000f
+key = "lineK247"	time = 24.700000f
+key = "lineK248"	time = 24.800000f
+key = "lineK249"	time = 24.900000f
+key = "lineK250"	time = 25.000000f
+key = "lineK251"	time = 25.100000f
+key = "lineK252"	time = 25.200000f
+key = "lineK253"	time = 25.300000f
+key = "lineK254"	time = 25.400000f
+key = "lineK255"	time = 25.500000f
+key = "lineK256"	time = 25.600000f
+key = "lineK257"	time = 25.700000f
+key = "lineK258"	time = 25.800000f
+key = "lineK259"	time = 25.900000f
+key = "lineK260"	time = 26.000000f
+key = "lineK261"	time = 26.100000f
+key = "lineK262"	time = 26.200000f
+key = "lineK263"	time = 26.300000f
+key = "lineK264"	time = 26.400000f
+key = "lineK265"	time = 26.500000f
+key = "lineK266"	time = 26.600000f
+key = "lineK267"	time = 26.700000f
+key = "lineK268"	time = 26.800000f
+key = "lineK269"	time = 26.900000f
+key = "lineK270"	time = 27.000000f
+key = "lineK271"	time = 27.100000f
+key = "lineK272"	time = 27.200000f
+key = "lineK273"	time = 27.300000f
+key = "lineK274"	time = 27.400000f
+key = "lineK275"	time = 27.500000f
+key = "lineK276"	time = 27.600000f
+key = "lineK277"	time = 27.700000f
+key = "lineK278"	time = 27.800000f
+key = "lineK279"	time = 27.900000f
+key = "lineK280"	time = 28.000000f
+key = "lineK281"	time = 28.100000f
+key = "lineK282"	time = 28.200000f
+key = "lineK283"	time = 28.300000f
+key = "lineK284"	time = 28.400000f
+key = "lineK285"	time = 28.500000f
+key = "lineK286"	time = 28.600000f
+key = "lineK287"	time = 28.700000f
+key = "lineK288"	time = 28.800000f
+key = "lineK289"	time = 28.900000f
+key = "lineK290"	time = 29.000000f
+key = "lineK291"	time = 29.100000f
+key = "lineK292"	time = 29.200000f
+key = "lineK293"	time = 29.300000f
+key = "lineK294"	time = 29.400000f
+key = "lineK295"	time = 29.500000f
+key = "lineK296"	time = 29.600000f
+key = "lineK297"	time = 29.700000f
+key = "lineK298"	time = 29.800000f
+key = "lineK299"	time = 29.900000f
+key = "lineK300"	time = 30.000000f
+key = "lineK301"	time = 30.100000f
+key = "lineK302"	time = 30.200000f
+key = "lineK303"	time = 30.300000f
+key = "lineK304"	time = 30.400000f
+key = "lineK305"	time = 30.500000f
+key = "lineK306"	time = 30.600000f
+key = "lineK307"	time = 30.700000f
+key = "lineK308"	time = 30.800000f
+key = "lineK309"	time = 30.900000f
+key = "lineK310"	time = 31.000000f
+key = "lineK311"	time = 31.100000f
+key = "lineK312"	time = 31.200000f
+key = "lineK313"	time = 31.300000f
+key = "lineK314"	time = 31.400000f
+key = "lineK315"	time = 31.500000f
+key = "lineK316"	time = 31.600000f
+key = "lineK317"	time = 31.700000f
+key = "lineK318"	time = 31.800000f
+key = "lineK319"	time = 31.900000f
+key = "lineK320"	time = 32.000000f
+key = "lineK321"	time = 32.100000f
+key = "lineK322"	time = 32.200000f
+key = "lineK323"	time = 32.300000f
+key = "lineK324"	time = 32.400000f
+key = "lineK325"	time = 32.500000f
+key = "lineK326"	time = 32.600000f
+key = "lineK327"	time = 32.700000f
+key = "lineK328"	time = 32.800000f
+key = "lineK329"	time = 32.900000f
+key = "lineK330"	time = 33.000000f
+key = "lineK331"	time = 33.100000f
+key = "lineK332"	time = 33.200000f
+key = "lineK333"	time = 33.300000f
+key = "lineK334"	time = 33.400000f
+key = "lineK335"	time = 33.500000f
+key = "lineK336"	time = 33.600000f
+key = "lineK337"	time = 33.700000f
+key = "lineK338"	time = 33.800000f
+key = "lineK339"	time = 33.900000f
+key = "lineK340"	time = 34.000000f
+key = "lineK341"	time = 34.100000f
+key = "lineK342"	time = 34.200000f
+key = "lineK343"	time = 34.300000f
+key = "lineK344"	time = 34.400000f
+key = "lineK345"	time = 34.500000f
+key = "lineK346"	time = 34.600000f
+key = "lineK347"	time = 34.700000f
+key = "lineK348"	time = 34.800000f
+key = "lineK349"	time = 34.900000f
+key = "lineK350"	time = 35.000000f
+key = "lineK351"	time = 35.100000f
+key = "lineK352"	time = 35.200000f
+key = "lineK353"	time = 35.300000f
+key = "lineK354"	time = 35.400000f
+key = "lineK355"	time = 35.500000f
+key = "lineK356"	time = 35.600000f
+key = "lineK357"	time = 35.700000f
+key = "lineK358"	time = 35.800000f
+key = "lineK359"	time = 35.900000f
+key = "lineK360"	time = 36.000000f
+key = "lineK361"	time = 36.100000f
+key = "lineK362"	time = 36.200000f
+key = "lineK363"	time = 36.300000f
+key = "lineK364"	time = 36.400000f
+key = "lineK365"	time = 36.500000f
+key = "lineK366"	time = 36.600000f
+key = "lineK367"	time = 36.700000f
+key = "lineK368"	time = 36.800000f
+key = "lineK369"	time = 36.900000f
+key = "lineK370"	time = 37.000000f
+key = "lineK371"	time = 37.100000f
+key = "lineK372"	time = 37.200000f
+key = "lineK373"	time = 37.300000f
+key = "lineK374"	time = 37.400000f
+key = "lineK375"	time = 37.500000f
+key = "lineK376"	time = 37.600000f
+key = "lineK377"	time = 37.700000f
+key = "lineK378"	time = 37.800000f
+key = "lineK379"	time = 37.900000f
+key = "lineK380"	time = 38.000000f
+key = "lineK381"	time = 38.100000f
+key = "lineK382"	time = 38.200000f
+key = "lineK383"	time = 38.300000f
+key = "lineK384"	time = 38.400000f
+key = "lineK385"	time = 38.500000f
+key = "lineK386"	time = 38.600000f
+key = "lineK387"	time = 38.700000f
+key = "lineK388"	time = 38.800000f
+key = "lineK389"	time = 38.900000f
+key = "lineK390"	time = 39.000000f
+key = "lineK391"	time = 39.100000f
+key = "lineK392"	time = 39.200000f
+key = "lineK393"	time = 39.300000f
+key = "lineK394"	time = 39.400000f
+key = "lineK395"	time = 39.500000f
+key = "lineK396"	time = 39.600000f
+key = "lineK397"	time = 39.700000f
+key = "lineK398"	time = 39.800000f
+key = "lineK399"	time = 39.900000f
+key = "lineK400"	time = 40.000000f
+key = "lineK401"	time = 40.100000f
+key = "lineK402"	time = 40.200000f
+key = "lineK403"	time = 40.300000f
+key = "lineK404"	time = 40.400000f
+key = "lineK405"	time = 40.500000f
+key = "lineK406"	time = 40.600000f
+key = "lineK407"	time = 40.700000f
+key = "lineK408"	time = 40.800000f
+key = "lineK409"	time = 40.900000f
+key = "lineK410"	time = 41.000000f
+key = "lineK411"	time = 41.100000f
+key = "lineK412"	time = 41.200000f
+key = "lineK413"	time = 41.300000f
+key = "lineK414"	time = 41.400000f
+key = "lineK415"	time = 41.500000f
+key = "lineK416"	time = 41.600000f
+key = "lineK417"	time = 41.700000f
+key = "lineK418"	time = 41.800000f
+key = "lineK419"	time = 41.900000f
+key = "lineK420"	time = 42.000000f
+key = "lineK421"	time = 42.100000f
+key = "lineK422"	time = 42.200000f
+key = "lineK423"	time = 42.300000f
+key = "lineK424"	time = 42.400000f
+key = "lineK425"	time = 42.500000f
+key = "lineK426"	time = 42.600000f
+key = "lineK427"	time = 42.700000f
+key = "lineK428"	time = 42.800000f
+key = "lineK429"	time = 42.900000f
+key = "lineK430"	time = 43.000000f
+key = "lineK431"	time = 43.100000f
+key = "lineK432"	time = 43.200000f
+key = "lineK433"	time = 43.300000f
+key = "lineK434"	time = 43.400000f
+key = "lineK435"	time = 43.500000f
+key = "lineK436"	time = 43.600000f
+key = "lineK437"	time = 43.700000f
+key = "lineK438"	time = 43.800000f
+key = "lineK439"	time = 43.900000f
+key = "lineK440"	time = 44.000000f
+key = "lineK441"	time = 44.100000f
+key = "lineK442"	time = 44.200000f
+key = "lineK443"	time = 44.300000f
+key = "lineK444"	time = 44.400000f
+key = "lineK445"	time = 44.500000f
+key = "lineK446"	time = 44.600000f
+key = "lineK447"	time = 44.700000f
+key = "lineK448"	time = 44.800000f
+key = "lineK449"	time = 44.900000f
+key = "lineK450"	time = 45.000000f
+key = "lineK451"	time = 45.100000f
+key = "lineK452"	time = 45.200000f
+key = "lineK453"	time = 45.300000f
+key = "lineK454"	time = 45.400000f
+key = "lineK455"	time = 45.500000f
+key = "lineK456"	time = 45.600000f
+key = "lineK457"	time = 45.700000f
+key = "lineK458"	time = 45.800000f
+key = "lineK459"	time = 45.900000f
+key = "lineK460"	time = 46.000000f
+key = "lineK461"	time = 46.100000f
+key = "lineK462"	time = 46.200000f
+key = "lineK463"	time = 46.300000f
+key = "lineK464"	time = 46.400000f
+key = "lineK465"	time = 46.500000f
+key = "lineK466"	time = 46.600000f
+key = "lineK467"	time = 46.700000f
+key = "lineK468"	time = 46.800000f
+key = "lineK469"	time = 46.900000f
+key = "lineK470"	time = 47.000000f
+key = "lineK471"	time = 47.100000f
+key = "lineK472"	time = 47.200000f
+key = "lineK473"	time = 47.300000f
+key = "lineK474"	time = 47.400000f
+key = "lineK475"	time = 47.500000f
+key = "lineK476"	time = 47.600000f
+key = "lineK477"	time = 47.700000f
+key = "lineK478"	time = 47.800000f
+key = "lineK479"	time = 47.900000f
+key = "lineK480"	time = 48.000000f
+key = "lineK481"	time = 48.100000f
+key = "lineK482"	time = 48.200000f
+key = "lineK483"	time = 48.300000f
+key = "lineK484"	time = 48.400000f
+key = "lineK485"	time = 48.500000f
+key = "lineK486"	time = 48.600000f
+key = "lineK487"	time = 48.700000f
+key = "lineK488"	time = 48.800000f
+key = "lineK489"	time = 48.900000f
+key = "lineK490"	time = 49.000000f
+key = "lineK491"	time = 49.100000f
+key = "lineK492"	time = 49.200000f
+key = "lineK493"	time = 49.300000f
+key = "lineK494"	time = 49.400000f
+key = "lineK495"	time = 49.500000f
+key = "lineK496"	time = 49.600000f
+key = "lineK497"	time = 49.700000f
+key = "lineK498"	time = 49.800000f
+key = "lineK499"	time = 49.900000f
+key = "lineK500"	time = 50.000000f
+key = "lineK501"	time = 50.100000f
+key = "lineK502"	time = 50.200000f
+key = "lineK503"	time = 50.300000f
+key = "lineK504"	time = 50.400000f
+key = "lineK505"	time = 50.500000f
+key = "lineK506"	time = 50.600000f
+key = "lineK507"	time = 50.700000f
+key = "lineK508"	time = 50.800000f
+key = "lineK509"	time = 50.900000f
+key = "lineK510"	time = 51.000000f
+key = "lineK511"	time = 51.100000f
+key = "lineK512"	time = 51.200000f
+key = "lineK513"	time = 51.300000f
+key = "lineK514"	time = 51.400000f
+key = "lineK515"	time = 51.500000f
+key = "lineK516"	time = 51.600000f
+key = "lineK517"	time = 51.700000f
+key = "lineK518"	time = 51.800000f
+key = "lineK519"	time = 51.900000f
+key = "lineK520"	time = 52.000000f
+key = "lineK521"	time = 52.100000f
+key = "lineK522"	time = 52.200000f
+key = "lineK523"	time = 52.300000f
+key = "lineK524"	time = 52.400000f
+key = "lineK525"	time = 52.500000f
+key = "lineK526"	time = 52.600000f
+key = "lineK527"	time = 52.700000f
+key = "lineK528"	time = 52.800000f
+key = "lineK529"	time = 52.900000f
+key = "lineK530"	time = 53.000000f
+key = "lineK531"	time = 53.100000f
+key = "lineK532"	time = 53.200000f
+key = "lineK533"	time = 53.300000f
+key = "lineK534"	time = 53.400000f
+key = "lineK535"	time = 53.500000f
+key = "lineK536"	time = 53.600000f
+key = "lineK537"	time = 53.700000f
+key = "lineK538"	time = 53.800000f
+key = "lineK539"	time = 53.900000f
+key = "lineK540"	time = 54.000000f
+key = "lineK541"	time = 54.100000f
+key = "lineK542"	time = 54.200000f
+key = "lineK543"	time = 54.300000f
+key = "lineK544"	time = 54.400000f
+key = "lineK545"	time = 54.500000f
+key = "lineK546"	time = 54.600000f
+key = "lineK547"	time = 54.700000f
+key = "lineK548"	time = 54.800000f
+key = "lineK549"	time = 54.900000f
+key = "lineK550"	time = 55.000000f
+key = "lineK551"	time = 55.100000f
+key = "lineK552"	time = 55.200000f
+key = "lineK553"	time = 55.300000f
+key = "lineK554"	time = 55.400000f
+key = "lineK555"	time = 55.500000f
+key = "lineK556"	time = 55.600000f
+key = "lineK557"	time = 55.700000f
+key = "lineK558"	time = 55.800000f
+key = "lineK559"	time = 55.900000f
+key = "lineK560"	time = 56.000000f
+key = "lineK561"	time = 56.100000f
+key = "lineK562"	time = 56.200000f
+key = "lineK563"	time = 56.300000f
+key = "lineK564"	time = 56.400000f
+key = "lineK565"	time = 56.500000f
+key = "lineK566"	time = 56.600000f
+key = "lineK567"	time = 56.700000f
+key = "lineK568"	time = 56.800000f
+key = "lineK569"	time = 56.900000f
+key = "lineK570"	time = 57.000000f
+key = "lineK571"	time = 57.100000f
+key = "lineK572"	time = 57.200000f
+key = "lineK573"	time = 57.300000f
+key = "lineK574"	time = 57.400000f
+key = "lineK575"	time = 57.500000f
+key = "lineK576"	time = 57.600000f
+key = "lineK577"	time = 57.700000f
+key = "lineK578"	time = 57.800000f
+key = "lineK579"	time = 57.900000f
+key = "lineK580"	time = 58.000000f
+key = "lineK581"	time = 58.100000f
+key = "lineK582"	time = 58.200000f
+key = "lineK583"	time = 58.300000f
+key = "lineK584"	time = 58.400000f
+key = "lineK585"	time = 58.500000f
+key = "lineK586"	time = 58.600000f
+key = "lineK587"	time = 58.700000f
+key = "lineK588"	time = 58.800000f
+key = "lineK589"	time = 58.900000f
+key = "lineK590"	time = 59.000000f
+key = "lineK591"	time = 59.100000f
+key = "lineK592"	time = 59.200000f
+key = "lineK593"	time = 59.300000f
+key = "lineK594"	time = 59.400000f
+key = "lineK595"	time = 59.500000f
+key = "lineK596"	time = 59.600000f
+key = "lineK597"	time = 59.700000f
+key = "lineK598"	time = 59.800000f
+key = "lineK599"	time = 59.900000f
+key = "lineK600"	time = 60.000000f
+key = "lineK601"	time = 60.100000f
+key = "lineK602"	time = 60.200000f
+key = "lineK603"	time = 60.300000f
+key = "lineK604"	time = 60.400000f
+key = "lineK605"	time = 60.500000f
+key = "lineK606"	time = 60.600000f
+key = "lineK607"	time = 60.700000f
+key = "lineK608"	time = 60.800000f
+key = "lineK609"	time = 60.900000f
+key = "lineK610"	time = 61.000000f
+key = "lineK611"	time = 61.100000f
+key = "lineK612"	time = 61.200000f
+key = "lineK613"	time = 61.300000f
+key = "lineK614"	time = 61.400000f
+key = "lineK615"	time = 61.500000f
+key = "lineK616"	time = 61.600000f
+key = "lineK617"	time = 61.700000f
+key = "lineK618"	time = 61.800000f
+key = "lineK619"	time = 61.900000f
+key = "lineK620"	time = 62.000000f
+key = "lineK621"	time = 62.100000f
+key = "lineK622"	time = 62.200000f
+key = "lineK623"	time = 62.300000f
+key = "lineK624"	time = 62.400000f
+key = "lineK625"	time = 62.500000f
+key = "lineK626"	time = 62.600000f
+key = "lineK627"	time = 62.700000f
+key = "lineK628"	time = 62.800000f
+key = "lineK629"	time = 62.900000f
+key = "lineK630"	time = 63.000000f
+key = "lineK631"	time = 63.100000f
+key = "lineK632"	time = 63.200000f
+key = "lineK633"	time = 63.300000f
+key = "lineK634"	time = 63.400000f
+key = "lineK635"	time = 63.500000f
+key = "lineK636"	time = 63.600000f
+key = "lineK637"	time = 63.700000f
+key = "lineK638"	time = 63.800000f
+key = "lineK639"	time = 63.900000f
+key = "lineK640"	time = 64.000000f
+key = "lineK641"	time = 64.100000f
+key = "lineK642"	time = 64.200000f
+key = "lineK643"	time = 64.300000f
+key = "lineK644"	time = 64.400000f
+key = "lineK645"	time = 64.500000f
+key = "lineK646"	time = 64.600000f
+key = "lineK647"	time = 64.700000f
+key = "lineK648"	time = 64.800000f
+key = "lineK649"	time = 64.900000f
+key = "lineK650"	time = 65.000000f
+key = "lineK651"	time = 65.100000f
+key = "lineK652"	time = 65.200000f
+key = "lineK653"	time = 65.300000f
+key = "lineK654"	time = 65.400000f
+key = "lineK655"	time = 65.500000f
+key = "lineK656"	time = 65.600000f
+key = "lineK657"	time = 65.700000f
+key = "lineK658"	time = 65.800000f
+key = "lineK659"	time = 65.900000f
+key = "lineK660"	time = 66.000000f
+key = "lineK661"	time = 66.100000f
+key = "lineK662"	time = 66.200000f
+key = "lineK663"	time = 66.300000f
+key = "lineK664"	time = 66.400000f
+key = "lineK665"	time = 66.500000f
+key = "lineK666"	time = 66.600000f
+key = "lineK667"	time = 66.700000f
+key = "lineK668"	time = 66.800000f
+key = "lineK669"	time = 66.900000f
+key = "lineK670"	time = 67.000000f
+key = "lineK671"	time = 67.100000f
+key = "lineK672"	time = 67.200000f
+key = "lineK673"	time = 67.300000f
+key = "lineK674"	time = 67.400000f
+key = "lineK675"	time = 67.500000f
+key = "lineK676"	time = 67.600000f
+key = "lineK677"	time = 67.700000f
+key = "lineK678"	time = 67.800000f
+key = "lineK679"	time = 67.900000f
+key = "lineK680"	time = 68.000000f
+key = "lineK681"	time = 68.100000f
+key = "lineK682"	time = 68.200000f
+key = "lineK683"	time = 68.300000f
+key = "lineK684"	time = 68.400000f
+key = "lineK685"	time = 68.500000f
+key = "lineK686"	time = 68.600000f
+key = "lineK687"	time = 68.700000f
+key = "lineK688"	time = 68.800000f
+key = "lineK689"	time = 68.900000f
+key = "lineK690"	time = 69.000000f
+key = "lineK691"	time = 69.100000f
+key = "lineK692"	time = 69.200000f
+key = "lineK693"	time = 69.300000f
+key = "lineK694"	time = 69.400000f
+key = "lineK695"	time = 69.500000f
+key = "lineK696"	time = 69.600000f
+key = "lineK697"	time = 69.700000f
+key = "lineK698"	time = 69.800000f
+key = "lineK699"	time = 69.900000f
+key = "lineK700"	time = 70.000000f
+key = "lineK701"	time = 70.100000f
+key = "lineK702"	time = 70.200000f
+key = "lineK703"	time = 70.300000f
+key = "lineK704"	time = 70.400000f
+key = "lineK705"	time = 70.500000f
+key = "lineK706"	time = 70.600000f
+key = "lineK707"	time = 70.700000f
+key = "lineK708"	time = 70.800000f
+key = "lineK709"	time = 70.900000f
+key = "lineK710"	time = 71.000000f
+key = "lineK711"	time = 71.100000f
+key = "lineK712"	time = 71.200000f
+key = "lineK713"	time = 71.300000f
+key = "lineK714"	time = 71.400000f
+key = "lineK715"	time = 71.500000f
+key = "lineK716"	time = 71.600000f
+key = "lineK717"	time = 71.700000f
+key = "lineK718"	time = 71.800000f
+key = "lineK719"	time = 71.900000f
+key = "lineK720"	time = 72.000000f
+key = "lineK721"	time = 72.100000f
+key = "lineK722"	time = 72.200000f
+key = "lineK723"	time = 72.300000f
+key = "lineK724"	time = 72.400000f
+key = "lineK725"	time = 72.500000f
+key = "lineK726"	time = 72.600000f
+key = "lineK727"	time = 72.700000f
+key = "lineK728"	time = 72.800000f
+key = "lineK729"	time = 72.900000f
+key = "lineK730"	time = 73.000000f
+key = "lineK731"	time = 73.100000f
+key = "lineK732"	time = 73.200000f
+key = "lineK733"	time = 73.300000f
+key = "lineK734"	time = 73.400000f
+key = "lineK735"	time = 73.500000f
+key = "lineK736"	time = 73.600000f
+key = "lineK737"	time = 73.700000f
+key = "lineK738"	time = 73.800000f
+key = "lineK739"	time = 73.900000f
+key = "lineK740"	time = 74.000000f
+key = "lineK741"	time = 74.100000f
+key = "lineK742"	time = 74.200000f
+key = "lineK743"	time = 74.300000f
+key = "lineK744"	time = 74.400000f
+key = "lineK745"	time = 74.500000f
+key = "lineK746"	time = 74.600000f
+key = "lineK747"	time = 74.700000f
+key = "lineK748"	time = 74.800000f
+key = "lineK749"	time = 74.900000f
+key = "lineK750"	time = 75.000000f
+key = "lineK751"	time = 75.100000f
+key = "lineK752"	time = 75.200000f
+key = "lineK753"	time = 75.300000f
+key = "lineK754"	time = 75.400000f
+key = "lineK755"	time = 75.500000f
+key = "lineK756"	time = 75.600000f
+key = "lineK757"	time = 75.700000f
+key = "lineK758"	time = 75.800000f
+key = "lineK759"	time = 75.900000f
+key = "lineK760"	time = 76.000000f
+key = "lineK761"	time = 76.100000f
+key = "lineK762"	time = 76.200000f
+key = "lineK763"	time = 76.300000f
+key = "lineK764"	time = 76.400000f
+key = "lineK765"	time = 76.500000f
+key = "lineK766"	time = 76.600000f
+key = "lineK767"	time = 76.700000f
+key = "lineK768"	time = 76.800000f
+key = "lineK769"	time = 76.900000f
+key = "lineK770"	time = 77.000000f
+key = "lineK771"	time = 77.100000f
+key = "lineK772"	time = 77.200000f
+key = "lineK773"	time = 77.300000f
+key = "lineK774"	time = 77.400000f
+key = "lineK775"	time = 77.500000f
+key = "lineK776"	time = 77.600000f
+key = "lineK777"	time = 77.700000f
+key = "lineK778"	time = 77.800000f
+key = "lineK779"	time = 77.900000f
+key = "lineK780"	time = 78.000000f
+key = "lineK781"	time = 78.100000f
+key = "lineK782"	time = 78.200000f
+key = "lineK783"	time = 78.300000f
+key = "lineK784"	time = 78.400000f
+key = "lineK785"	time = 78.500000f
+key = "lineK786"	time = 78.600000f
+key = "lineK787"	time = 78.700000f
+key = "lineK788"	time = 78.800000f
+key = "lineK789"	time = 78.900000f
+key = "lineK790"	time = 79.000000f
+key = "lineK791"	time = 79.100000f
+key = "lineK792"	time = 79.200000f
+key = "lineK793"	time = 79.300000f
+key = "lineK794"	time = 79.400000f
+key = "lineK795"	time = 79.500000f
+key = "lineK796"	time = 79.600000f
+key = "lineK797"	time = 79.700000f
+key = "lineK798"	time = 79.800000f
+key = "lineK799"	time = 79.900000f
+key = "lineK800"	time = 80.000000f
+key = "lineK801"	time = 80.100000f
+key = "lineK802"	time = 80.200000f
+key = "lineK803"	time = 80.300000f
+key = "lineK804"	time = 80.400000f
+key = "lineK805"	time = 80.500000f
+key = "lineK806"	time = 80.600000f
+key = "lineK807"	time = 80.700000f
+key = "lineK808"	time = 80.800000f
+key = "lineK809"	time = 80.900000f
+key = "lineK810"	time = 81.000000f
+key = "lineK811"	time = 81.100000f
+key = "lineK812"	time = 81.200000f
+key = "lineK813"	time = 81.300000f
+key = "lineK814"	time = 81.400000f
+key = "lineK815"	time = 81.500000f
+key = "lineK816"	time = 81.600000f
+key = "lineK817"	time = 81.700000f
+key = "lineK818"	time = 81.800000f
+key = "lineK819"	time = 81.900000f
+key = "lineK820"	time = 82.000000f
+key = "lineK821"	time = 82.100000f
+key = "lineK822"	time = 82.200000f
+key = "lineK823"	time = 82.300000f
+key = "lineK824"	time = 82.400000f
+key = "lineK825"	time = 82.500000f
+key = "lineK826"	time = 82.600000f
+key = "lineK827"	time = 82.700000f
+key = "lineK828"	time = 82.800000f
+key = "lineK829"	time = 82.900000f
+key = "lineK830"	time = 83.000000f
+key = "lineK831"	time = 83.100000f
+key = "lineK832"	time = 83.200000f
+key = "lineK833"	time = 83.300000f
+key = "lineK834"	time = 83.400000f
+key = "lineK835"	time = 83.500000f
+key = "lineK836"	time = 83.600000f
+key = "lineK837"	time = 83.700000f
+key = "lineK838"	time = 83.800000f
+key = "lineK839"	time = 83.900000f
+key = "lineK840"	time = 84.000000f
+key = "lineK841"	time = 84.100000f
+key = "lineK842"	time = 84.200000f
+key = "lineK843"	time = 84.300000f
+key = "lineK844"	time = 84.400000f
+key = "lineK845"	time = 84.500000f
+key = "lineK846"	time = 84.600000f
+key = "lineK847"	time = 84.700000f
+key = "lineK848"	time = 84.800000f
+key = "lineK849"	time = 84.900000f
+key = "lineK850"	time = 85.000000f
+key = "lineK851"	time = 85.100000f
+key = "lineK852"	time = 85.200000f
+key = "lineK853"	time = 85.300000f
+key = "lineK854"	time = 85.400000f
+key = "lineK855"	time = 85.500000f
+key = "lineK856"	time = 85.600000f
+key = "lineK857"	time = 85.700000f
+key = "lineK858"	time = 85.800000f
+key = "lineK859"	time = 85.900000f
+key = "lineK860"	time = 86.000000f
+key = "lineK861"	time = 86.100000f
+key = "lineK862"	time = 86.200000f
+key = "lineK863"	time = 86.300000f
+key = "lineK864"	time = 86.400000f
+key = "lineK865"	time = 86.500000f
+key = "lineK866"	time = 86.600000f
+key = "lineK867"	time = 86.700000f
+key = "lineK868"	time = 86.800000f
+key = "lineK869"	time = 86.900000f
+key = "lineK870"	time = 87.000000f
+key = "lineK871"	time = 87.100000f
+key = "lineK872"	time = 87.200000f
+key = "lineK873"	time = 87.300000f
+key = "lineK874"	time = 87.400000f
+key = "lineK875"	time = 87.500000f
+key = "lineK876"	time = 87.600000f
+key = "lineK877"	time = 87.700000f
+key = "lineK878"	time = 87.800000f
+key = "lineK879"	time = 87.900000f
+key = "lineK880"	time = 88.000000f
+key = "lineK881"	time = 88.100000f
+key = "lineK882"	time = 88.200000f
+key = "lineK883"	time = 88.300000f
+key = "lineK884"	time = 88.400000f
+key = "lineK885"	time = 88.500000f
+key = "lineK886"	time = 88.600000f
+key = "lineK887"	time = 88.700000f
+key = "lineK888"	time = 88.800000f
+key = "lineK889"	time = 88.900000f
+key = "lineK890"	time = 89.000000f
+key = "lineK891"	time = 89.100000f
+key = "lineK892"	time = 89.200000f
+key = "lineK893"	time = 89.300000f
+key = "lineK894"	time = 89.400000f
+key = "lineK895"	time = 89.500000f
+key = "lineK896"	time = 89.600000f
+key = "lineK897"	time = 89.700000f
+key = "lineK898"	time = 89.800000f
+key = "lineK899"	time = 89.900000f
+key = "lineK900"	time = 90.000000f
+key = "lineK901"	time = 90.100000f
+key = "lineK902"	time = 90.200000f
+key = "lineK903"	time = 90.300000f
+key = "lineK904"	time = 90.400000f
+key = "lineK905"	time = 90.500000f
+key = "lineK906"	time = 90.600000f
+key = "lineK907"	time = 90.700000f
+key = "lineK908"	time = 90.800000f
+key = "lineK909"	time = 90.900000f
+key = "lineK910"	time = 91.000000f
+key = "lineK911"	time = 91.100000f
+key = "lineK912"	time = 91.200000f
+key = "lineK913"	time = 91.300000f
+key = "lineK914"	time = 91.400000f
+key = "lineK915"	time = 91.500000f
+key = "lineK916"	time = 91.600000f
+key = "lineK917"	time = 91.700000f
+key = "lineK918"	time = 91.800000f
+key = "lineK919"	time = 91.900000f
+key = "lineK920"	time = 92.000000f
+key = "lineK921"	time = 92.100000f
+key = "lineK922"	time = 92.200000f
+key = "lineK923"	time = 92.300000f
+key = "lineK924"	time = 92.400000f
+key = "lineK925"	time = 92.500000f
+key = "lineK926"	time = 92.600000f
+key = "lineK927"	time = 92.700000f
+key = "lineK928"	time = 92.800000f
+key = "lineK929"	time = 92.900000f
+key = "lineK930"	time = 93.000000f
+key = "lineK931"	time = 93.100000f
+key = "lineK932"	time = 93.200000f
+key = "lineK933"	time = 93.300000f
+key = "lineK934"	time = 93.400000f
+key = "lineK935"	time = 93.500000f
+key = "lineK936"	time = 93.600000f
+key = "lineK937"	time = 93.700000f
+key = "lineK938"	time = 93.800000f
+key = "lineK939"	time = 93.900000f
+key = "lineK940"	time = 94.000000f
+key = "lineK941"	time = 94.100000f
+key = "lineK942"	time = 94.200000f
+key = "lineK943"	time = 94.300000f
+key = "lineK944"	time = 94.400000f
+key = "lineK945"	time = 94.500000f
+key = "lineK946"	time = 94.600000f
+key = "lineK947"	time = 94.700000f
+key = "lineK948"	time = 94.800000f
+key = "lineK949"	time = 94.900000f
+key = "lineK950"	time = 95.000000f
+key = "lineK951"	time = 95.100000f
+key = "lineK952"	time = 95.200000f
+key = "lineK953"	time = 95.300000f
+key = "lineK954"	time = 95.400000f
+key = "lineK955"	time = 95.500000f
+key = "lineK956"	time = 95.600000f
+key = "lineK957"	time = 95.700000f
+key = "lineK958"	time = 95.800000f
+key = "lineK959"	time = 95.900000f
+key = "lineK960"	time = 96.000000f
+key = "lineK961"	time = 96.100000f
+key = "lineK962"	time = 96.200000f
+key = "lineK963"	time = 96.300000f
+key = "lineK964"	time = 96.400000f
+key = "lineK965"	time = 96.500000f
+key = "lineK966"	time = 96.600000f
+key = "lineK967"	time = 96.700000f
+key = "lineK968"	time = 96.800000f
+key = "lineK969"	time = 96.900000f
+key = "lineK970"	time = 97.000000f
+key = "lineK971"	time = 97.100000f
+key = "lineK972"	time = 97.200000f
+key = "lineK973"	time = 97.300000f
+key = "lineK974"	time = 97.400000f
+key = "lineK975"	time = 97.500000f
+key = "lineK976"	time = 97.600000f
+key = "lineK977"	time = 97.700000f
+key = "lineK978"	time = 97.800000f
+key = "lineK979"	time = 97.900000f
+key = "lineK980"	time = 98.000000f
+key = "lineK981"	time = 98.100000f
+key = "lineK982"	time = 98.200000f
+key = "lineK983"	time = 98.300000f
+key = "lineK984"	time = 98.400000f
+key = "lineK985"	time = 98.500000f
+key = "lineK986"	time = 98.600000f
+key = "lineK987"	time = 98.700000f
+key = "lineK988"	time = 98.800000f
+key = "lineK989"	time = 98.900000f
+key = "lineK990"	time = 99.000000f
+key = "lineK991"	time = 99.100000f
+key = "lineK992"	time = 99.200000f
+key = "lineK993"	time = 99.300000f
+key = "lineK994"	time = 99.400000f
+key = "lineK995"	time = 99.500000f
+key = "lineK996"	time = 99.600000f
+key = "lineK997"	time = 99.700000f
+key = "lineK998"	time = 99.800000f
+key = "lineK999"	time = 99.900000f
+key = "lineK1000"	time = 100.000000f
+key = "lineK1001"	time = 100.100000f
+key = "lineK1002"	time = 100.200000f
+key = "lineK1003"	time = 100.300000f
+key = "lineK1004"	time = 100.400000f
+key = "lineK1005"	time = 100.500000f
+key = "lineK1006"	time = 100.600000f
+key = "lineK1007"	time = 100.700000f
+key = "lineK1008"	time = 100.800000f
+key = "lineK1009"	time = 100.900000f
+key = "lineK1010"	time = 101.000000f
+key = "lineK1011"	time = 101.100000f
+key = "lineK1012"	time = 101.200000f
+key = "lineK1013"	time = 101.300000f
+key = "lineK1014"	time = 101.400000f
+key = "lineK1015"	time = 101.500000f
+key = "lineK1016"	time = 101.600000f
+key = "lineK1017"	time = 101.700000f
+key = "lineK1018"	time = 101.800000f
+key = "lineK1019"	time = 101.900000f
+key = "lineK1020"	time = 102.000000f
+key = "lineK1021"	time = 102.100000f
+key = "lineK1022"	time = 102.200000f
+key = "lineK1023"	time = 102.300000f
+key = "lineK1024"	time = 102.400000f
+key = "lineK1025"	time = 102.500000f
+key = "lineK1026"	time = 102.600000f
+key = "lineK1027"	time = 102.700000f
+key = "lineK1028"	time = 102.800000f
+key = "lineK1029"	time = 102.900000f
+key = "lineK1030"	time = 103.000000f
+key = "lineK1031"	time = 103.100000f
+key = "lineK1032"	time = 103.200000f
+key = "lineK1033"	time = 103.300000f
+key = "lineK1034"	time = 103.400000f
+key = "lineK1035"	time = 103.500000f
+key = "lineK1036"	time = 103.600000f
+key = "lineK1037"	time = 103.700000f
+key = "lineK1038"	time = 103.800000f
+key = "lineK1039"	time = 103.900000f
+key = "lineK1040"	time = 104.000000f
+key = "lineK1041"	time = 104.100000f
+key = "lineK1042"	time = 104.200000f
+key = "lineK1043"	time = 104.300000f
+key = "lineK1044"	time = 104.400000f
+key = "lineK1045"	time = 104.500000f
+key = "lineK1046"	time = 104.600000f
+key = "lineK1047"	time = 104.700000f
+key = "lineK1048"	time = 104.800000f
+key = "lineK1049"	time = 104.900000f
+key = "lineK1050"	time = 105.000000f
+key = "lineK1051"	time = 105.100000f
+key = "lineK1052"	time = 105.200000f
+key = "lineK1053"	time = 105.300000f
+key = "lineK1054"	time = 105.400000f
+key = "lineK1055"	time = 105.500000f
+key = "lineK1056"	time = 105.600000f
+key = "lineK1057"	time = 105.700000f
+key = "lineK1058"	time = 105.800000f
+key = "lineK1059"	time = 105.900000f
+key = "lineK1060"	time = 106.000000f
+key = "lineK1061"	time = 106.100000f
+key = "lineK1062"	time = 106.200000f
+key = "lineK1063"	time = 106.300000f
+key = "lineK1064"	time = 106.400000f
+key = "lineK1065"	time = 106.500000f
+key = "lineK1066"	time = 106.600000f
+key = "lineK1067"	time = 106.700000f
+key = "lineK1068"	time = 106.800000f
+key = "lineK1069"	time = 106.900000f
+key = "lineK1070"	time = 107.000000f
+key = "lineK1071"	time = 107.100000f
+key = "lineK1072"	time = 107.200000f
+key = "lineK1073"	time = 107.300000f
+key = "lineK1074"	time = 107.400000f
+key = "lineK1075"	time = 107.500000f
+key = "lineK1076"	time = 107.600000f
+key = "lineK1077"	time = 107.700000f
+key = "lineK1078"	time = 107.800000f
+key = "lineK1079"	time = 107.900000f
+key = "lineK1080"	time = 108.000000f
+key = "lineK1081"	time = 108.100000f
+key = "lineK1082"	time = 108.200000f
+key = "lineK1083"	time = 108.300000f
+key = "lineK1084"	time = 108.400000f
+key = "lineK1085"	time = 108.500000f
+key = "lineK1086"	time = 108.600000f
+key = "lineK1087"	time = 108.700000f
+key = "lineK1088"	time = 108.800000f
+key = "lineK1089"	time = 108.900000f
+key = "lineK1090"	time = 109.000000f
+key = "lineK1091"	time = 109.100000f
+key = "lineK1092"	time = 109.200000f
+key = "lineK1093"	time = 109.300000f
+key = "lineK1094"	time = 109.400000f
+key = "lineK1095"	time = 109.500000f
+key = "lineK1096"	time = 109.600000f
+key = "lineK1097"	time = 109.700000f
+key = "lineK1098"	time = 109.800000f
+key = "lineK1099"	time = 109.900000f
+key = "lineK1100"	time = 110.000000f
+key = "lineK1101"	time = 110.100000f
+key = "lineK1102"	time = 110.200000f
+key = "lineK1103"	time = 110.300000f
+key = "lineK1104"	time = 110.400000f
+key = "lineK1105"	time = 110.500000f
+key = "lineK1106"	time = 110.600000f
+key = "lineK1107"	time = 110.700000f
+key = "lineK1108"	time = 110.800000f
+key = "lineK1109"	time = 110.900000f
+key = "lineK1110"	time = 111.000000f
+key = "lineK1111"	time = 111.100000f
+key = "lineK1112"	time = 111.200000f
+key = "lineK1113"	time = 111.300000f
+key = "lineK1114"	time = 111.400000f
+key = "lineK1115"	time = 111.500000f
+key = "lineK1116"	time = 111.600000f
+key = "lineK1117"	time = 111.700000f
+key = "lineK1118"	time = 111.800000f
+key = "lineK1119"	time = 111.900000f
+key = "lineK1120"	time = 112.000000f
+key = "lineK1121"	time = 112.100000f
+key = "lineK1122"	time = 112.200000f
+key = "lineK1123"	time = 112.300000f
+key = "lineK1124"	time = 112.400000f
+key = "lineK1125"	time = 112.500000f
+key = "lineK1126"	time = 112.600000f
+key = "lineK1127"	time = 112.700000f
+key = "lineK1128"	time = 112.800000f
+key = "lineK1129"	time = 112.900000f
+key = "lineK1130"	time = 113.000000f
+key = "lineK1131"	time = 113.100000f
+key = "lineK1132"	time = 113.200000f
+key = "lineK1133"	time = 113.300000f
+key = "lineK1134"	time = 113.400000f
+key = "lineK1135"	time = 113.500000f
+key = "lineK1136"	time = 113.600000f
+key = "lineK1137"	time = 113.700000f
+key = "lineK1138"	time = 113.800000f
+key = "lineK1139"	time = 113.900000f
+key = "lineK1140"	time = 114.000000f
+key = "lineK1141"	time = 114.100000f
+key = "lineK1142"	time = 114.200000f
+key = "lineK1143"	time = 114.300000f
+key = "lineK1144"	time = 114.400000f
+key = "lineK1145"	time = 114.500000f
+key = "lineK1146"	time = 114.600000f
+key = "lineK1147"	time = 114.700000f
+key = "lineK1148"	time = 114.800000f
+key = "lineK1149"	time = 114.900000f
+key = "lineK1150"	time = 115.000000f
+key = "lineK1151"	time = 115.100000f
+key = "lineK1152"	time = 115.200000f
+key = "lineK1153"	time = 115.300000f
+key = "lineK1154"	time = 115.400000f
+key = "lineK1155"	time = 115.500000f
+key = "lineK1156"	time = 115.600000f
+key = "lineK1157"	time = 115.700000f
+key = "lineK1158"	time = 115.800000f
+key = "lineK1159"	time = 115.900000f
+key = "lineK1160"	time = 116.000000f
+key = "lineK1161"	time = 116.100000f
+key = "lineK1162"	time = 116.200000f
+key = "lineK1163"	time = 116.300000f
+key = "lineK1164"	time = 116.400000f
+key = "lineK1165"	time = 116.500000f
+key = "lineK1166"	time = 116.600000f
+key = "lineK1167"	time = 116.700000f
+key = "lineK1168"	time = 116.800000f
+key = "lineK1169"	time = 116.900000f
+key = "lineK1170"	time = 117.000000f
+key = "lineK1171"	time = 117.100000f
+key = "lineK1172"	time = 117.200000f
+key = "lineK1173"	time = 117.300000f
+key = "lineK1174"	time = 117.400000f
+key = "lineK1175"	time = 117.500000f
+key = "lineK1176"	time = 117.600000f
+key = "lineK1177"	time = 117.700000f
+key = "lineK1178"	time = 117.800000f
+key = "lineK1179"	time = 117.900000f
+key = "lineK1180"	time = 118.000000f
+key = "lineK1181"	time = 118.100000f
+key = "lineK1182"	time = 118.200000f
+key = "lineK1183"	time = 118.300000f
+key = "lineK1184"	time = 118.400000f
+key = "lineK1185"	time = 118.500000f
+key = "lineK1186"	time = 118.600000f
+key = "lineK1187"	time = 118.700000f
+key = "lineK1188"	time = 118.800000f
+key = "lineK1189"	time = 118.900000f
+key = "lineK1190"	time = 119.000000f
+key = "lineK1191"	time = 119.100000f
+key = "lineK1192"	time = 119.200000f
+key = "lineK1193"	time = 119.300000f
+key = "lineK1194"	time = 119.400000f
+key = "lineK1195"	time = 119.500000f
+key = "lineK1196"	time = 119.600000f
+key = "lineK1197"	time = 119.700000f
+key = "lineK1198"	time = 119.800000f
+key = "lineK1199"	time = 119.900000f
+key = "lineK1200"	time = 120.000000f
+key = "lineK1201"	time = 120.100000f
+key = "lineK1202"	time = 120.200000f
+key = "lineK1203"	time = 120.300000f
+key = "lineK1204"	time = 120.400000f
+key = "lineK1205"	time = 120.500000f
+key = "lineK1206"	time = 120.600000f
+key = "lineK1207"	time = 120.700000f
+key = "lineK1208"	time = 120.800000f
+key = "lineK1209"	time = 120.900000f
+key = "lineK1210"	time = 121.000000f
+key = "lineK1211"	time = 121.100000f
+key = "lineK1212"	time = 121.200000f
+key = "lineK1213"	time = 121.300000f
+key = "lineK1214"	time = 121.400000f
+key = "lineK1215"	time = 121.500000f
+key = "lineK1216"	time = 121.600000f
+key = "lineK1217"	time = 121.700000f
+key = "lineK1218"	time = 121.800000f
+key = "lineK1219"	time = 121.900000f
+key = "lineK1220"	time = 122.000000f
+key = "lineK1221"	time = 122.100000f
+key = "lineK1222"	time = 122.200000f
+key = "lineK1223"	time = 122.300000f
+key = "lineK1224"	time = 122.400000f
+key = "lineK1225"	time = 122.500000f
+key = "lineK1226"	time = 122.600000f
+key = "lineK1227"	time = 122.700000f
+key = "lineK1228"	time = 122.800000f
+key = "lineK1229"	time = 122.900000f
+key = "lineK1230"	time = 123.000000f
+key = "lineK1231"	time = 123.100000f
+key = "lineK1232"	time = 123.200000f
+key = "lineK1233"	time = 123.300000f
+key = "lineK1234"	time = 123.400000f
+key = "lineK1235"	time = 123.500000f
+key = "lineK1236"	time = 123.600000f
+key = "lineK1237"	time = 123.700000f
+key = "lineK1238"	time = 123.800000f
+key = "lineK1239"	time = 123.900000f
+key = "lineK1240"	time = 124.000000f
+key = "lineK1241"	time = 124.100000f
+key = "lineK1242"	time = 124.200000f
+key = "lineK1243"	time = 124.300000f
+key = "lineK1244"	time = 124.400000f
+key = "lineK1245"	time = 124.500000f
+key = "lineK1246"	time = 124.600000f
+key = "lineK1247"	time = 124.700000f
+key = "lineK1248"	time = 124.800000f
+key = "lineK1249"	time = 124.900000f
+key = "lineK1250"	time = 125.000000f
+key = "lineK1251"	time = 125.100000f
+key = "lineK1252"	time = 125.200000f
+key = "lineK1253"	time = 125.300000f
+key = "lineK1254"	time = 125.400000f
+key = "lineK1255"	time = 125.500000f
+key = "lineK1256"	time = 125.600000f
+key = "lineK1257"	time = 125.700000f
+key = "lineK1258"	time = 125.800000f
+key = "lineK1259"	time = 125.900000f
+key = "lineK1260"	time = 126.000000f
+key = "lineK1261"	time = 126.100000f
+key = "lineK1262"	time = 126.200000f
+key = "lineK1263"	time = 126.300000f
+key = "lineK1264"	time = 126.400000f
+key = "lineK1265"	time = 126.500000f
+key = "lineK1266"	time = 126.600000f
+key = "lineK1267"	time = 126.700000f
+key = "lineK1268"	time = 126.800000f
+key = "lineK1269"	time = 126.900000f
+key = "lineK1270"	time = 127.000000f
+key = "lineK1271"	time = 127.100000f
+key = "lineK1272"	time = 127.200000f
+key = "lineK1273"	time = 127.300000f
+key = "lineK1274"	time = 127.400000f
+key = "lineK1275"	time = 127.500000f
+key = "lineK1276"	time = 127.600000f
+key = "lineK1277"	time = 127.700000f
+key = "lineK1278"	time = 127.800000f
+key = "lineK1279"	time = 127.900000f
+key = "lineK1280"	time = 128.000000f
+key = "lineK1281"	time = 128.100000f
+key = "lineK1282"	time = 128.200000f
+key = "lineK1283"	time = 128.300000f
+key = "lineK1284"	time = 128.400000f
+key = "lineK1285"	time = 128.500000f
+key = "lineK1286"	time = 128.600000f
+key = "lineK1287"	time = 128.700000f
+key = "lineK1288"	time = 128.800000f
+key = "lineK1289"	time = 128.900000f
+key = "lineK1290"	time = 129.000000f
+key = "lineK1291"	time = 129.100000f
+key = "lineK1292"	time = 129.200000f
+key = "lineK1293"	time = 129.300000f
+key = "lineK1294"	time = 129.400000f
+key = "lineK1295"	time = 129.500000f
+key = "lineK1296"	time = 129.600000f
+key = "lineK1297"	time = 129.700000f
+key = "lineK1298"	time = 129.800000f
+key = "lineK1299"	time = 129.900000f
+key = "lineK1300"	time = 130.000000f
+key = "lineK1301"	time = 130.100000f
+key = "lineK1302"	time = 130.200000f
+key = "lineK1303"	time = 130.300000f
+key = "lineK1304"	time = 130.400000f
+key = "lineK1305"	time = 130.500000f
+key = "lineK1306"	time = 130.600000f
+key = "lineK1307"	time = 130.700000f
+key = "lineK1308"	time = 130.800000f
+key = "lineK1309"	time = 130.900000f
+key = "lineK1310"	time = 131.000000f
+key = "lineK1311"	time = 131.100000f
+key = "lineK1312"	time = 131.200000f
+key = "lineK1313"	time = 131.300000f
+key = "lineK1314"	time = 131.400000f
+key = "lineK1315"	time = 131.500000f
+key = "lineK1316"	time = 131.600000f
+key = "lineK1317"	time = 131.700000f
+key = "lineK1318"	time = 131.800000f
+key = "lineK1319"	time = 131.900000f
+key = "lineK1320"	time = 132.000000f
+key = "lineK1321"	time = 132.100000f
+key = "lineK1322"	time = 132.200000f
+key = "lineK1323"	time = 132.300000f
+key = "lineK1324"	time = 132.400000f
+key = "lineK1325"	time = 132.500000f
+key = "lineK1326"	time = 132.600000f
+key = "lineK1327"	time = 132.700000f
+key = "lineK1328"	time = 132.800000f
+key = "lineK1329"	time = 132.900000f
+key = "lineK1330"	time = 133.000000f
+key = "lineK1331"	time = 133.100000f
+key = "lineK1332"	time = 133.200000f
+key = "lineK1333"	time = 133.300000f
+key = "lineK1334"	time = 133.400000f
+key = "lineK1335"	time = 133.500000f
+key = "lineK1336"	time = 133.600000f
+key = "lineK1337"	time = 133.700000f
+key = "lineK1338"	time = 133.800000f
+key = "lineK1339"	time = 133.900000f
+key = "lineK1340"	time = 134.000000f
+key = "lineK1341"	time = 134.100000f
+key = "lineK1342"	time = 134.200000f
+key = "lineK1343"	time = 134.300000f
+key = "lineK1344"	time = 134.400000f
+key = "lineK1345"	time = 134.500000f
+key = "lineK1346"	time = 134.600000f
+key = "lineK1347"	time = 134.700000f
+key = "lineK1348"	time = 134.800000f
+key = "lineK1349"	time = 134.900000f
+key = "lineK1350"	time = 135.000000f
+key = "lineK1351"	time = 135.100000f
+key = "lineK1352"	time = 135.200000f
+key = "lineK1353"	time = 135.300000f
+key = "lineK1354"	time = 135.400000f
+key = "lineK1355"	time = 135.500000f
+key = "lineK1356"	time = 135.600000f
+key = "lineK1357"	time = 135.700000f
+key = "lineK1358"	time = 135.800000f
+key = "lineK1359"	time = 135.900000f
+key = "lineK1360"	time = 136.000000f
+key = "lineK1361"	time = 136.100000f
+key = "lineK1362"	time = 136.200000f
+key = "lineK1363"	time = 136.300000f
+key = "lineK1364"	time = 136.400000f
+key = "lineK1365"	time = 136.500000f
+key = "lineK1366"	time = 136.600000f
+key = "lineK1367"	time = 136.700000f
+key = "lineK1368"	time = 136.800000f
+key = "lineK1369"	time = 136.900000f
+key = "lineK1370"	time = 137.000000f
+key = "lineK1371"	time = 137.100000f
+key = "lineK1372"	time = 137.200000f
+key = "lineK1373"	time = 137.300000f
+key = "lineK1374"	time = 137.400000f
+key = "lineK1375"	time = 137.500000f
+key = "lineK1376"	time = 137.600000f
+key = "lineK1377"	time = 137.700000f
+key = "lineK1378"	time = 137.800000f
+key = "lineK1379"	time = 137.900000f
+key = "lineK1380"	time = 138.000000f
+key = "lineK1381"	time = 138.100000f
+key = "lineK1382"	time = 138.200000f
+key = "lineK1383"	time = 138.300000f
+key = "lineK1384"	time = 138.400000f
+key = "lineK1385"	time = 138.500000f
+key = "lineK1386"	time = 138.600000f
+key = "lineK1387"	time = 138.700000f
+key = "lineK1388"	time = 138.800000f
+key = "lineK1389"	time = 138.900000f
+key = "lineK1390"	time = 139.000000f
+key = "lineK1391"	time = 139.100000f
+key = "lineK1392"	time = 139.200000f
+key = "lineK1393"	time = 139.300000f
+key = "lineK1394"	time = 139.400000f
+key = "lineK1395"	time = 139.500000f
+key = "lineK1396"	time = 139.600000f
+key = "lineK1397"	time = 139.700000f
+key = "lineK1398"	time = 139.800000f
+key = "lineK1399"	time = 139.900000f
+key = "lineK1400"	time = 140.000000f
+key = "lineK1401"	time = 140.100000f
+key = "lineK1402"	time = 140.200000f
+key = "lineK1403"	time = 140.300000f
+key = "lineK1404"	time = 140.400000f
+key = "lineK1405"	time = 140.500000f
+key = "lineK1406"	time = 140.600000f
+	key = "lineK1407"	time = 140.700000f
+	key = "lineK1408"	time = 140.800000f
+	key = "lineK1409"	time = 140.900000f
+	key = "lineK1410"	time = 141.000000f
+	key = "lineK1411"	time = 141.100000f
+	key = "lineK1412"	time = 141.200000f
+	key = "lineK1413"	time = 141.300000f
+	key = "lineK1414"	time = 141.400000f
+	key = "lineK1415"	time = 141.500000f
+	key = "lineK1416"	time = 141.600000f
+	key = "lineK1417"	time = 141.700000f
+	key = "lineK1418"	time = 141.800000f
+	key = "lineK1419"	time = 141.900000f
+	key = "lineK1420"	time = 142.000000f
+	key = "lineK1421"	time = 142.100000f
+	key = "lineK1422"	time = 142.200000f
+	key = "lineK1423"	time = 142.300000f
+	key = "lineK1424"	time = 142.400000f
+	key = "lineK1425"	time = 142.500000f
+	key = "lineK1426"	time = 142.600000f
+	key = "lineK1427"	time = 142.700000f
+	key = "lineK1428"	time = 142.800000f
+	key = "lineK1429"	time = 142.900000f
+	key = "lineK1430"	time = 143.000000f
+	key = "lineK1431"	time = 143.100000f
+	key = "lineK1432"	time = 143.200000f
+	key = "lineK1433"	time = 143.300000f
+	key = "lineK1434"	time = 143.400000f
+	key = "lineK1435"	time = 143.500000f
+	key = "lineK1436"	time = 143.600000f
+	key = "lineK1437"	time = 143.700000f
+	key = "lineK1438"	time = 143.800000f
+	key = "lineK1439"	time = 143.900000f
+	key = "lineK1440"	time = 144.000000f
+	key = "lineK1441"	time = 144.100000f
+	key = "lineK1442"	time = 144.200000f
+	key = "lineK1443"	time = 144.300000f
+	key = "lineK1444"	time = 144.400000f
+	key = "lineK1445"	time = 144.500000f
+	key = "lineK1446"	time = 144.600000f
+	key = "lineK1447"	time = 144.700000f
+	key = "lineK1448"	time = 144.800000f
+	key = "lineK1449"	time = 144.900000f
+	key = "lineK1450"	time = 145.000000f
+	key = "lineK1451"	time = 145.100000f
+	key = "lineK1452"	time = 145.200000f
+	key = "lineK1453"	time = 145.300000f
+	key = "lineK1454"	time = 145.400000f
+	key = "lineK1455"	time = 145.500000f
+	key = "lineK1456"	time = 145.600000f
+	key = "lineK1457"	time = 145.700000f
+	key = "lineK1458"	time = 145.800000f
+	key = "lineK1459"	time = 145.900000f
+	key = "lineK1460"	time = 146.000000f
+	key = "lineK1461"	time = 146.100000f
+	key = "lineK1462"	time = 146.200000f
+	key = "lineK1463"	time = 146.300000f
+	key = "lineK1464"	time = 146.400000f
+	key = "lineK1465"	time = 146.500000f
+	key = "lineK1466"	time = 146.600000f
+	key = "lineK1467"	time = 146.700000f
+	key = "lineK1468"	time = 146.800000f
+	key = "lineK1469"	time = 146.900000f
+	key = "lineK1470"	time = 147.000000f
+	key = "lineK1471"	time = 147.100000f
+	key = "lineK1472"	time = 147.200000f
+	key = "lineK1473"	time = 147.300000f
+	key = "lineK1474"	time = 147.400000f
+	key = "lineK1475"	time = 147.500000f
+	key = "lineK1476"	time = 147.600000f
+	key = "lineK1477"	time = 147.700000f
+	key = "lineK1478"	time = 147.800000f
+	key = "lineK1479"	time = 147.900000f
+	key = "lineK1480"	time = 148.000000f
+	key = "lineK1481"	time = 148.100000f
+	key = "lineK1482"	time = 148.200000f
+	key = "lineK1483"	time = 148.300000f
+	key = "lineK1484"	time = 148.400000f
+	key = "lineK1485"	time = 148.500000f
+	key = "lineK1486"	time = 148.600000f
+	key = "lineK1487"	time = 148.700000f
+	key = "lineK1488"	time = 148.800000f
+	key = "lineK1489"	time = 148.900000f
+	key = "lineK1490"	time = 149.000000f
+	key = "lineK1491"	time = 149.100000f
+	key = "lineK1492"	time = 149.200000f
+	key = "lineK1493"	time = 149.300000f
+	key = "lineK1494"	time = 149.400000f
+	key = "lineK1495"	time = 149.500000f
+	key = "lineK1496"	time = 149.600000f
+	key = "lineK1497"	time = 149.700000f
+	key = "lineK1498"	time = 149.800000f
+	key = "lineK1499"	time = 149.900000f
+	key = "lineK1500"	time = 150.000000f
+	key = "lineK1501"	time = 150.100000f
+	key = "lineK1502"	time = 150.200000f
+	key = "lineK1503"	time = 150.300000f
+	key = "lineK1504"	time = 150.400000f
+	key = "lineK1505"	time = 150.500000f
+	key = "lineK1506"	time = 150.600000f
+	key = "lineK1507"	time = 150.700000f
+	key = "lineK1508"	time = 150.800000f
+	key = "lineK1509"	time = 150.900000f
+	key = "lineK1510"	time = 151.000000f
+	key = "lineK1511"	time = 151.100000f
+	key = "lineK1512"	time = 151.200000f
+	key = "lineK1513"	time = 151.300000f
+	key = "lineK1514"	time = 151.400000f
+	key = "lineK1515"	time = 151.500000f
+	key = "lineK1516"	time = 151.600000f
+	key = "lineK1517"	time = 151.700000f
+	key = "lineK1518"	time = 151.800000f
+	key = "lineK1519"	time = 151.900000f
+	key = "lineK1520"	time = 152.000000f
+	key = "lineK1521"	time = 152.100000f
+	key = "lineK1522"	time = 152.200000f
+	key = "lineK1523"	time = 152.300000f
+	key = "lineK1524"	time = 152.400000f
+	key = "lineK1525"	time = 152.500000f
+	key = "lineK1526"	time = 152.600000f
+	key = "lineK1527"	time = 152.700000f
+	key = "lineK1528"	time = 152.800000f
+	key = "lineK1529"	time = 152.900000f
+	key = "lineK1530"	time = 153.000000f
+	key = "lineK1531"	time = 153.100000f
+	key = "lineK1532"	time = 153.200000f
+	key = "lineK1533"	time = 153.300000f
+	key = "lineK1534"	time = 153.400000f
+	key = "lineK1535"	time = 153.500000f
+	key = "lineK1536"	time = 153.600000f
+	key = "lineK1537"	time = 153.700000f
+	key = "lineK1538"	time = 153.800000f
+	key = "lineK1539"	time = 153.900000f
+	key = "lineK1540"	time = 154.000000f
+	key = "lineK1541"	time = 154.100000f
+	key = "lineK1542"	time = 154.200000f
+	key = "lineK1543"	time = 154.300000f
+	key = "lineK1544"	time = 154.400000f
+	key = "lineK1545"	time = 154.500000f
+	key = "lineK1546"	time = 154.600000f
+	key = "lineK1547"	time = 154.700000f
+	key = "lineK1548"	time = 154.800000f
+	key = "lineK1549"	time = 154.900000f
+	key = "lineK1550"	time = 155.000000f
+	key = "lineK1551"	time = 155.100000f
+	key = "lineK1552"	time = 155.200000f
+	key = "lineK1553"	time = 155.300000f
+	key = "lineK1554"	time = 155.400000f
+	key = "lineK1555"	time = 155.500000f
+	key = "lineK1556"	time = 155.600000f
+	key = "lineK1557"	time = 155.700000f
+	key = "lineK1558"	time = 155.800000f
+	key = "lineK1559"	time = 155.900000f
+	key = "lineK1560"	time = 156.000000f
+	key = "lineK1561"	time = 156.100000f
+	key = "lineK1562"	time = 156.200000f
+	key = "lineK1563"	time = 156.300000f
+	key = "lineK1564"	time = 156.400000f
+	key = "lineK1565"	time = 156.500000f
+	key = "lineK1566"	time = 156.600000f
+	key = "lineK1567"	time = 156.700000f
+	key = "lineK1568"	time = 156.800000f
+	key = "lineK1569"	time = 156.900000f
+	key = "lineK1570"	time = 157.000000f
+	key = "lineK1571"	time = 157.100000f
+	key = "lineK1572"	time = 157.200000f
+	key = "lineK1573"	time = 157.300000f
+	key = "lineK1574"	time = 157.400000f
+	key = "lineK1575"	time = 157.500000f
+	key = "lineK1576"	time = 157.600000f
+	key = "lineK1577"	time = 157.700000f
+	key = "lineK1578"	time = 157.800000f
+	key = "lineK1579"	time = 157.900000f
+	key = "lineK1580"	time = 158.000000f
+	key = "lineK1581"	time = 158.100000f
+	key = "lineK1582"	time = 158.200000f
+	key = "lineK1583"	time = 158.300000f
+	key = "lineK1584"	time = 158.400000f
+	key = "lineK1585"	time = 158.500000f
+	key = "lineK1586"	time = 158.600000f
+	key = "lineK1587"	time = 158.700000f
+	key = "lineK1588"	time = 158.800000f
+	key = "lineK1589"	time = 158.900000f
+	key = "lineK1590"	time = 159.000000f
+	key = "lineK1591"	time = 159.100000f
+	key = "lineK1592"	time = 159.200000f
+	key = "lineK1593"	time = 159.300000f
+	key = "lineK1594"	time = 159.400000f
+	key = "lineK1595"	time = 159.500000f
+	key = "lineK1596"	time = 159.600000f
+	key = "lineK1597"	time = 159.700000f
+	key = "lineK1598"	time = 159.800000f
+	key = "lineK1599"	time = 159.900000f
+	key = "lineK1600"	time = 160.000000f
+	key = "lineK1601"	time = 160.100000f
+	key = "lineK1602"	time = 160.200000f
+	key = "lineK1603"	time = 160.300000f
+	key = "lineK1604"	time = 160.400000f
+	key = "lineK1605"	time = 160.500000f
+	key = "lineK1606"	time = 160.600000f
+	key = "lineK1607"	time = 160.700000f
+	key = "lineK1608"	time = 160.800000f
+	key = "lineK1609"	time = 160.900000f
+	key = "lineK1610"	time = 161.000000f
+	key = "lineK1611"	time = 161.100000f
+	key = "lineK1612"	time = 161.200000f
+	key = "lineK1613"	time = 161.300000f
+	key = "lineK1614"	time = 161.400000f
+	key = "lineK1615"	time = 161.500000f
+	key = "lineK1616"	time = 161.600000f
+	key = "lineK1617"	time = 161.700000f
+	key = "lineK1618"	time = 161.800000f
+	key = "lineK1619"	time = 161.900000f
+	key = "lineK1620"	time = 162.000000f
+	key = "lineK1621"	time = 162.100000f
+	key = "lineK1622"	time = 162.200000f
+	key = "lineK1623"	time = 162.300000f
+	key = "lineK1624"	time = 162.400000f
+	key = "lineK1625"	time = 162.500000f
+	key = "lineK1626"	time = 162.600000f
+	key = "lineK1627"	time = 162.700000f
+	key = "lineK1628"	time = 162.800000f
+	key = "lineK1629"	time = 162.900000f
+	key = "lineK1630"	time = 163.000000f
+	key = "lineK1631"	time = 163.100000f
+	key = "lineK1632"	time = 163.200000f
+	key = "lineK1633"	time = 163.300000f
+	key = "lineK1634"	time = 163.400000f
+	key = "lineK1635"	time = 163.500000f
+	key = "lineK1636"	time = 163.600000f
+	key = "lineK1637"	time = 163.700000f
+	key = "lineK1638"	time = 163.800000f
+	key = "lineK1639"	time = 163.900000f
+	key = "lineK1640"	time = 164.000000f
+	key = "lineK1641"	time = 164.100000f
+	key = "lineK1642"	time = 164.200000f
+	key = "lineK1643"	time = 164.300000f
+	key = "lineK1644"	time = 164.400000f
+	key = "lineK1645"	time = 164.500000f
+	key = "lineK1646"	time = 164.600000f
+	key = "lineK1647"	time = 164.700000f
+	key = "lineK1648"	time = 164.800000f
+	key = "lineK1649"	time = 164.900000f
+	key = "lineK1650"	time = 165.000000f
+	key = "lineK1651"	time = 165.100000f
+	key = "lineK1652"	time = 165.200000f
+	key = "lineK1653"	time = 165.300000f
+	key = "lineK1654"	time = 165.400000f
+	key = "lineK1655"	time = 165.500000f
+
+
+[AnimationKey]
+name     = "KeyCycle1"
+position = 10.0 2.0 0.0
+
+[AnimationKey]
+name     = "KeyCycle2"
+position = 7.07 2.0 7.07
+scaling  = 2.0f 2.0f 2.0f
+
+[AnimationKey]
+name     = "KeyCycle3"
+position = 0.0 2.0 10.0
+
+[AnimationKey]
+name     = "KeyCycle4"
+position = -7.07 2.0 7.07
+scaling  = 2.0f 2.0f 2.0f
+
+[AnimationKey]
+name     = "KeyCycle5"
+position = -10.0 2.0 0.0
+
+[AnimationKey]
+name     = "KeyCycle6"
+position = -7.07 2.0 -7.07
+scaling  = 2.0f 2.0f 2.0f
+
+[AnimationKey]
+name     = "KeyCycle7"
+position = 0.0 2.0 -10.0
+
+[AnimationKey]
+name     = "KeyCycle8"
+position = 7.07 2.0 -7.07
+scaling  = 2.0f 2.0f 2.0f
+
+[Cube]
+name     = "Cube"
+scaling  = 1.0 1.0 1.0
+position = 0.0 1.0 0.0
+rotation = 0.0 0.0 1.0 180
+animation = "BackAndForth"

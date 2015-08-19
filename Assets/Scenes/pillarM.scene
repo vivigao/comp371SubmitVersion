@@ -1,0 +1,1388 @@
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 38.425669 0.3
+position = -32.426208 12.762835 -39.138081
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 30.248946 0.3
+position = -23.665577 8.674473 -35.076675
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 16.880032 0.3
+position = -15.474072 1.990016 -34.545101
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.689820 0.3
+position = -8.108052 -2.605090 -33.982853
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.530814 0.3
+position = -1.500607 -4.684593 -33.112114
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.106338 0.3
+position = 4.476147 -5.396831 -32.642105
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.714067 0.3
+position = 9.828210 -5.592967 -32.668652
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.450474 0.3
+position = 14.444885 -5.724763 -32.663116
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.969095 0.3
+position = 18.225126 -5.965453 -32.151783
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.282332 0.3
+position = 21.181120 -6.308834 -31.272766
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 -0.281911 0.3
+position = 23.442133 -6.590955 -30.757147
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 -0.335108 0.3
+position = 25.214039 -6.617554 -31.346594
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.326213 0.3
+position = 26.740343 -6.286893 -33.232124
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.699261 0.3
+position = 28.288305 -5.600370 -36.022766
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.608787 0.3
+position = 30.034473 -4.645607 -39.018341
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 5.745421 0.3
+position = 31.935001 -3.577290 -41.518429
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.681448 0.3
+position = 33.721371 -2.609276 -42.873745
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.029366 0.3
+position = 35.063011 -1.935317 -42.685146
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.653028 0.3
+position = 35.783817 -1.623486 -41.068665
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.691314 0.3
+position = 35.891006 -1.604343 -38.674324
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.422053 0.3
+position = 35.519436 -1.738974 -36.321514
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.048876 0.3
+position = 34.844116 -1.925562 -34.427544
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 8.664486 0.3
+position = 34.062527 -2.117757 -32.915375
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 8.284125 0.3
+position = 33.346638 -2.307938 -31.443789
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.907497 0.3
+position = 32.754517 -2.496252 -29.832592
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.532868 0.3
+position = 32.213268 -2.683566 -28.151058
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.179865 0.3
+position = 31.580349 -2.860067 -26.620525
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 6.938908 0.3
+position = 30.777065 -2.980546 -25.401299
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 6.982041 0.3
+position = 29.822685 -2.958980 -24.537483
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.485071 0.3
+position = 28.820564 -2.707465 -23.951164
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 8.426896 0.3
+position = 27.921467 -2.236552 -23.428829
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.529584 0.3
+position = 27.311440 -1.685208 -22.619165
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 10.358787 0.3
+position = 27.162401 -1.270607 -21.145086
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 10.632857 0.3
+position = 27.481956 -1.133572 -18.945591
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 10.335081 0.3
+position = 28.059431 -1.282460 -16.398796
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 9.662604 0.3
+position = 28.532101 -1.618698 -14.179109
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 8.832331 0.3
+position = 28.629932 -2.033834 -12.728979
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.997024 0.3
+position = 28.281134 -2.451488 -12.031377
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 7.243091 0.3
+position = 27.584167 -2.828454 -11.691990
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 6.591772 0.3
+position = 26.673029 -3.154114 -11.325109
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 5.999788 0.3
+position = 25.648472 -3.450106 -10.750286
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 5.375803 0.3
+position = 24.575459 -3.762098 -9.975487
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 4.666047 0.3
+position = 23.483812 -4.116977 -9.068855
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.905712 0.3
+position = 22.368597 -4.497144 -8.081730
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.207109 0.3
+position = 21.197485 -4.846446 -7.049049
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.668695 0.3
+position = 19.956924 -5.115653 -6.016614
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.310692 0.3
+position = 18.684805 -5.294654 -5.060297
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.078971 0.3
+position = 17.464611 -5.410514 -4.280415
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.906554 0.3
+position = 16.364399 -5.496723 -3.748910
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.764643 0.3
+position = 15.386139 -5.567678 -3.465470
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.663289 0.3
+position = 14.468216 -5.618355 -3.359361
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.618383 0.3
+position = 13.547455 -5.640808 -3.340364
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.619438 0.3
+position = 12.619821 -5.640281 -3.348455
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.628701 0.3
+position = 11.736856 -5.635650 -3.358302
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.608600 0.3
+position = 10.894237 -5.645700 -3.373136
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.553198 0.3
+position = 9.903749 -5.673401 -3.417743
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.490328 0.3
+position = 8.394305 -5.704836 -3.535686
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.455774 0.3
+position = 6.056018 -5.722113 -3.761012
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.458501 0.3
+position = 2.969695 -5.720749 -4.080190
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.476503 0.3
+position = -0.359182 -5.711749 -4.428277
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.477303 0.3
+position = -3.285671 -5.711349 -4.724889
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.450479 0.3
+position = -5.478581 -5.724761 -4.931282
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.412965 0.3
+position = -6.996262 -5.743518 -5.059805
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.394908 0.3
+position = -8.131159 -5.752546 -5.152425
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.413054 0.3
+position = -9.118298 -5.743473 -5.240407
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.465184 0.3
+position = -10.072523 -5.717408 -5.335683
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.536730 0.3
+position = -11.019223 -5.681635 -5.436364
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.615484 0.3
+position = -11.963209 -5.642258 -5.539067
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.695331 0.3
+position = -12.906934 -5.602335 -5.641360
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.770594 0.3
+position = -13.859189 -5.564703 -5.710081
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.821119 0.3
+position = -14.857296 -5.539441 -5.598506
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.807907 0.3
+position = -15.973207 -5.546046 -5.021907
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.687948 0.3
+position = -17.265875 -5.606026 -3.640335
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.460369 0.3
+position = -18.633434 -5.719815 -1.316164
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.183386 0.3
+position = -19.759560 -5.858307 1.791217
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.955920 0.3
+position = -20.208683 -5.972040 5.284379
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.848760 0.3
+position = -19.781425 -6.025620 8.753233
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.874388 0.3
+position = -18.669651 -6.012806 11.873798
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.993010 0.3
+position = -17.361116 -5.953495 14.415981
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.143153 0.3
+position = -16.198267 -5.878423 16.264549
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.257531 0.3
+position = -15.150298 -5.821234 17.429890
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.272260 0.3
+position = -13.877674 -5.813870 18.032228
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.172234 0.3
+position = -12.122546 -5.863883 18.215672
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.018826 0.3
+position = -9.946617 -5.940587 18.095737
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.936869 0.3
+position = -7.698626 -5.981565 17.758945
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.022304 0.3
+position = -5.726910 -5.938848 17.277027
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.275970 0.3
+position = -4.173290 -5.812015 16.717203
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.609012 0.3
+position = -2.976998 -5.645494 16.141663
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.919295 0.3
+position = -2.011366 -5.490353 15.598421
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.155856 0.3
+position = -1.199058 -5.372072 15.113703
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.321118 0.3
+position = -0.517887 -5.289441 14.692122
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.441279 0.3
+position = 0.034553 -5.229361 14.325535
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.536972 0.3
+position = 0.475943 -5.181514 14.001747
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.620446 0.3
+position = 0.841478 -5.139777 13.705669
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.697544 0.3
+position = 1.167940 -5.101228 13.422766
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.770007 0.3
+position = 1.475150 -5.064996 13.143084
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.835843 0.3
+position = 1.764334 -5.032079 12.861555
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.890185 0.3
+position = 2.028640 -5.004908 12.575266
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.926506 0.3
+position = 2.267556 -4.986747 12.279781
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.936919 0.3
+position = 2.490653 -4.981541 11.963940
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.914527 0.3
+position = 2.747066 -4.992736 11.524035
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.857220 0.3
+position = 3.172993 -5.021390 10.625378
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.768392 0.3
+position = 3.995454 -5.065804 8.689510
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.658138 0.3
+position = 5.410395 -5.120931 5.204929
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.545418 0.3
+position = 7.351208 -5.177291 0.317101
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.458335 0.3
+position = 9.442991 -5.220833 -5.053239
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.426275 0.3
+position = 11.184111 -5.236862 -9.622406
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.462401 0.3
+position = 12.353745 -5.218800 -12.669248
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.559102 0.3
+position = 13.116789 -5.170449 -14.275688
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.693878 0.3
+position = 13.873796 -5.103061 -15.082593
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.844979 0.3
+position = 14.860394 -5.027511 -15.635905
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.996378 0.3
+position = 16.021561 -4.951811 -16.180435
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.136883 0.3
+position = 17.090075 -4.881558 -16.717243
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.257118 0.3
+position = 17.839245 -4.821441 -17.194590
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.348398 0.3
+position = 18.177782 -4.775801 -17.579744
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.405696 0.3
+position = 18.138041 -4.747152 -17.861698
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.438739 0.3
+position = 17.823824 -4.730630 -18.055170
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.476830 0.3
+position = 17.387016 -4.711585 -18.202320
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.559278 0.3
+position = 17.001715 -4.670361 -18.363876
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.691619 0.3
+position = 16.751915 -4.604190 -18.579144
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.822763 0.3
+position = 16.572622 -4.538619 -18.845076
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.858359 0.3
+position = 16.279860 -4.520820 -19.122528
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.737960 0.3
+position = 15.744932 -4.581020 -19.374655
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.482634 0.3
+position = 15.002039 -4.708683 -19.590612
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 3.186099 0.3
+position = 14.230949 -4.856951 -19.783855
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.940414 0.3
+position = 13.606958 -4.979793 -19.972927
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.782026 0.3
+position = 13.191864 -5.058987 -20.167503
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.692736 0.3
+position = 12.936249 -5.103632 -20.368130
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.636144 0.3
+position = 12.755867 -5.131928 -20.571692
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.588844 0.3
+position = 12.596848 -5.155578 -20.776091
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.542282 0.3
+position = 12.439523 -5.178859 -20.980556
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.495715 0.3
+position = 12.282201 -5.202142 -21.185022
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.449150 0.3
+position = 12.124879 -5.225425 -21.389488
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.402584 0.3
+position = 11.967556 -5.248708 -21.593952
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.356019 0.3
+position = 11.810235 -5.271990 -21.798416
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.309460 0.3
+position = 11.652914 -5.295270 -22.002884
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.262892 0.3
+position = 11.495588 -5.318554 -22.207344
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.216333 0.3
+position = 11.338263 -5.341834 -22.411814
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.169771 0.3
+position = 11.180941 -5.365115 -22.616280
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.123202 0.3
+position = 11.023622 -5.388399 -22.820744
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.076640 0.3
+position = 10.866297 -5.411680 -23.025208
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 2.030075 0.3
+position = 10.708978 -5.434963 -23.229671
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.983511 0.3
+position = 10.551652 -5.458245 -23.434135
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.936949 0.3
+position = 10.394326 -5.481526 -23.638603
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.890381 0.3
+position = 10.237007 -5.504809 -23.843065
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.843717 0.3
+position = 10.079445 -5.528141 -24.047468
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.793579 0.3
+position = 9.913206 -5.553211 -24.249630
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.726044 0.3
+position = 9.703680 -5.586978 -24.440582
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.614998 0.3
+position = 9.385788 -5.642501 -24.603441
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.433666 0.3
+position = 8.890586 -5.733167 -24.717758
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 1.185681 0.3
+position = 8.216805 -5.857160 -24.771364
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.914809 0.3
+position = 7.453288 -5.992596 -24.764118
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.689410 0.3
+position = 6.747773 -6.105295 -24.705193
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.552291 0.3
+position = 6.206275 -6.173854 -24.604246
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.501738 0.3
+position = 5.854859 -6.199131 -24.468063
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.500740 0.3
+position = 5.653155 -6.199630 -24.301186
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.513688 0.3
+position = 5.548807 -6.193156 -24.108618
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.522895 0.3
+position = 5.502065 -6.188553 -23.897051
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.526649 0.3
+position = 5.485825 -6.186675 -23.674316
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.527980 0.3
+position = 5.482471 -6.186010 -23.446833
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.528743 0.3
+position = 5.482155 -6.185629 -23.218224
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.529482 0.3
+position = 5.481978 -6.185259 -22.989567
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.530219 0.3
+position = 5.481801 -6.184890 -22.760910
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.530958 0.3
+position = 5.481628 -6.184521 -22.532251
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.531693 0.3
+position = 5.481461 -6.184154 -22.303593
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.532430 0.3
+position = 5.481279 -6.183785 -22.074934
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.533166 0.3
+position = 5.481110 -6.183417 -21.846275
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.533904 0.3
+position = 5.480935 -6.183048 -21.617617
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.534639 0.3
+position = 5.480761 -6.182681 -21.388958
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.535382 0.3
+position = 5.480585 -6.182309 -21.160301
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.536117 0.3
+position = 5.480412 -6.181942 -20.931644
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.536853 0.3
+position = 5.480239 -6.181574 -20.702984
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.537587 0.3
+position = 5.480063 -6.181207 -20.474327
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.538327 0.3
+position = 5.479887 -6.180836 -20.245670
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.539066 0.3
+position = 5.479712 -6.180467 -20.017012
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.539802 0.3
+position = 5.479541 -6.180099 -19.788349
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.540440 0.3
+position = 5.479355 -6.179780 -19.559700
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.539347 0.3
+position = 5.478915 -6.180326 -19.331173
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.531276 0.3
+position = 5.477476 -6.184362 -19.103138
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.507347 0.3
+position = 5.473755 -6.196327 -18.876226
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.460201 0.3
+position = 5.466712 -6.219899 -18.650961
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.392562 0.3
+position = 5.456793 -6.253719 -18.427143
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.318577 0.3
+position = 5.446124 -6.290711 -18.203770
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.257048 0.3
+position = 5.437507 -6.321476 -17.979496
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.218145 0.3
+position = 5.432442 -6.340927 -17.753609
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.200486 0.3
+position = 5.430669 -6.349757 -17.526207
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.195035 0.3
+position = 5.430782 -6.352482 -17.297932
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.194168 0.3
+position = 5.431604 -6.352916 -17.069332
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.194076 0.3
+position = 5.432553 -6.352962 -16.840675
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.193999 0.3
+position = 5.433496 -6.353001 -16.612019
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.193921 0.3
+position = 5.434448 -6.353040 -16.383362
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.193844 0.3
+position = 5.435390 -6.353078 -16.154718
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.193930 0.3
+position = 5.436313 -6.353035 -15.927238
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.194976 0.3
+position = 5.437091 -6.352512 -15.706756
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.198615 0.3
+position = 5.437469 -6.350693 -15.505144
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.206685 0.3
+position = 5.437180 -6.346657 -15.335748
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.218805 0.3
+position = 5.436271 -6.340597 -15.195780
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.231267 0.3
+position = 5.435311 -6.334367 -15.058317
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.238045 0.3
+position = 5.435219 -6.330977 -14.879495
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.235494 0.3
+position = 5.436542 -6.332253 -14.632854
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.224911 0.3
+position = 5.439087 -6.337545 -14.327788
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.211792 0.3
+position = 5.442013 -6.344104 -14.004365
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.201345 0.3
+position = 5.444535 -6.349328 -13.700301
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.195543 0.3
+position = 5.446351 -6.352229 -13.430021
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.193333 0.3
+position = 5.447623 -6.353333 -13.185854
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192779 0.3
+position = 5.448640 -6.353611 -12.953722
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192670 0.3
+position = 5.449593 -6.353665 -12.724838
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192591 0.3
+position = 5.450540 -6.353705 -12.496182
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192511 0.3
+position = 5.451486 -6.353745 -12.267523
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192432 0.3
+position = 5.452438 -6.353784 -12.038863
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192358 0.3
+position = 5.453381 -6.353821 -11.810205
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192273 0.3
+position = 5.454329 -6.353863 -11.581549
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192202 0.3
+position = 5.455274 -6.353899 -11.352892
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192118 0.3
+position = 5.456223 -6.353941 -11.124231
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.192045 0.3
+position = 5.457169 -6.353978 -10.895576
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191960 0.3
+position = 5.458112 -6.354020 -10.666916
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191883 0.3
+position = 5.459062 -6.354059 -10.438259
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191809 0.3
+position = 5.460007 -6.354096 -10.209602
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191732 0.3
+position = 5.460956 -6.354134 -9.980946
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191652 0.3
+position = 5.461903 -6.354174 -9.752287
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191573 0.3
+position = 5.462846 -6.354213 -9.523632
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191498 0.3
+position = 5.463795 -6.354251 -9.294975
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191417 0.3
+position = 5.464745 -6.354292 -9.066316
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191339 0.3
+position = 5.465692 -6.354331 -8.837661
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191260 0.3
+position = 5.466638 -6.354370 -8.609001
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191183 0.3
+position = 5.467584 -6.354408 -8.380347
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191106 0.3
+position = 5.468533 -6.354447 -8.151688
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.191027 0.3
+position = 5.469479 -6.354486 -7.923030
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190951 0.3
+position = 5.470422 -6.354525 -7.694371
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190873 0.3
+position = 5.471369 -6.354564 -7.465716
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190792 0.3
+position = 5.472319 -6.354604 -7.237054
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190713 0.3
+position = 5.473263 -6.354643 -7.008397
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190635 0.3
+position = 5.474212 -6.354682 -6.779742
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190560 0.3
+position = 5.475155 -6.354720 -6.551086
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190482 0.3
+position = 5.476103 -6.354759 -6.322429
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190403 0.3
+position = 5.477050 -6.354798 -6.093774
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190325 0.3
+position = 5.477998 -6.354837 -5.865111
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190242 0.3
+position = 5.478943 -6.354879 -5.636453
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190164 0.3
+position = 5.479893 -6.354918 -5.407792
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190086 0.3
+position = 5.480838 -6.354957 -5.179135
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.190011 0.3
+position = 5.481782 -6.354994 -4.950480
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189929 0.3
+position = 5.482734 -6.355036 -4.721821
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189851 0.3
+position = 5.483678 -6.355074 -4.493161
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189773 0.3
+position = 5.484624 -6.355114 -4.264504
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189696 0.3
+position = 5.485575 -6.355152 -4.035851
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189622 0.3
+position = 5.486519 -6.355189 -3.807194
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189539 0.3
+position = 5.487467 -6.355230 -3.578534
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189462 0.3
+position = 5.488410 -6.355269 -3.349876
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189383 0.3
+position = 5.489360 -6.355309 -3.121217
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189307 0.3
+position = 5.490304 -6.355347 -2.892565
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189227 0.3
+position = 5.491252 -6.355387 -2.663899
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189146 0.3
+position = 5.492200 -6.355427 -2.435245
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.189072 0.3
+position = 5.493142 -6.355464 -2.206588
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188989 0.3
+position = 5.494096 -6.355506 -1.977928
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188911 0.3
+position = 5.495038 -6.355544 -1.749271
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188835 0.3
+position = 5.495987 -6.355583 -1.520615
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188755 0.3
+position = 5.496934 -6.355622 -1.291956
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188678 0.3
+position = 5.497880 -6.355661 -1.063301
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188598 0.3
+position = 5.498829 -6.355701 -0.834644
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188521 0.3
+position = 5.499775 -6.355740 -0.605988
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188445 0.3
+position = 5.500722 -6.355778 -0.377326
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188365 0.3
+position = 5.501671 -6.355817 -0.148667
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188287 0.3
+position = 5.502614 -6.355857 0.079987
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188209 0.3
+position = 5.503560 -6.355895 0.308644
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188132 0.3
+position = 5.504509 -6.355934 0.537305
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.188049 0.3
+position = 5.505455 -6.355976 0.765965
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187971 0.3
+position = 5.506401 -6.356014 0.994619
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187894 0.3
+position = 5.507351 -6.356053 1.223278
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187817 0.3
+position = 5.508297 -6.356092 1.451935
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187740 0.3
+position = 5.509243 -6.356130 1.680593
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187663 0.3
+position = 5.510189 -6.356169 1.909248
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187579 0.3
+position = 5.511137 -6.356211 2.137909
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187502 0.3
+position = 5.512082 -6.356249 2.366564
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187423 0.3
+position = 5.513028 -6.356289 2.595223
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187345 0.3
+position = 5.513978 -6.356327 2.823886
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187268 0.3
+position = 5.514919 -6.356366 3.052540
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187189 0.3
+position = 5.515869 -6.356406 3.281199
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187109 0.3
+position = 5.516819 -6.356445 3.509857
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.187035 0.3
+position = 5.517765 -6.356483 3.738511
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186959 0.3
+position = 5.518709 -6.356520 3.967169
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186875 0.3
+position = 5.519662 -6.356563 4.195830
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186800 0.3
+position = 5.520607 -6.356600 4.424485
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186723 0.3
+position = 5.521552 -6.356638 4.653144
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186645 0.3
+position = 5.522495 -6.356677 4.881801
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186568 0.3
+position = 5.523442 -6.356716 5.110456
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186490 0.3
+position = 5.524389 -6.356755 5.339110
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186407 0.3
+position = 5.525339 -6.356796 5.567773
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186332 0.3
+position = 5.526286 -6.356834 5.796426
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186256 0.3
+position = 5.527233 -6.356872 6.025085
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186176 0.3
+position = 5.528176 -6.356912 6.253742
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186098 0.3
+position = 5.529126 -6.356951 6.482400
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.186021 0.3
+position = 5.530074 -6.356989 6.711057
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185941 0.3
+position = 5.531020 -6.357030 6.939714
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185865 0.3
+position = 5.531964 -6.357068 7.168373
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185786 0.3
+position = 5.532913 -6.357107 7.397032
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185707 0.3
+position = 5.533858 -6.357147 7.625687
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185629 0.3
+position = 5.534807 -6.357185 7.854345
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185553 0.3
+position = 5.535751 -6.357224 8.083004
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185472 0.3
+position = 5.536700 -6.357264 8.311665
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185390 0.3
+position = 5.537645 -6.357305 8.540320
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185316 0.3
+position = 5.538596 -6.357342 8.768982
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185239 0.3
+position = 5.539539 -6.357381 8.997633
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185157 0.3
+position = 5.540487 -6.357421 9.226295
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185080 0.3
+position = 5.541435 -6.357460 9.454951
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.185004 0.3
+position = 5.542382 -6.357498 9.683607
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184925 0.3
+position = 5.543325 -6.357537 9.912259
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184844 0.3
+position = 5.544273 -6.357578 10.140925
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184768 0.3
+position = 5.545219 -6.357616 10.369579
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184691 0.3
+position = 5.546169 -6.357655 10.598242
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184608 0.3
+position = 5.547118 -6.357696 10.826900
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184531 0.3
+position = 5.548061 -6.357735 11.055559
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184454 0.3
+position = 5.549009 -6.357773 11.284214
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184375 0.3
+position = 5.549953 -6.357812 11.512871
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184295 0.3
+position = 5.550903 -6.357853 11.741531
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184215 0.3
+position = 5.551847 -6.357893 11.970184
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184137 0.3
+position = 5.552795 -6.357932 12.198847
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.184062 0.3
+position = 5.553741 -6.357969 12.427502
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183986 0.3
+position = 5.554690 -6.358007 12.656158
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183909 0.3
+position = 5.555636 -6.358046 12.884817
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183829 0.3
+position = 5.556583 -6.358086 13.113474
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183750 0.3
+position = 5.557528 -6.358125 13.342131
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183670 0.3
+position = 5.558475 -6.358165 13.570791
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183596 0.3
+position = 5.559422 -6.358202 13.799448
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183520 0.3
+position = 5.560371 -6.358240 14.028101
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183438 0.3
+position = 5.561317 -6.358281 14.256760
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183360 0.3
+position = 5.562266 -6.358320 14.485418
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183286 0.3
+position = 5.563210 -6.358357 14.714075
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183206 0.3
+position = 5.564155 -6.358397 14.942728
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183130 0.3
+position = 5.565102 -6.358435 15.171385
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.183048 0.3
+position = 5.566051 -6.358476 15.400047
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182969 0.3
+position = 5.566998 -6.358515 15.628712
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182893 0.3
+position = 5.567945 -6.358553 15.857365
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182815 0.3
+position = 5.568891 -6.358593 16.086018
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182732 0.3
+position = 5.569838 -6.358634 16.314676
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182659 0.3
+position = 5.570786 -6.358671 16.543337
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182578 0.3
+position = 5.571732 -6.358711 16.771990
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182497 0.3
+position = 5.572678 -6.358751 17.000652
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182422 0.3
+position = 5.573624 -6.358789 17.229305
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182342 0.3
+position = 5.574574 -6.358829 17.457970
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182267 0.3
+position = 5.575516 -6.358866 17.686659
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182187 0.3
+position = 5.576468 -6.358906 17.916309
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182108 0.3
+position = 5.577440 -6.358946 18.150141
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.182024 0.3
+position = 5.578446 -6.358988 18.394009
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.181936 0.3
+position = 5.579535 -6.359032 18.656368
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.181837 0.3
+position = 5.580744 -6.359082 18.948296
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.181722 0.3
+position = 5.582130 -6.359139 19.283957
+[Pillar]
+name  = "Cube"
+scaling  = 0.3 0.181576 0.3
+position = 5.583843 -6.359212 19.697575

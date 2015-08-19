@@ -1,0 +1,33 @@
+#version 330 core
+
+
+// Light and Material Uniform Variables
+uniform float materialAmbient; // Ambient Term
+uniform float materialDiffuse; // Diffuse Term
+uniform float materialSpecular; // Specular Term
+uniform float materialExponent; // Specular Exponent
+
+uniform vec3 lightColor;
+uniform vec3 lightAttenuation; // x: Constant  y: Linear  z: Quadratic
+
+
+// Inputs
+in vec4 v_color;		 // vertex color: also diffuse color
+
+in vec3 normal;          // Transformed normal in View Space
+in vec3 eyeVector;       // Vector from the vertex to the Camera in View Space
+in vec4 lightVector;     // Vector from the vertex to the Light in View Space
+						 // Length of lightVector is the distance between light and vertex
+						 // if w = 1: Point light, if w = 0: directional light
+
+// Ouput data
+out vec4 color;
+
+
+void main()
+{
+	// Implment Phong Shading based on the parameters above
+	// Remember that directional light don't have attenuation
+	
+	color = v_color;
+}
